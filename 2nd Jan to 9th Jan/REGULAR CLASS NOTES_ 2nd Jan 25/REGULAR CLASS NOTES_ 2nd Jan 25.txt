@@ -1,0 +1,818 @@
+******************************************
+Dt - 2nd Jan 2025  @ 7pm
+FULL STACK DATASCIENCE, AI & GENERATIVE AI
+
+Meeting Id: 2516 275 8831
+Password: 112233
+******************************************
+2nd Jan -->
+=====
+About NareshIT
+About My introduction 
+Scan qr code to join whats app group
+courses name - fsds, genai, prompt engineer
+course syllabus
+student placement offer
+student question & answer
+===
+3rd Jan -->
+===
+Generative AI  & Prompt Engineer also part of full stack datascience course 
+
+this batch has 
+====
+frehser 
+non technical 
+experience 
+mid experience
+leader 
+=====
+
+I divided the classes into 3 part
+	easy 
+	mediuma
+	high 
+=====
+
+Today onwards everday i will start technical last 15 min 
+
+experience 
+	java domain
+	mainfarame
+	sql
+	for you area lso frehser
+	
+you have to learn from scrath
+
+===
+Software we are using for ds, genai, llm mode, proect
+===
+1- vs code 
+2- anaconda (juypter notebook & spyder)
+3- pycharm (if - else) 
+4- google colab (gen ai & llm project)
+====
+5- pyspark ( python + spark) 
+6- mysql db | sqlite db 
+7- github account (commit to the github)
+8- microsoft azur cognitive service (azur ai) 
+9- tableau 
+10- powerbi 
+11- databrick 
+12- hadoop instalation 
+====
+software can be installed everyone.
+free software (open source)
+in organization they have to puchase 
+======
+	
+
+1- who am i ? (refer to my linkedin)
+2- Nareshit (22yr)  + placemt
+3- course syllabus --> 	
+	whatapp group (download & printout syllabut)
+	everyday topics complete tick mark & maintain calender
+4- placement
+	 if you not study -- no compnay hire you 
+	placement drive ( coduct test) 
+	add your number in our placement group
+	any oppourtinty we forward 
+	go and attend immedeialy 
+5- project i will give 
+	resume project -- i will show you project
+	class project
+	technical 
+capstone project == live project (BFSI DOMAIN)
+	live - project has never death 
+		banking 
+		insurance
+		finance 
+		service 
+
+6- technical -- you can direct reachout toe m
+	non tecnical -- number
+
+7- offline lab 
+	online lab 
+	
+8- any one can attend this course
+	no pre requiste
+
+----------
+HOW TO INSTALL VS CODE -->
+----------
+1- GOOGLE
+2- VS CODE
+3- DOWNLOAD & INSATALL VS CODE
+4- PLEASE INSTALL BELOW EXTENSION 
+	AREPL FOR PYTHON
+	autoDocstring - Python Docstring Generato
+	Code Runner
+	GITHUB COPILOT
+	IntelliCode
+	Jupyter
+	Notepad++ keymap
+	Office Viewer(Markdown Editor)
+	PDF Viewer
+	pylance
+	python 
+	
+5- FIle - New Folder - 
+	creat new file
+	
+
+word - .doc | execel - .xlcs | pdf - .pdf
+python - .py
+jupyter notebook -.ipynb 
+
+***** 4th ******
+
+1- Roadmap for the course -- completed 
+2- Live project or capstone project (BFSI DOMAIN)
+3- About certification - done 
+4- what type of jobs you will apply after the course
+5- offline lab support & online lab support
+6- mentor facility  
+7- course time, course duration 
+8- course fee 
+9- when to apply resume for job
+10- what is ai , gen ai, machine learning, deep learning 
+11- q & a
+-----
+6MONTHS ROADMAP PLAN -->
+-----
+
+1- PYTHON ( programing language ) 
+	every concept is the practicle 
+	BASIC PYTHON (WORK WITH NUMBER) 
+		identifier
+		varaibale
+		data type, data structure 
+		arithmetic operator 
+		bitwise operator
+		math module 
+		type casting 
+	ADVANCE PYTHON 
+		condition statement
+		loops 
+		function 
+		functional argument
+		lambda function 
+		recurssion
+		question 
+		multithreading
+		exceptional handling
+		iterator
+		generator 
+	OOPS 
+		class
+		method
+		object
+		inheritence
+		encapsulation 
+		polymorphism
+			duck typing
+			operatro overloading 
+			method overloading
+			method overrding
+
+2- Data analytics & business analytic 
+	NUMPY, 
+	PANDA
+	MATPLOTLIB
+	SEABORN
+	SCIPY
+	business knowledge 
+	
+
+3- EDA 
+	transformer
+	impution technique
+	variable transformation 
+	variable createion 
+	dummy variable 
+
+
+4- SQL -- data stored in database 
+		mysql 
+		sqlite 
+		raw data extraction 
+		python to mysql using data connector
+		
+5- statistic 
+		descriptive stats
+		inferential stat
+		adnvace stat
+		anova framework
+		hypothesis testing
+		p-value 
+		
+6- python + sql + stats + da + math ( we learning all of them )
+	
+	MACHINE LEARNING MODEL 
+		supervised
+			regression 
+			classification 
+			
+		unsupervised
+			clusering
+		reinforcemnt learning 
+			openai -- chatgpt 
+	
+Data processing pipeline 
+model builing pipeline
+model accuracy
+validation 
+testing 
+deployment
+regression modle
+classificatio model 
+clustiering modle 
+		linear regre
+		logistic
+		svm
+		dtr
+		rf
+		nb
+		algo
+
+
+7- AI ( ARTIFICIAL INTELLIGENCE) 
+	NLP ( NATURAL LANGUAGE PROCESSING)
+ text data 
+ embedding algorithm 
+ NLU 
+ NLG
+
+8- DEEP LEARNIN G
+	ANN
+	CNN
+	RNN
+	
+9- GENERARTIVE AI 
+	GANS
+	VQGAN 
+	TRANSFORMER
+	TRANSFORM LEARNING
+10- LLM MODLE
+	OPEN AI
+	GOOGLE
+	META
+	ANTROPIC
+	RAG
+	
+11- PROMPT ENGINEERING
+	
+12- LLM AGENT
+
+13- MLOPS & CICD PIPELIENT
+
+14- AZUR AI
+
+15- TABLEAU 
+
+16- POWERBI 
+
+17- EXCEL (VLOOKUP & DOCUMENATION)
+
+18- RESUME 
+
+19- 1-ON-1 discuss (sun @ 5pm-7pm) 
+
+20- certification 
+
+llm models are 2 types
+	text based model ( user write text - generat text)
+	multimodel ( user write text - llm model image, video)
+
+ 
+2- CAPSTONE PROJECT alway live 
+	BFSI ( BANKING)
+		RISK ANLAYSIS 
+	100 customer 
+	
+
+3- certification 
+		course complition certificat from nit 
+	out of county -- please reach out to me 1-on-1 
+
+		
+full stack java developer 
+		frontend 
+		backedn 
+full stack. net developer
+	frontend 
+	backend
+	
+	
+calm down
+practise
+listen 
+code 
+apply job 
+1yr shift job
+
+1yr - 3lpa
+2yr - 5lpa
+3yr 10lpa
+4yr - 12lpa
+5yr 20lpa 
+dont shipt for next 5 yr 
+10yr -- 
+
+paid course
+
+without recording - 21k
+with recording - 27k 
+
+we will provide google classroom acces
+we wil take your gmail id 
+we will send email to your gmail 
+
+***** 6th ******
+
+offline & online team 
+if any question i will take your quest at the last of the classes 
+	
+
+experience employee
+	different domain -- java, .net, aws, azur, db, golan
+	fresher to datascience 
+do not connect your experience to datasciecen 
+	unlear & relearn 
+	
+	
+fresher -->
+	happily listen code, apply job 
+	maintain notes, practicle
+	
+non technical -->
+	non technical == technical 
+	non technica -- little spend more time
+	
+ this is demo going on 
+ 
+ in this demo same topiec i will repeat again becuase new student new topc 
+ 
+ i humble request dont be panic 
+ 
+ demo session -- new student i have to take care of everyone 
+ 
+ --
+
+many student ask lot of question 
+	if i am unable to answer your question -- angry 
+might not immediet but i unmute you we speack together 
+
+class alsow import
+	dont be stick to your quesiton 
+question cover throughrt out the sssion 
+
+i share my linked in profile 
+
+
+my introduction 
+
+full stack datascience & generative ai
+
+1- full stack datascience 
+ BACKEDN & FRONTEND 
+
+==========
+
+student who joined for the 1st time -- i will take last 15 min
+studetn who joined for 2days -- 
+
+i will start today python programming 
+
+last 2 day 3dayr recordin i will share you 
+
+ 
+transtion from non tech - technica -->
+---
+data analyst & busines analyst 
+datascietist 
+gen ai modle 
+llm modle
+agaenti AI 
+==== 
+1- set my clear goal 
+2- python program 
+3- data analy & business analysis
+4- apply job from complete data analys (1st apply) 
+5- eda 
+6- statistic 
+7- ml 
+8- ai(nlp)
+9- dl 
+10- nn 
+11- gen ai
+12- promput enginee
+13- mlops & cicd
+14- azur ai 
+15- tablea, powerbi 
+16- resume prep 
+17- job market
+18- apply min 25 jobs (give up hear) 
+	even though you get offer dont stop to apply job 
+19- 1 offer 
+
+
+200% yes -- placement 
+	i will give you project, resume,
+	you will interview call
+	if you dont 
+
+wrigh way of representation your project is key or gate
+way to clear interview 
+
+	
+1- my introduction ( linkedin profile any personal suggesion)
+2- what are the steps to follow non technica - technical transation 
+3- what app qr code
+4- i will share course syllabus to refer
+5- 2-3days recording
+6- basic python code 
+7- question 
+
+15 min - 20 min -- codeing
+backup class
+share some of the slides
+
+
+online team please try to underst many student raise your 
+you have question 
+i will take your at last 30 min -- unmut speak with you 
+
+proect code-- bug 
+
+error - bug 
+debug - fix the error 
+
+
+non technica -- please attend offline 
+---
+python installation -->
+---
+
+vs code -- 
+anaconda software installation 
+
+
+explain agein how to install vs code 
+anaconda prmpt 
+
+windows
+mac
+linux 
+first expert on window or mach
+
+
+
+while we workin with number 
+
+1. worked with number with opertor
+2. working with text 
+	python today onwards never ever ever say text -- string 
+	python text -- ' ' || '' '' | ''' ''' 
+
+''' ''' -- multiline comments 
+' ' | "" -- single line comments 
+
+PYTHON FROM SCRATH LEVEL -->
+----
+VARIABLE DECLARATATION 
+
+interpreter --
+	project 12 line of code
+	
+compilier --
+	entire code run at once 
+--
+LAPTOP CONFIGURATION -->
+--
+listen 
+execute
+speak  
+----
+stop hear -->
+
+if you wnat to buy new laptop
+	8gb ram 
+	intel core 
+	512 ssd processor 
+	>i5 processor 
+	w 10 or w 11
+	1tb 
+----cpu or gpu
+
+if you alrayd have laptop 
+	dont buy any new lapto 
+	get job then buy new laptop
+	if you laptop is slow -- talk to me ( linkin) 
+
+anyquestion unable to answer -- linkedin 
+	i can speak with you now 
+	
+	
+--
+googel colab
+number & text = string
+multiline -- \n 
+how to transit non tech to tech 
+go home and install all the software 
+join our whats app communit to get the recording video & inst\
+3 video enouvht
+downlad the course syllabus 
+type of error 
+ide
+compiler vs interpreter 
+what laptop configuraion 
+non technica please attend thorough offline moe
+project ( customre regresiton, object detction) demo i showed 
+q & a 
+
+TYPE OF ERROR -->
+----
+COMPILE TIME ERROR - user mis to give ,, ',
+ syntactical error or syntax error 
+
+
+LOGICAL ERROR 
+
+RUN TIME ERROR 
+
+\n - new line 
+
+***** 7th ******
+
+Demo classes are going on 
+anaconda installation & vs code installation we are completed
+
+student who joined for the 1st time dont worry
+also small introduce i will review all the classes at last 
+
+-- student who joined new i will take the backup classes 
+-- everyone please listen first, 
+-- you are listen the class 90 min 
+---
+I will give the brief summary and final summary today -->
+---
+1- about nareshit & about my introduce 
+2- course syllabus
+3- roadmap of the course
+4- placement 
+5- certification 
+6- how to convert non technica - technical 
+7- offline lab ( 3rd floor)
+8- online lab ( 9am-6pm)
+	i will share zoom link & pwd 
+		you join the link and start work with them 
+9- technical questio you can ask me 
+	non tehnical question you can ask to the adming
+		nagababu prem - onliene , offline -- ajay
+
+10- about google classroom \
+	i will share everyclassnotes, project, from today onwards 
+11- software installation 
+	anaconda software installation 
+	vs code software installion alon with extension 
+12- live project wouldbe coverd 
+	25 + project 
+	vishnu -- 25+ project on your resume 
+	4 capston project 
+13- every ml algoriyt i will give 1 project 
+	i already showed project details
+14- i talked lot of the learn i answer your query
+	i do miss to answer 
+15 - i will share complete recording from day1 so that you 
+	didnt miss anything 
+16- right minded guy, able to work on practilce please 
+	starty journey with me 
+	
+====== these topics wer are complete 
+
+
+to build every thinkg we need to python 
+
+1- anaocnda software installation 
+	the one who are not installed i will share the link please installed 
+
+2- vs code along with extension installation 
+	if you not installed i will reexplain this 
+3- google colab 
+	yesterday we work small code in colab 
+
+	learner who missed it please wathc 
+=== python from now on ====
+
+
+
+learner who dont know any prorgan 
+lear with python 
+
+-- python thats good 
+-- expert at python ( please wait for som
+	please help other 
+-- 
+
+today we will start 
+
+father of python -- Guido van Rosam
+	
+complete monty python's flying circus'' - broadcasted in BBC channel
+
+java relea - 1995 but python 1989
+
+as ml, ai, -- python is 
+
+
+c program -- set of keyword
+java pr - set of keyword
+python -- set of keyword
+ 35 keyword in pytho 
+if you learn 35 keywords - python are completed 
+
+
+syntax -- we need to walk left side 
+
+python variabel 
+
+variaabnle_name = value 
+
+a = 5
+
+a - variable 
+5 value 
+
+python function alwasy ends with () 
+variable doesnot require () 
+
+family()
+
+variable vs function 
+
+family('dad', 'mom', 'son', 'daughter')
+family1(dad, mom)
+family2()
+
+argument == parameter 
+
+family function with 4 argument or 4 parameter
+
+**** 8th *****
+
+Theory + Practicle 
+
+
+datascince 
+	data + science 
+data
+	structure data = supervised learning = labeled data
+	unstructure = unsupervised learnring = unlableed data 
+	
+full stack datasceince with generative ai 
+
+=======================
+full stack (backend + frontend) 
+ +
+ datascience ( data + science) 
+ + 
+ generative ai 
+	llm model 
+	prompt engineer
+===================
+
+type of data 
+
+
+structure data --> sql db ( mysql, postgre, oracle, sqlite) 
+unstructe datab --> nosql db ( mongodb, cassandrar, hbase)
+llm model -- vector db 
+	pincone
+	qdrant
+	milvus
+	faiss
+	
+data are increase very 
+few 
+
+ai -- user neet to train the data 
+	excel, image, video, audio , tect
+gen ai -- user non need to train
+	open ai 
+	google 
+	meth 
+	
+user we just need to write the prompt 
+
+genear ai --> nare
+
+
+python introduce
+
+- pthon number 
+- python text ( string
+- 
+
+--
+rules to define python variable -->
+--
+1- variable never start with digit 
+2- never mention keyword (reserved word) as variable
+3- variable case senisitive 
+4- variable only _ is allowed but no special character 
+5- variabel has no lenght limit 	
+
+
+keyword = reserved word 
+student who joined for 1st time i will take back up classes for your every 10 min 
+
+**** 9th *****
+----
+AGENDA -->
+---
+1- print statement  -- I will share the class document 
+2- student offer letter  -- Today 1 student 
+	2020 - 2025 (history of placement student offer) 
+3- introduce data type today -- Done 
+4- Task 
+5- google classroom 
+6- how to download classnotes from google classroom
+7- back up classes 
+8- q & answer
+=====
+
+complex  = a + bj 
+
+a - real part
+b - imaginary part 
+j -- sqre root of -1
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+******
+Full Stack Data Science & AI @ 7:00 PM (IST) by Mr.Prakash senapati
+https://forms.gle/Btcnf4nAAiNMcFiQ7
+
+
+******* ADMIN DETAILS *******
+Online admin number 
+Mr.Naga babu--9063042468
+Mr. Prem -- 7997997901
+
+Offline Admin 
+Mr.ajay--7997997808
+======================
+
+***** ONLINE MENTOR ******
+virtual lab  --> http://vlabs.nareshit.net/
+
+Gourav -->
+https://nareshit.zoom.us/j/87855910357 
+(Passcode: 112233)
+
+Chandan --> 
+https://nareshit.zoom.us/j/86433658207 || 
+(Passcode-112233)
+
+
+
+*****
+whatsapp community -->
+https://drive.google.com/drive/u/0/folders/13zwznY7L-0pe0lUdWk0GYc8kybUNoQnA
+=======
+Full Stack DATA SCIENCE & AI @ 7:00 PM!
+by Mr. Prakash Senapathi.
+
+👉 Backup Videos:
+Day-1: https://youtu.be/t5Aqgd1BZsM
+Day-2: https://youtu.be/W1pZt2lLKlM
+Day-3: https://youtu.be/WP6gPYJBy94
+Day-4: https://youtu.be/ZnlGfOFn9Pc
+Day-5: https://youtu.be/27X5iOFHCLU
+Day-6: https://youtu.be/r6CxbTEslq8
+
+
+📂Drive Link: https://t.ly/usQgG
+👨‍💻 Software Installation: https://t.ly/YoRAA
+
+
+
+ 
+
+
+

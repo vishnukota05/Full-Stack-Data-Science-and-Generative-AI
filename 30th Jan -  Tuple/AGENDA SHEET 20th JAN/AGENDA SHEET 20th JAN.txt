@@ -1,0 +1,649 @@
+^^^^^^^^^^FULL STACK DATASCIENCE & GENERATIVE AI @ 20th JAN
+	Meeting Id: 2516 275 8831 & Password: 112233
+	Demo1 ( 2nd - 18th jan) & Demo2 (20th - 24th)
+
+^^^^^^^^^ 20th Jan 25
+
+As per voting 80-90 % are non techincal
+even thought you are experience but not experience into data science fields
+if you are non technical attend the session through offline mode
+------
+Gen ai & Prompting & AI agent -- phd
+Ai & Ml -- master
+Math, Stats - +2 degree
+Python - Scooling
+------
+1- my introduction 
+2- market growth 
+3- roadmap of the course 
+4- placement offer with live pictur, proof
+5- tools to learn datascience
+6- what are main topic coverd under this course
+7- who can learn this course 
+
+^^^^^^^^^ 21st Jan 
+
+today we are at 2nd day of full stack ds , ai & generative ai programme 
+1st day what are the topics covered -- quick review 
+stock martket analysis -- uniform distribution 
+leet code -- uniform distribution 
+
+-- tomorrow onwards you will have bring your laptop join the session 
+-- laptop configruation 
+	8gb ram  |  	4gb ram -- no problem | 	you can work using google colab 
+	ram -- 512 gb  | 	intel core processor fast process | 	win 10 or 11 
+-- new laptop (( 8gb | 	512ssdb | 	i5 or i7 | 	intel | gpu laptop ))
+
+mac -- if you have | 	96% window user | mac -- refer number 
+
+Data --
+	number 
+	image
+	video 
+	speech 
+	streaming 
+	data comes from live cameras
+		
+work with these data + algorithm = data scientist 
+----
+Fee structure -->
+without recording -- 21k INR
+with recording- 27k INR 
+recording isave 
+
+join the class
+atend regular
+active listerner in the class
+complete project
+github & show the project in linkedin 
+resume
+apply job market
+keep apply job 
+fail 3 - 4time 
+cler 1st round
+2nd
+fail 
+10th time offer
+	6month 
+	6yrs 
+communiation -- problem is you
+ 
+=== Steps to start working in google colab
+	1- google
+	2- google colab
+	3- new notebook 
+	
+==== 1st code 
+1 -- task : work with numbers 
+2 -- task : work with text 
+	programin world text -- technically we called as string
+	string -- ' ' || " " || ''' ''' 
+
+^^^^^^^^^ 22nd Jan 
+
+C, C++ , JAVA, .NET, ORACL, SQL, PHP old programing language
+
+2019 - ML 
+2020 - AI 
+2021 - AI, ML 
+2022, 2023 - CHATGPT 
+2024 - GENERATIVEAI, LLM 
+2025- AGENTIC AI 
+2026 - 
+
+JAVA -- INTERVIEW -- 20 YR HE WILL TAKE
+AGENTI AI -- WHO TAKE YOURINTERVIEW ( LEARNING LIKE YOU) 
+
+AMAZON -- WEBSITE -- 24/7 & 365 DAYS  ( production server)
+
+CAPSTONE PROJECT -->
+	PROJECT WHIHC HAS NEVER DIE
+BANKING ( metnion project on these resume in these domain)
+INSURANCE
+HEALTHCARE 
+MANUFACTU
+SERVICE 
+Education 
+
+Course certification
+About lab
+about google classroom
+why to choose datascience 
+Types of data
+Demo session we are completed
+
+^^^^^^^^^ 23rd jan
+
+Interview question ?? 
+Project -- How to extract the data ? 
+	database 
+	api ( application program interface)
+	website
+	standing cameras 
+	drones 
+	sensor 
+---
+about database -->
+---
+dataabse which store strucute data -- sql db 
+	mysql, oracle, postgres 
+database which store unstructure data - nosql db
+	mongodb, Hbase , cassandar, etc
+text will embeed vector form -- vector db ( LLM ) large language model 
+	pinecone
+	milvus
+	qdrant 
+	chromadb
+sql db vd no sql db vs vector db & yesterday we are completed demo 
+==== python introduction 
+1- why python ? what is the power of python 
+		if you guys install vscode, pycharm , anaconda -- you can practise using it 
+2- student dint install please use google colab ( goolge software)
+		no need to by heart any thing in programming language
+3- father of python - guidoe van rosam
+4- python name came from -- monty python flying circus 
+5- python is very powerfull tool for -- bigdata, ds, gen ai, llm model
+		azur cloude -- python, db - python ( python is everything)
+6- python was released on 1989 (feb 20th 1991)
+7- Java released on 1995 but no one use python till 2015 
+		( ml -- borns + python || ai - python very library or framework 
+8- platform independetly 
+		no need to write separae code for win, mac, linux
+		just write 1 code execute every platform 
+
+
+Need to master on 3 category & python into 3 section 
+	1- basic python
+	2- advanced python
+	3- oops python 
+	4- dsa I will explain (optional) 
+python : -- 4 space ( indentation) 
+-------
+organization -- company wil buy python for credential 
+python cons -- python can not perform in mobile application like android
+
+--- what is anaconda & why anaconda application is realy used for 
+Anaconda is an open source[9][10] data science and artificial intelligence
+distribution platform for Python and R programming languages. Developed by Anaconda,
+
+pelase install software -- to start work regurlar session 
+Software Installation: https://t.ly/YoRAA
+---
+IDE ( INTEGRATED DEVELOPMENT ENVIRONEMENT)
+--	
+user or developer write the code, run the code, read the code, fix the error , 
+when you write you will get bug (error)
+developer to debug 
+---
+famous ide --> vs code | jupyter notebook | spyder | pycharm | google colab
+=== python interpreter & compiler 
+interpreter -- execute the code line by line
+compilier -- executure entire code at once 
+----
+1- BASIC PYTHON -->
+---
+demo session completed
+pythn introductioon completed
+---
+python variable -->
+--
+syntax -->
+variable namne = value | a = 5 
+a is the varaible store 5 int value 
+b = 5.5 
+b  
+--------------
+python if you write any code try to write the 1st letter of the concept 
+
+1 - what is variable 
+	variable also called as object also called as identifier which helps to assign a value 
+2 - how to assigne variable 
+	variable name = value  but (value != variable)
+3- rules to define python variable 
+	 1- variable == case sensitive 
+	 2- variable cannot start with digit but end with digit 
+	 3- variable no special characteer is allowed except _ #
+	 4- keyword or reserved word cannot be variable 
+	 5- variable has no lenght limit 
+	 
+-- DEMO COMPLETED
+-- PYTHON VARIABLE 
+-- DATATYEP & TYPECASTING 
+
+ONLINE TEAM NON-TECHNICAL ATTEND SESSION IN OFFLINE MODEL
+variabale declaration == object declration  == identider declaration 
+------
+when you want to print only 1 variable -- print() not required 
+when you print more variable -- print() 
+by defaul every day use print()
+-------
+Function 2 type & function always endwith() 	
+	inbuild() -- print()
+	userdefine() 
+	
+^^^^^^^^^ 24th
+
+Agenda for today session -->
+	Data type 
+	Type casting
+	Github createion 
+	Linkedin createion 
+	
+-- complex data type
+		a + bj  ( a - real part | b - imaginary part | j - squre root of -1)
+		only j letter is small or capital 
+------
+tricks to remeber -->
+---
+: --> bydefaul 4 spaces ( indentation)
+fun always ends with ()
+everytime we call with dot(.)
+---
+python data type we are completed
+==============
+type casting -->
+	from other datatype to int & float
+	from other datatypd to complex, str, bool
+============
+int -- data type 
+fam() -- fam function with 0 argument 
+family( dad, mom) -- dad, mom -- argument or parameter 
+family1( d, m, s, d) -- 4 parameter 
+---------
+llm model --
+	llama3 model trained with 405B parameter 
+		you cannot build llm model in cpu 
+------------
+house( labour, daily wage, bricks, sand, cement, etc ------) 
+True -- system consider as True only 
+
+when we assigne true with opter +-*/ -- system understand is \
+TRUE - 1 & FALSE - 0
+
+^^^^^ 27th
+----
+steps to downlad classnote from google classrrom
+----
+
+dear team i will answer all of your question at last 
+how to upload & download classnotes from google classrrom 
+
+1- download winzip or winrar file from google 
+2- google classroom 
+3- just click on file which i shared 
+4- right top corner 3 dots 
+5- click on that - open in new window
+6- download
+7- rightclick - extract - all the file
+8- just check the file extension 
+	 .xlcs
+	 .doc
+	 .pdf
+	 .ipynb ( interactive python notebook)
+	 .py ( python file) 
+	 
+.ipynb & .py you need to open using jupyter file 
+
+9- still if you have any question no worry i will explain later or 
+	mentor can take your screen acces they can guide you 
+	
+PYTHON DATASTRUCTURE 
+	inbuld ds 
+	user defind ds 
+
+data type --> we need to define only 1 value 
+data structure --> we have declare more then 1 value 
+	a = 5
+
+matrix - collection of datastructure
+datastrucute - collection of data types
+
+python inbuild ds -->
+	list 
+	tuple
+	set
+	dict
+
+append() - add the element or value at the end of the list 
+	append only 1 argument user can pass
+		
+
+ list insid list -- nested list
+ for inside for loop -- nested for 
+ 
+inbuild or built in --> list is inbuild datastructure 
+---
+string indexing-->
+---
+forward index --> left - right 
+backward index --> right - left 
+
+slicing -->
+	forward slicing
+	backward slicing
+	step slicing
+	
+FORWARD SLICING -->
+---
+[2 : 7] - left index 2nd index : 7th right indexing 
+			2nd index : ( n-1) formula right index ( 7-1)
+	OUTPUT -- 2nd - 6th 
+--	
+BACKWARD SLICING :
+[-7 : -1] -- LEFT INDEX - 7 : -1-1 
+	-7, -6, -5, -4, -3, -2 
+	
+slicing -->
+
+matrix --> n = n-1 everytime this formula should by apply to right index
+---
+step slicing -->
+---
+[1:10:3]
+print the element from 1st index to 10th (n-1) 
+	3 should be step count
+	
+empyty slice -- all element
+
+
+append() - add the element at last
+copy() - copy list
+reverse() - reverse the element
+remove() -- remove 1st element 
+string indexg ( 2 type
+	
+	forward index  
+	backward index 
+
+slcing
+	: - entire element
+	forward slice
+	backward slice
+	step slice 
+
+^^^^^^ 28th 
+when ever you upload your notes in classroom make sure upload pdf 
+---
+Basic python 
+---
+string vs raw string
+
+ml, nlp
+when we read any file from the specif folder location we must need to use 
+	r before the location ( raw string) 
+	i will explain this clarity on pandas , session indepth)
+	
+string
+raw string (r) - detect the path location 
+
+_ == it store previous value or previos results
+	where to apply in future ( open cv model 
+
+s[1:] --> print the element from 1st indext till last 
+s[:7] --> print the element from 1st indext to n-1 (6th index)
+
+i wnat you to change the string 'fine' to 'dine'
+
+string is immutable -- not chagaable 
+
+no constant concept in python . we have only variable 
+---
+PYTHON BASIC OPERATORS -->
+---
+ARITHMETIC  ( + - * / // % **) 
+ASSIGNMENT ( =, +=, -=, *=, /=, //==)
+RELATIONAL (we are using this operator for comparing)
+			> , < , >=, <=, ==, !=
+
+LOGICAL ( and , or, not)
+UNARY ( ONLY 1 OPERATOR)  - OPERATOR 
+	
+and operator ==>
+	1 and 1 = 1 (rest of them are 0)
+
+or operator ==>
+	0 or 0 = 0 (rest of them are 1
+--------
+NUMBER SYSTEM CONVERTION -->
+--------
+binary number system (base value 2) 
+	0 & 1 
+octal number system (base value 8) 
+	0 -- 7
+decimal number system (base value 10) 
+	0-9
+hexa decimal number system ( base value 16)
+	0-9 , a-10, b-11, c-12, d-13, e-14, f-15
+==
+Number system we can use in every system -- ip addres we can use this number system
+
+^^^^^^ 29th 
+---
+Agenda for today session -->
+---
+1- Number system - Completed  
+2- List data structure 
+3- Deepseek llm model -- Intro (server is down) 
+		way batter then chatgpt 
+4- No coding experin (1yr back) after he placed as jr software engineer 
+5- Home task 
+--
+
+how to swap 2 varible in python 
+
+a, b = 5, 6
+
+a = 6
+b = 5
+
+
+xor -- xclusive or 
+
+swap the 2 variable
+	1- using temp (3rd variable)
+	2- using operator
+	3- can you swap using bit number ( use print(0b101| ob 110)
+	4- using XOR ( i will explain tomorrow)
+	5- a, b = b, a 
+
+slicing & indexing concept in string datatype
+slicing & indexing oncept we undersin list datastrucute
+slicing & indexing we will used matrix
+slicing & index conpcet we will machine leanring 
+
+
+l[::-1] -- print the element revers wiser
+l[::-2] -- print every -2 step 
+
+pop & remove 
+
+# remove -- we need to define value or element 
+	value or element wise 
+# pop - index wise remove 
+
+----
+Completed in just 7 days -->
+----
+demo we completed
+basic python 
+data type 
+identifier or variable
+type casting
+operators 
+Indexing, slicing
+
+
+append() - append the element or value at last 
+remove() - remove value from the list 
+pop() - pop the element or value by index ( bydefault is at last)
+	pop(1) - 1st index value will elimiated 
+copy() - copy the list 
+insert() - insert the value before index 
+	makes ure insert required bydefault 2 argument
+		1st arg - index position 
+		2nd arg - value 
+		value will add before index 
+clear() - clear the elmenet from the list 
+	del the use del keyword 
+reverse() - reverse the list 
+
+list is mutable (changaable) hashable 
+
+
+my humble request to 7pm fsds , genai batch any quest your brain send you on practilce 
+	any error you encounter 
+	
+	stop thinking about it , erro come do not ask immediatly 
+	fix the bug ask next day 
+	goi home when tyr -- self learning 
+
+deepseek llm model 
+
+27th jan 25
+
+llm models
+
+chatgpt -- openai ( microsoft)
+	not a free platform ( 
+google - google  ( 
+llama - mets 
+
+openAI -- compnay used it for crednetial 
+
+deepseek - open source 
+	no issur hallucination 
+	
+chat gpt ( hrithi)- 
+	bank balance 
+	skin col 
+HALLUCINATION 
+
+^^^^^^^ 30th 
+
+List sorting - completed 
+Bitwise operator  - completed 
+Python code using cli (command line interpreter) - cli 
+Tuple - completed 
+
+document of llm & generative ai -- please download 
+python __ __ ( method)
+
+polymorphism -- i will cover all magic method 
+I just today introduce you so you dont dig down dont bang your head 
+
+===
+offline team -- I do see that 50% student are practicsin g
+online team -- not working
+===
+after the session please work atlease one time 
+== 
+
+you cannot survive 
+enumerate when we work on computer vison project 
+
+how to environement variable in python  -->
+---
+BITWISE OPERATOR 
+---
+
+COMPLEMENT -- ~0 - 1 | ~1 = 0
+	~36 = -37
+AND = & completd 
+OR = | (completed)
+NOT = (complete)
+XOR = (completed)
+
+LEFT SHIFT << -- gain the bit 
+RIGHIT SHIFT >> -- loose the bit 
+
+package - collection of module  
+module - collection of function 
+function -- 
+	user define function -- assign def keyword 
+	
+-- print(), len(), sqrt(), len(), max(), min()
+	inbuild func  -- print(), len(), sqrt(), len(), max(), min()
+
+math is module 
+	lot of function 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+^^^^^^^^^^ADMIN DETAILS ==>
+Online admin number 
+		- Mr.Naga babu-- 9063042468
+		- Mr. Prem -- 7997997901
+Offline Admin 
+		- Mr.ajay--7997997808
+
+
+^^^^^^^^^^ONLINE MENTOR ==>
+	- Virtual lab  --> http://vlabs.nareshit.net/
+	- Narendra --> https://nareshit.zoom.us/j/87855910357  || (Passcode: 112233)
+	- Ravindar -->  https://nareshit.zoom.us/j/86433658207 ||  Passcode-112233)
+OFFLINE METOR (3rd Floor) ==>
+
+
+^^^^^^^^^^Enrolledment Google Form ==>
+https://forms.gle/Btcnf4nAAiNMcFiQ7
+
+
+^^^^^^ 👉 Backup Video:
+20th Jan: https://youtu.be/Jj_NztzwPDI
+21st Jan: https://youtu.be/9MsbFRdIa8M
+22nd Jan:  https://youtu.be/qhioofX8GiA
+23rd Jan: https://youtu.be/Ex_UZsClO70
+24th Jan: (Recording link)
+https://nareshit.webex.com/nareshit/ldr.php?RCID=2a978c989dff039b7743fd77ac47127b
+Password:  3PbBBaM?
+27th Jan: (Recording link)
+https://nareshitechnologies.webex.com/nareshitechnologies/ldr.php?RCID=c38e64cb9f10c5e13d5f790d345c6e9a
+Password:  aJHyWf$8
+
+
+
+📂 Google Drive Link: https://t.ly/usQgG
+‍💻 Software Installation: https://t.ly/YoRAA
+👨‍💻 python identifier -- https://www.youtube.com/watch?v=7HEke2aEND0
+
+
