@@ -1,0 +1,5344 @@
+^^^^^^^^^^FULL STACK DATASCIENCE & GENERATIVE AI @ 20th JAN
+	Meeting Id: 2516 275 8831 & Password: 112233
+	Demo1 ( 2nd - 18th jan) & Demo2 (20th - 24th)
+
+^^^^^^^^^ 20th Jan 25
+
+As per voting 80-90 % are non techincal
+even thought you are experience but not experience into data science fields
+if you are non technical attend the session through offline mode
+------
+Gen ai & Prompting & AI agent -- phd
+Ai & Ml -- master
+Math, Stats - +2 degree
+Python - Scooling
+------
+1- my introduction 
+2- market growth 
+3- roadmap of the course 
+4- placement offer with live pictur, proof
+5- tools to learn datascience
+6- what are main topic coverd under this course
+7- who can learn this course 
+
+^^^^^^^^^ 21st Jan 
+
+today we are at 2nd day of full stack ds , ai & generative ai programme 
+1st day what are the topics covered -- quick review 
+stock martket analysis -- uniform distribution 
+leet code -- uniform distribution 
+
+-- tomorrow onwards you will have bring your laptop join the session 
+-- laptop configruation 
+	8gb ram  |  	4gb ram -- no problem | 	you can work using google colab 
+	ram -- 512 gb  | 	intel core processor fast process | 	win 10 or 11 
+-- new laptop (( 8gb | 	512ssdb | 	i5 or i7 | 	intel | gpu laptop ))
+
+mac -- if you have | 	96% window user | mac -- refer number 
+
+Data --
+	number 
+	image
+	video 
+	speech 
+	streaming 
+	data comes from live cameras
+		
+work with these data + algorithm = data scientist 
+----
+Fee structure -->
+without recording -- 21k INR
+with recording- 27k INR 
+recording isave 
+
+join the class
+atend regular
+active listerner in the class
+complete project
+github & show the project in linkedin 
+resume
+apply job market
+keep apply job 
+fail 3 - 4time 
+cler 1st round
+2nd
+fail 
+10th time offer
+	6month 
+	6yrs 
+communiation -- problem is you
+ 
+=== Steps to start working in google colab
+	1- google
+	2- google colab
+	3- new notebook 
+	
+==== 1st code 
+1 -- task : work with numbers 
+2 -- task : work with text 
+	programin world text -- technically we called as string
+	string -- ' ' || " " || ''' ''' 
+
+^^^^^^^^^ 22nd Jan 
+
+C, C++ , JAVA, .NET, ORACL, SQL, PHP old programing language
+
+2019 - ML 
+2020 - AI 
+2021 - AI, ML 
+2022, 2023 - CHATGPT 
+2024 - GENERATIVEAI, LLM 
+2025- AGENTIC AI 
+2026 - 
+
+JAVA -- INTERVIEW -- 20 YR HE WILL TAKE
+AGENTI AI -- WHO TAKE YOURINTERVIEW ( LEARNING LIKE YOU) 
+
+AMAZON -- WEBSITE -- 24/7 & 365 DAYS  ( production server)
+
+CAPSTONE PROJECT -->
+	PROJECT WHIHC HAS NEVER DIE
+BANKING ( metnion project on these resume in these domain)
+INSURANCE
+HEALTHCARE 
+MANUFACTU
+SERVICE 
+Education 
+
+Course certification
+About lab
+about google classroom
+why to choose datascience 
+Types of data
+Demo session we are completed
+
+^^^^^^^^^ 23rd jan
+
+Interview question ?? 
+Project -- How to extract the data ? 
+	database 
+	api ( application program interface)
+	website
+	standing cameras 
+	drones 
+	sensor 
+---
+about database -->
+---
+dataabse which store strucute data -- sql db 
+	mysql, oracle, postgres 
+database which store unstructure data - nosql db
+	mongodb, Hbase , cassandar, etc
+text will embeed vector form -- vector db ( LLM ) large language model 
+	pinecone
+	milvus
+	qdrant 
+	chromadb
+sql db vd no sql db vs vector db & yesterday we are completed demo 
+==== python introduction 
+1- why python ? what is the power of python 
+		if you guys install vscode, pycharm , anaconda -- you can practise using it 
+2- student dint install please use google colab ( goolge software)
+		no need to by heart any thing in programming language
+3- father of python - guidoe van rosam
+4- python name came from -- monty python flying circus 
+5- python is very powerfull tool for -- bigdata, ds, gen ai, llm model
+		azur cloude -- python, db - python ( python is everything)
+6- python was released on 1989 (feb 20th 1991)
+7- Java released on 1995 but no one use python till 2015 
+		( ml -- borns + python || ai - python very library or framework 
+8- platform independetly 
+		no need to write separae code for win, mac, linux
+		just write 1 code execute every platform 
+
+
+Need to master on 3 category & python into 3 section 
+	1- basic python
+	2- advanced python
+	3- oops python 
+	4- dsa I will explain (optional) 
+python : -- 4 space ( indentation) 
+-------
+organization -- company wil buy python for credential 
+python cons -- python can not perform in mobile application like android
+
+--- what is anaconda & why anaconda application is realy used for 
+Anaconda is an open source[9][10] data science and artificial intelligence
+distribution platform for Python and R programming languages. Developed by Anaconda,
+
+pelase install software -- to start work regurlar session 
+Software Installation: https://t.ly/YoRAA
+---
+IDE ( INTEGRATED DEVELOPMENT ENVIRONEMENT)
+--	
+user or developer write the code, run the code, read the code, fix the error , 
+when you write you will get bug (error)
+developer to debug 
+---
+famous ide --> vs code | jupyter notebook | spyder | pycharm | google colab
+=== python interpreter & compiler 
+interpreter -- execute the code line by line
+compilier -- executure entire code at once 
+----
+1- BASIC PYTHON -->
+---
+demo session completed
+pythn introductioon completed
+---
+python variable -->
+--
+syntax -->
+variable namne = value | a = 5 
+a is the varaible store 5 int value 
+b = 5.5 
+b  
+--------------
+python if you write any code try to write the 1st letter of the concept 
+
+1 - what is variable 
+	variable also called as object also called as identifier which helps to assign a value 
+2 - how to assigne variable 
+	variable name = value  but (value != variable)
+3- rules to define python variable 
+	 1- variable == case sensitive 
+	 2- variable cannot start with digit but end with digit 
+	 3- variable no special characteer is allowed except _ #
+	 4- keyword or reserved word cannot be variable 
+	 5- variable has no lenght limit 
+	 
+-- DEMO COMPLETED
+-- PYTHON VARIABLE 
+-- DATATYEP & TYPECASTING 
+
+ONLINE TEAM NON-TECHNICAL ATTEND SESSION IN OFFLINE MODEL
+variabale declaration == object declration  == identider declaration 
+------
+when you want to print only 1 variable -- print() not required 
+when you print more variable -- print() 
+by defaul every day use print()
+-------
+Function 2 type & function always endwith() 	
+	inbuild() -- print()
+	userdefine() 
+	
+^^^^^^^^^ 24th
+
+Agenda for today session -->
+	Data type 
+	Type casting
+	Github createion 
+	Linkedin createion 
+	
+-- complex data type
+		a + bj  ( a - real part | b - imaginary part | j - squre root of -1)
+		only j letter is small or capital 
+------
+tricks to remeber -->
+---
+: --> bydefaul 4 spaces ( indentation)
+fun always ends with ()
+everytime we call with dot(.)
+---
+python data type we are completed
+==============
+type casting -->
+	from other datatype to int & float
+	from other datatypd to complex, str, bool
+============
+int -- data type 
+fam() -- fam function with 0 argument 
+family( dad, mom) -- dad, mom -- argument or parameter 
+family1( d, m, s, d) -- 4 parameter 
+---------
+llm model --
+	llama3 model trained with 405B parameter 
+		you cannot build llm model in cpu 
+------------
+house( labour, daily wage, bricks, sand, cement, etc ------) 
+True -- system consider as True only 
+
+when we assigne true with opter +-*/ -- system understand is \
+TRUE - 1 & FALSE - 0
+
+^^^^^ 27th
+----
+steps to downlad classnote from google classrrom
+----
+
+dear team i will answer all of your question at last 
+how to upload & download classnotes from google classrrom 
+
+1- download winzip or winrar file from google 
+2- google classroom 
+3- just click on file which i shared 
+4- right top corner 3 dots 
+5- click on that - open in new window
+6- download
+7- rightclick - extract - all the file
+8- just check the file extension 
+	 .xlcs
+	 .doc
+	 .pdf
+	 .ipynb ( interactive python notebook)
+	 .py ( python file) 
+	 
+.ipynb & .py you need to open using jupyter file 
+
+9- still if you have any question no worry i will explain later or 
+	mentor can take your screen acces they can guide you 
+	
+PYTHON DATASTRUCTURE 
+	inbuld ds 
+	user defind ds 
+
+data type --> we need to define only 1 value 
+data structure --> we have declare more then 1 value 
+	a = 5
+
+matrix - collection of datastructure
+datastrucute - collection of data types
+
+python inbuild ds -->
+	list 
+	tuple
+	set
+	dict
+
+append() - add the element or value at the end of the list 
+	append only 1 argument user can pass
+		
+
+ list insid list -- nested list
+ for inside for loop -- nested for 
+ 
+inbuild or built in --> list is inbuild datastructure 
+---
+string indexing-->
+---
+forward index --> left - right 
+backward index --> right - left 
+
+slicing -->
+	forward slicing
+	backward slicing
+	step slicing
+	
+FORWARD SLICING -->
+---
+[2 : 7] - left index 2nd index : 7th right indexing 
+			2nd index : ( n-1) formula right index ( 7-1)
+	OUTPUT -- 2nd - 6th 
+--	
+BACKWARD SLICING :
+[-7 : -1] -- LEFT INDEX - 7 : -1-1 
+	-7, -6, -5, -4, -3, -2 
+	
+slicing -->
+
+matrix --> n = n-1 everytime this formula should by apply to right index
+---
+step slicing -->
+---
+[1:10:3]
+print the element from 1st index to 10th (n-1) 
+	3 should be step count
+	
+empyty slice -- all element
+
+
+append() - add the element at last
+copy() - copy list
+reverse() - reverse the element
+remove() -- remove 1st element 
+string indexg ( 2 type
+	
+	forward index  
+	backward index 
+
+slcing
+	: - entire element
+	forward slice
+	backward slice
+	step slice 
+
+^^^^^^ 28th 
+when ever you upload your notes in classroom make sure upload pdf 
+---
+Basic python 
+---
+string vs raw string
+
+ml, nlp
+when we read any file from the specif folder location we must need to use 
+	r before the location ( raw string) 
+	i will explain this clarity on pandas , session indepth)
+	
+string
+raw string (r) - detect the path location 
+
+_ == it store previous value or previos results
+	where to apply in future ( open cv model 
+
+s[1:] --> print the element from 1st indext till last 
+s[:7] --> print the element from 1st indext to n-1 (6th index)
+
+i wnat you to change the string 'fine' to 'dine'
+
+string is immutable -- not chagaable 
+
+no constant concept in python . we have only variable 
+---
+PYTHON BASIC OPERATORS -->
+---
+ARITHMETIC  ( + - * / // % **) 
+ASSIGNMENT ( =, +=, -=, *=, /=, //==)
+RELATIONAL (we are using this operator for comparing)
+			> , < , >=, <=, ==, !=
+
+LOGICAL ( and , or, not)
+UNARY ( ONLY 1 OPERATOR)  - OPERATOR 
+	
+and operator ==>
+	1 and 1 = 1 (rest of them are 0)
+
+or operator ==>
+	0 or 0 = 0 (rest of them are 1
+--------
+NUMBER SYSTEM CONVERTION -->
+--------
+binary number system (base value 2) 
+	0 & 1 
+octal number system (base value 8) 
+	0 -- 7
+decimal number system (base value 10) 
+	0-9
+hexa decimal number system ( base value 16)
+	0-9 , a-10, b-11, c-12, d-13, e-14, f-15
+==
+Number system we can use in every system -- ip addres we can use this number system
+
+^^^^^^ 29th 
+---
+Agenda for today session -->
+---
+1- Number system - Completed  
+2- List data structure 
+3- Deepseek llm model -- Intro (server is down) 
+		way batter then chatgpt 
+4- No coding experin (1yr back) after he placed as jr software engineer 
+5- Home task 
+--
+
+how to swap 2 varible in python 
+
+a, b = 5, 6
+
+a = 6
+b = 5
+
+
+xor -- xclusive or 
+
+swap the 2 variable
+	1- using temp (3rd variable)
+	2- using operator
+	3- can you swap using bit number ( use print(0b101| ob 110)
+	4- using XOR ( i will explain tomorrow)
+	5- a, b = b, a 
+
+slicing & indexing concept in string datatype
+slicing & indexing oncept we undersin list datastrucute
+slicing & indexing we will used matrix
+slicing & index conpcet we will machine leanring 
+
+
+l[::-1] -- print the element revers wiser
+l[::-2] -- print every -2 step 
+
+pop & remove 
+
+# remove -- we need to define value or element 
+	value or element wise 
+# pop - index wise remove 
+
+----
+Completed in just 7 days -->
+----
+demo we completed
+basic python 
+data type 
+identifier or variable
+type casting
+operators 
+Indexing, slicing
+
+
+append() - append the element or value at last 
+remove() - remove value from the list 
+pop() - pop the element or value by index ( bydefault is at last)
+	pop(1) - 1st index value will elimiated 
+copy() - copy the list 
+insert() - insert the value before index 
+	makes ure insert required bydefault 2 argument
+		1st arg - index position 
+		2nd arg - value 
+		value will add before index 
+clear() - clear the elmenet from the list 
+	del the use del keyword 
+reverse() - reverse the list 
+
+list is mutable (changaable) hashable 
+
+
+my humble request to 7pm fsds , genai batch any quest your brain send you on practilce 
+	any error you encounter 
+	
+	stop thinking about it , erro come do not ask immediatly 
+	fix the bug ask next day 
+	goi home when tyr -- self learning 
+
+deepseek llm model 
+
+27th jan 25
+
+llm models
+
+chatgpt -- openai ( microsoft)
+	not a free platform ( 
+google - google  ( 
+llama - mets 
+
+openAI -- compnay used it for crednetial 
+
+deepseek - open source 
+	no issur hallucination 
+	
+chat gpt ( hrithi)- 
+	bank balance 
+	skin col 
+HALLUCINATION 
+
+^^^^^^^ 30th 
+
+List sorting - completed 
+Bitwise operator  - completed 
+Python code using cli (command line interpreter) - cli 
+Tuple - completed 
+
+document of llm & generative ai -- please download 
+python __ __ ( method)
+
+polymorphism -- i will cover all magic method 
+I just today introduce you so you dont dig down dont bang your head 
+
+===
+offline team -- I do see that 50% student are practicsin g
+online team -- not working
+===
+after the session please work atlease one time 
+== 
+
+you cannot survive 
+enumerate when we work on computer vison project 
+
+how to environement variable in python  -->
+---
+BITWISE OPERATOR 
+---
+
+COMPLEMENT -- ~0 - 1 | ~1 = 0
+	~36 = -37
+AND = & completd 
+OR = | (completed)
+NOT = (complete)
+XOR = (completed)
+
+LEFT SHIFT << -- gain the bit 
+RIGHIT SHIFT >> -- loose the bit 
+
+package - collection of module  
+module - collection of function 
+function -- 
+	user define function -- assign def keyword 
+	
+-- print(), len(), sqrt(), len(), max(), min()
+	inbuild func  -- print(), len(), sqrt(), len(), max(), min()
+
+math is module 
+	lot of function 
+	
+^^^^^ 31st 
+1- Basic python 
+	input()
+
+2- 4pm batch student got placed with 87lpa in canada 
+3- 10 days 4 offer 
+4- I want this bathc to be like 4pm batch 
+5- few tricks i will update to you 
+6- test (whatever we completed today )
+7- Networking platform ( linkedin, medium blog)
+
+expereince 
+	home loan 
+	car lona
+	scholl loan 
+
+frsher 
+	data science 
+	
+import math 
+math.
+math. 
+math\. 
+
+import math as m 
+m.
+
+from math import
+
+from sklearn. tree import decission tree cla 
+
+import 
+from 
+as 
+
+import math as m 
+from math import * 
+	math inbuild function will fetch automatr
+
+select * from tablena: 
+	
+* means -- all function 
+round() & ceil() 
+
+round(2.5) 
+		2.3 
+> .5, .6, 
+
+	
+input() - inbuild function  
+	bydefault input() -- understand string datatypes
+
+eval() -- handles expression 
+print() -- 
+type()
+
+
+BASIC PYTHON -->
+	DATA TYPES
+	OPERATOR 
+	BITWISE OPERATOR 
+	TYPE CASTING 
+	VARIABLE IDENTIFICATION 
+	FROM , IMPORT , AS 
+	MATH FUNCTION 
+	INPUT()
+	DATASTRCUTE -- LIST  & TUPLE 
+
+
+in this input() iq if you face if & else dont work 
+
+ 3hr -- 
+
+
+i hire 8 mentory to take care of you 
+i am taking 1:30 hr 
+i will deliver nice 
+shut down youtube fjust
+
+github : how to post code in git 
+linkedin -- powerfull \	
+medium blog -- 
+	
+more student give up 
+
+4th tak 
+
+3rd task 
+
+1, 2, 3 -- giveup 
+
+4, , 3rd, 2nd, 1st -- approach (
+
+set is ordere element for same data type 
+but in mix data type it in orders
+
+who ask more quest they dont practic
+if you practi( brianwill work)
+immedietly problem solve 
+
+pop() -- if user dont pass any argument delate the element randonly 
+pop(2) - error cuz indexing is not allowed in set 
+remove() -- remove the elment if value is member of the variable 
+remove() -- will through error if value is not member of set 
+discard() -- never thrught you bug 
+	if element is not member never give you bug
+if element is member then it will remove 
+
+non technical -- mindset 
+
+non technical team not understadn please talk to me 
+	online team ask me afte the class 
+you practice first -- no question 
+
+never compare with any one 
+
+google | chatgpt  | deepseek 
+
+6:30pm -- 7pm we will take test
+
+^^^^^^ 1st
+I will share all the question and answer later
+thank you for your test
+can i sheduelt for 30 min like 
+
+best is conducted to check your knowledge no need to impress your friend
+
+add() | copy() | clear() | pop() | remove()   |
+ discard()
+	membership 
+--
+set operation -->
+--
+Intersection -- user has to pass only 1 argument ( wro
+
+UNION() | 
+INTERSECTION & 
+DIFFERENCE -
+symmetric difference 
+
+SUPERSET  (dad)
+SUBSET (son)
+DISJOINT ( neighbour) 
+
+==== oops
+inheritence 
+SUPERCLASS ( father)
+SUBCLASS (son) 
+-----
+DICTIONARY -->
+----
+keys:values (pair)
+most prioriry goes to keys rather values 
+
+active listner 
+happy learning 
+3hr -- ( 10hr) per day  
+
+recording ( non technical)
+dict is mutable 
+
+======
+ASSIGNED TASK -->
+======
+Task:1- Class Explanation Code 
+Task:2- Python variable
+T3- Print() 
+T4 - Identifier & Datatype
+T5- Basic code, Operator, String, variable"
+T6 - List class Assignment
+T7 - Basic python, Python operator
+T8- List class explanation (class notes )
+T9- List shared pdf documentation "
+T10- Tuple class explanation & Tuple documentation
+T11-Basic Python code till INPUT() 
+T12- Set & Dict class explanation & Assigned documentation
+====
+CODING/INTERVIEW QUESTION --
+====
+Iq:1- How to Collect the data for project?
+Iq:2- GitHub Creation"
+Iq:3- 97 interview question for variable & data types
+Iq:4- 50 interview question INPUT()
+
+^^^^^^^ 3rd 
+range() - we have to pass max 3 argument or 3 parameter 
+
+1st index - starting
+2nd index - end index (n-1) is applicable
+3rd index - step index 
+
+basic python 
+data types
+type casting 
+type conversion 
+inbuild datastructure 
+
+==== we completed 
+---
+NUMPY ==>
+---
+array == tables = rows * columns
+non technical we called this excel sheet 
+excel sheet --- rows * columns 
+techncal ( datasets) 
+	
+array -->
+	1d array
+	2d array
+	3d arrya
+	nd array 
+
+NUMPY is ther very very very powerfull library for 
+	business analyst, data analyst, python developer, datascientist 
+	
+	
+NUMPY PACKAGE | NUMPY LIBRARY | NUMPY TOOLS | NUMPY FRAMEWORK 
+	= mathmetics + data structure + statistical function + linear algebrar 
+
+list vs array
+numpy is the library which handle arrary 
+
+data --
+	number
+	image
+	text 
+	audio 
+	
+anaconda in your system -- numpy is inbuild ( you no need to install the library once again)
+
+upgrading the version ( upgradatioon  )
+degrading the version ( downgrateion ) 
+
+1.26.3 ==> 1.26.4 
+1.26.0 ==> downgrdation 
+	
+parameter tunning
+hyperparameter tunning 
+
+windo 10 ( parameter tunning)
+
+remove wind 10
+upload w 11 ) hyperpeara
+
+ml, dl -- PARAMETER, HYPERPARAMET 
+LLM MODEL -- hyperparameter name will change to FINETUNE 
+
+parameter ( inbuild model) 
+hyperparameter (user change inbuild parameter )
+finetune ( finetune llm) 
+	
+
+
+paramter 
+
+house(bricks, sand, labor, water, floor)  1bhk ( 5 parat)
+3bhk ( 15 paramet)
+
+llama  ( 5million parameter) 
+llma 3.2  ( 451 bilion param)
+
+that why we called as LLM ( LARGE LANGUAG MODEL)
+
+we cannot develop with cpu)
+
+we need to build GPU -- NVIDIA ( GPU) 
+
+2014 -- 100 MILLION -- 1YR 
+2025 -- 100 MILLION - 12 HR 
+
+np.arange()
+np.zeros()
+np.ones()
+np.random.rand() -- generatre random number assing by the user 
+
+rand() & randint() 
+
+^^^^^^ 4th 
+
+.reshape() -- 
+a[1:4] - entire row itesm 
+a[1,4] -- specic value or element of assigned raw
+
+
+select * from 
+
+* -- all 
+numpy has 217 inbuild function 
+
+from numpy import * == all 217 functon it called 
+
+numpy module create research 
+can i build my own module 
+
+module s
+	inbuild module
+	user define module 
+				i will explain later
+				
+import * -- without 
+import numpy as np ( it will work) 
+----
+.Reshaping-- 3 format
+---
+order - c (print element using c-type indexing)
+order - a ( print arbitray)
+order - f (print fortran) 
+
+print the speciif row from the matrix
+print specific column from the matrix
+how to implement :, indexing from the matrix 
+
+machine learning ( try to split the dataset)  
+	
+machin elearning predictio model 
+	python  -->	
+	eda
+	stats 
+	dataanalyt
+	raw data
+	clean data 
+	transformer
+	iomputation 
+	missing value treament
+	pipeline 
+	regression model  - 
+
+When i am speak you practise some existing code 
+you have to listen to me stop pracitise
+you list 0- confusion gnot 
+come attend offline 
+
+=== Cannot be learning this course without practise
+	   Many experience emply only give up 
+
+^^^^^^^^^ 5th 
+
+practicse from descending order
+14, 13, 12, -- you are active everyday 
+
+-- when you transition from non technical to technical it will take tough 
+	thats doesnt mean that you cant work
+
+-- Just give time , pateience, calm down
+-- Try pate to understad (2time, 3time ) fix the bug 
+=====
+AGENDA -->
+---
+NUMPY + IMAGE 
+NUMPY + PIL ( PYTHON IMAGEING LIBRARY) 
+
+String vs Raw String 
+
+1. Array Creation Functions
+2. Array Manipulation Functions
+3. Mathematical Functions
+4. Statistical Functions
+5. Linear Algebra Functions
+6. Random Sampling Functions
+7. Boolean & Logical Functions
+8. Set Operations
+9. Array Attribute Functions
+10. Other Functions
+======
+NUMPY --> ML , DL, NN, GENERATI AI , LLM,
+======
+Project-1 :
+	Image analysis using NUMPY + MATPLOTLIB + PIL 
+
+-- NUMPY -- ND ARRAY 
+-- MATPLOTLIB -- VISUALIZATION 
+-- PIL -- PYTHON IMAGES LIBRARY
+
+image -- (1 - 255) pixel 
+
+0 -- black color 
+255 - dark color 
+===
+light red 
+dark red 
+
+who ever mac user please 
+
+numpy + matploltib + pil
+ dimenshion 
+  heiht * width * 3d ( rgb)
+  
+dear onlein when you got error you rather little liste try to fix it 
+
+https://matplotlib.org/stable/users/explain/colors/colormaps.html
+
+how to load image
+	introduce to matplotlib 
+	introduce to pil 
+how image converte to array 
+
+PROJECT-1 : IMAGE TO ARRAY CONVERSION USING NP, PIL, PLT 
+
+^^^^^^ 6th
+
+you need to complete everything in one day 
+I will give more documentation 
+
+--------
+Sigma Rule (24hr) -->
+--------
+family managment
+time management 
+skill managment 
+money managent 
+file managment 
+==== 
+Project:2 -->  IPL data analysis using NUMPY + MATPLOTLIB 
+
+story telling -->
+===
+Client - ESPN , STAR SPORTS 
+use case -- they have dataset ipl cricket team dataset 
+7pm batch - dataanlyst 
+company - NIT 
+
+CLINET -- NIT ( 
+PROBLEM STATEMENT --
+		PLEASE ANALYST THE DATA AND FIND THE TRENDS, PATTERN, INSIGHT OF THE DATASET)
+NIT - if you analyst the data theny nit manager and you talk to the client 
+
+based on your analyst if the client is satified busines will increate
+salry will increa, promotion increate 
+you got new client ( more hiring ) 
+========
+
+1- the import functin numpy i explain in the classes 
+2- numpy all function document i shared 
+3- easy if you have any question on numpy function ( connect to the mentor)
+4- not require to teach like kids by every function 
+5- math 1000table ( 30 tbale) but you make 1000 multication 
+6- numpy what important things thats good enough
+7- i will give another document , 4hr do interview, 
+8- we will project in numpy + plt + panda + seaborn 
+
+
+the one who analyse historical data & find insight, trends, pattern 
+	is called data anlayst using tools called sql, python, eda, excel, libra, table, power bi 
+
+we have 10yr historical data 
+
+
+OFFLINE -- many of the student attend online 
+
+we import the dataset
+print the matrix 
+---
+DATA ANALYSS PART -->
+---
+
+
+TIPS -->
+--
+
+if any day if you not feel well sometime you divert to the class 
+-- once review the class 
+-- dont take recoding ( classnotes, )
+-- before joined please review review what are topic i covered
+-- review that it
+-- dont i didnt able to complete 
+-- 6 monh 1yr ( 6mont - 4-5 yr experin) 
+
+nontechnica -- recording (5k)
+	skill magnet money 
+==========
+run for money money will run 
+run for job you never get job 
+if you hunger for learning, learn new skill ( money & job ) magnet 
+===========
+
+^^^^^^^^ 7th
+
+ linestyle or ls: {'-', '--', '-.', ':', '') 
+ 
+**Markers**
+
+=============   ===============================
+character       description
+=============   ===============================
+``'.'``         point marker
+``','``         pixel marker
+``'o'``         circle marker
+``'v'``         triangle_down marker
+``'^'``         triangle_up marker
+``'<'``         triangle_left marker
+``'>'``         triangle_right marker
+``'1'``         tri_down marker
+``'2'``         tri_up marker
+``'3'``         tri_left marker
+``'4'``         tri_right marker
+``'8'``         octagon marker
+``'s'``         square marker
+``'p'``         pentagon marker
+``'P'``         plus (filled) marker
+``'*'``         star marker
+``'h'``         hexagon1 marker
+``'H'``         hexagon2 marker
+``'+'``         plus marker
+``'x'``         x marker
+``'X'``         x (filled) marker
+``'D'``         diamond marker
+``'d'``         thin_diamond marker
+``'|'``         vline marker
+``'_'``         hline marker
+=============   ===============================
+
+**Line Styles**
+
+=============    ===============================
+character        description
+=============    ===============================
+``'-'``          solid line style
+``'--'``         dashed line style
+``'-.'``         dash-dot line style
+``':'``          dotted line style
+=============    ===============================
+
+Example format strings::
+
+    'b'    # blue markers with default shape
+    'or'   # red circles
+    '-g'   # green solid line
+    '--'   # dashed line with default color
+    '^k:'  # black triangle_up markers connected by a dotted line
+
+**Colors**
+
+The supported color abbreviations are the single letter codes
+
+=============    ===============================
+character        color
+=============    ===============================
+``'b'``          blue
+``'g'``          green
+``'r'``          red
+``'c'``          cyan
+``'m'``          magenta
+``'y'``          yellow
+``'k'``          black
+``'w'``          white
+=============    ===============================
+
+plt.rcParams['figure.figsize'] = 7,3 
+
+	7- width, 3 height 
+
+when we add extra parameter we some change in the graph 
+	
+xticks - x axis
+yticks- yaxis 
+
+Share the dataset in classroom just copy everything then paste again
+Rerun all the done.
+
+ms - marker size 
+
+plt.legend ()
+	utomatic detection of elements to be shown in the legend
+	
+whenever you mention legend then labels must be required.
+
+bbox_anchor 
+
+
+when you merge all the players info so graph so clean and good
+thats why we introduce BI (BUSINESS INTELLIGENCE)
+
+python -- you need to clean the raw data 
+
+clean the raw data -- feed to table
+big data pyhon is slow to create interactive graph. thats why every BI tools
+
+HOW numpy + matplotlib to plot nice graphs 
+1st visualization project 
+
+server -->
+	5L btech csc 
+	
+SERVER-- SYSTES WHICH RUNS 24?7 365 DAYS 
+server -- collection of databases 
+server will install in physicall room ( permissin is not )
+data store in database 
+
+cloud -- there is no physical room is required
+data store in datacenter 
+AZUR 
+AMAZON
+GCP
+SNOWFLAKE 
+
+cloud VS server 
+
+databricks -- DBFS ( which is very powerfull)
+server 2 type
+	application server (990) work with application server 
+	production server  - every websit connected to production server (10 )
+	
+Do not touch it ( never take acces ) 
+
+1000 emply are workin g
+
+non tehcnical how to studyu
+
+-- completed (type & complete)
+-- tomorr dont watc the code type & finish ( 2days)  
+-- 100
+ 
+===== NUMPY WE ARE COMPLETE
+
+
+
+ml, ai, nlp project we will import numpy this is mandatoyr
+
+text to array 
+image to array
+vidoe to arry 
+
+geneartative ai we dont use numpy ( pytorch
+
+numpy -- convert to array
+pytoch -- torch + python ( tensors) 
+
+^^^^^^^^^ 7th 
+ipl data analysis project we are completed
+
+^^^^^^^^ 12th 
+NUMPY 
+	documenta
+
+we done good amount of practicle
+=====	
+		PANDAS 
+		
+sunday -- 
+
+infosys -- 
+
+student ( less time very high topic)
+
+firing -- good ( student can unders)
+
+DATA ANALYSIS LIBRARY 
+	NUMPY -- done 
+	PANDAS
+	MATPLOTLIB
+	SEABORN
+	SCIPY
+
+EDA NEW LIBRARY -->
+	every project ( ml, ai, gen ai, llm ) we will implment numpy 
+
+pandas --> datastructure 
+	data analysis s& manipulation tool 
+	
+
+RAW DATA vs CLEAN DATA 
+
+excel sheet == dataset 
+column name = attributes = features
+
+raw data == missing value in dataset
+clean data == no missing value in the daaset
+database == 
+
+DATA CLEANING == DATA CLENASING 
+
+dataset == number or text 
+
+number = numerical data 
+text = categorical data 
+
+dataset == number & categorical data 
+dataset are availbale == database 
+
+shape( dimension)
+
+NUMPY 
+vs 
+PANDAS 
+
+.shape
+.read_csv
+.columns
+.dtypes
+.info
+.isnull
+.isnull().sum()
+
+^^^^^^^^^ 13th 
+
+please tune your mindset 
+change your thought proces
+be a good speaker and try 
+i wont skip any topic 
+
+non technical student -- by listen everything they give up 
+
+pleas stay with me tile 120-130 session every you understnad or not understand 
+
+few session you feel very interseint
+few session you feel cnat understa 
+
+brain -- 2 side ( happy, sad) -- any question feel free to talk no worry
+
+
+full crowd 
+25% crowd 
+
+you ddint practkce , easy give up 
+
+
+World there is one and only course where you get job in 6m onth with less code or transition 
+	data science
+	data anlayst
+	gen ai 
+	python 
+jave , .ntet 
+	Mindeset ( never give up ) 
+
+assignem 1 task use case 
+	reae the use case tomore
+1week 
+==== next 5% of the use case 
+AGENDA -->
+---
+Environment variable 
+pandas + matplotlib -- project 
+
+why to create enviroment variable 
+
+if any user purchase new laptop
+cmd -- python -- automatically -- playstore will open -- please instal python 
+try to check -- it will work 
+
+still if it not works -- then we need to create environment calls
+
+- STEPS TO SET UP EXECUTE PYTHON IN SYSTEM CMD (TO CREATE ENVIRONMENT VARIABLE)
+-----
+- Open cmd # python (You will get error when you execute 1st time)
+search with environment variable - system variable:
+   (C:\Users\kdata\AppData\Local\Microsoft\WindowsApps)
+restart the cmd & type python in cmd it will work now
+
+If any user are using mac please make proper documents for you and it help other 
+99% user window 
+
+--- team please download the dataset 
+country gdp analysis 
+
+=== 8 memb(1 earning ) ( econom of individual down)
+== 8member (7member earngin) 
+
+country GDP depend on every family  
+---
+Project -- country gdp analysis
+----
+.describe ( descriptive statistics) -- bydefaul it print numerical data 
+can we 
+
+7pm (what ever question you have in your brain ) next clases 
+	give patience 
+list ( ask )
+---
+descriptive statsistic -->
+
+^^^^^^^^^^^ 14th 
+
+axis-1 == column
+axis-0 == rows 
+
+195 records
+
+can you pull out the country which below less internet < 2
+
+bpl ( below poverty line) 
+apl ( above poverty line)
+
+python is object orinted 
+in our project 
+
+df
+df_numerical
+df_categorica
+filter 
+filter2 
+==
+MATPLOTLIB -- VISUALIZATION 
+SEABORN -- STATISTIC VISUZALIZATION ( ADVANCED PLOT)
+PANDAS 
+===
+PLOT THE GRAPH USING 1 VARIABLE -- univarite analysis 
+
+outlier will implact all machine learning algorithm 
+
+what is outlier ?
+in statistic outlier is the datapoints which is very far from other datapoints
+
+how to detect outlier ? 
+by graphs ( boxplot) 
+
+what you do if you detect outlier ?
+
+how to adjust outlier 
+which ml algorith adjust these outlier ? 
+
+column names = attribute == variabal e= feature == dimension 
+
+excel sheet = dataset = 10 attribute
+
+8 attrinte ( dimension reduction )
+12 attribute == dimenaion incremenb
+
+^^^^^ 15th 
+
+KAGGLE -- is the platform 
+experience datascientist, fresher, data anlytics, business analytcis, python,
+across the globe ( india, chain, us, uk ) -- every one need to access to the kaggle reposiratoyr 
+
+kaggle.com -- apply compition , 
+
+Today we will practics1 dataset relavant to pandas from kaggle.com 
+	
+IMDB -- database (internation movie data base)
+	
+
+kaggle.com ( supervised learning & unsupervised 
+	dataset + code 
+uci.com ( supervised learning & unsupervised learning)
+	only dataset
+huggingface.com ( unsupervised learning, reinforcemtn, llm model)
+	dataset + code for llm model 
+
+PROJECT-4 : KAGGLE INTRODUCTION & imdb movie rating analysis 
+	https://www.kaggle.com/code/harunshimanto/pandas-with-data-science-ai
+
+Steps to work in jupyter notebook , vs code -->
+===
+1- kaggle registration 
+2- share the kaggle link
+3- copy & Past the link in browser
+4- databse - IMDB analysin using pandas 
+5- please click the link which shared by me
+6- after click - select the movielens 20m dataset - download
+7- please extract - 6 csv files
+8- go to the link again after download all the csv file
+9- Rating.csv, Movies.csv, Tags.csv 
+
+data anlayst will happend in excel also they why do you use python ? 
+
+live project == capstone projec
+projectrs which has no dead
+
+make sure in your resume you have live project
+
+^^^^^^^ 17th 
+
+20 days only ( 8task) & 3 project 
+many student does not understand 
+6month -- 5yr experience 
+theory is ist possible 
+compnay if you work ( 9hr) 
+	9hr report share to the client -- client will pay you 
+
+3000 leared attended intervew
+
+5 ( my studetn is hafiz mohammad)
+7k 
+
+Learners introduction link -->
+https://docs.google.com/spreadsheets/d/1qOhMsJOwjIBFGgIfctdEbSI2AMjajNp2SsJr7ytqqs8/edit?usp=sharing
+
+
+10 days  ( 17th - 28th feb)
+	5:45pm - 6:45pm
+
+if you have any question -- work -- any thing( discuss me) 
+I went offline lab ( 4people)
+show ( planning is very very important)
+
+many student are give up very easy becuas e-- they dont listen properly and dont working the practicle
+concentration + practise + resume prep + more project + interview more attned + flunk fail the interview + just 1st round  == ( 1st step of succese)
+
+after that 3 interview -- offer 
+increase your 
+
+every one kaggle.com( college, company, class, after class ) 
+	friend ( guide), chatgpt, deepseek 
+
+NUMPY -- very good practilce
+pandas -- we complete ( gdp analysis, imdb movie rating)
+matplotlibe -- visualzzaiton incomplete without plt & sns
+
+data analyst ( you musst )
+
+no need to import any dataset for this project 
+
+get current figure (.gcf)
+get current axis(.gca)
+
+do i need to remember all the code --
+
+orgnaization ( no body know anything) -- copy google, kaggle
+
+no need to remember any code 
+present of mind, smart ( how to get code , concept ) 
+
+google -- 90% come to road 
+
+
+plot -- you can plot only 1 graph as output
+.subplot -- you will more then 1 graph ( easy way 
+
+linear vs non-linear 
+	linear -- bydefault is degree 1
+	non linear -- degree is > 1 == non linear graph 
+
+how to plot linear graph vs non linear graph
+
+P:4 --> complete matplotlib project in 1 file 
+
+===
+any organization if you work 
+
+date, address, time == very importa any domain 
+
+while you do datacleaning -- how to clean the data 
+
+TASK - 
+python.split() clean the address, date, time 
+--- 
+2 records 3 columens
+1L recors 100 column ( loops)
+
+pycharm 
+
+
+=== EDA  ( EXPLARATORY DATA ANALYSIS)
+Foundation for machine learning 
+
+ml model 
+	python 
+	stat
+	eda
+	pd, plt, sns, np
+	tkinter
+	streamlit
+	flask 
+	sql 
+ml model future prediction
+alwaye refer documentation 
+
+Streamlit is an open-source Python framework for data scientists and 
+AI/ML engineers to deliver interactive data apps – in only a few lines of code.
+
+----
+Review -->
+-----
+1- Discussed about concentration & how employ working in organization
+2- complete matplotlib project 1 file
+3- stramlit testing ( frontend testing) refer github
+4- python split
+		every complate every project ( data, time, addre) 
+	write a python ceo 
+5- many student online they dont practise ( just attendn ) ask quesiton immediately 
+6- online mentor please reach out to them 
+7- please guys just change mind stage , thought process 
+
+^^^^^^^ 18th 
+
+7pm batch if some student you complete, ml, ai before 
+	please ping me ( i dont want you to apply job after 6 month)
+
+I want you apply jobs immeditly
+
+=====eda ( explaratory data analysis)
+
+EDA - foundation for machine learning 
+
+EDA TECHNIQUE -->
+--
+1- variable identification 
+2- univarite analysis
+3- bivariate analysis 
+4- outlier treatment
+5- missing value treatment 
+6- imputation technique
+7- variable creatstion 
+
+covert raw - clean data -- graphs - build ml model - test ml more - deploy - maintain - retrain - automization 
+
+ARCHITECTURE TO BUILD PREDICTIVE MODEL 
+EDA TECHNIQUE = FEATURE ENGINEERING
+==
+ 
+1- VARIABLE IDENTIFICATION 
+
+	family -- 4 attribute or 4 variable 
+Father --> govt employ, loans, kids study school --> dependent variable (y)
+Mother --> housewife --> independent variable (x1)
+Son- 2nd grade --> independent variable (x2)
+Daughter - 1st grade --> independent variable (x3)
+
+y = x1 + x2  + x3 ( multiple linear regression algorithm) 
+
+2- family2
+	dad = y
+	mom = x
+y = x (simple linear regression)  
+
+
+1st technique ( variable identification)
+independent variable = non target variable = non predictive varaible \
+		x
+dependent variable = predictive variable = target varible 
+		y 
+
+==============
+
+orgnaization when ever you build any ml project \
+1st thing ( what is your right dependent variable)
+
+
+machine learning  -- > many indenent variable but only 1 dv 
+	regression -- dependent variable is continuouse 
+	classification -- depednent variable is binary 
+	clustering -- no depdent variable 
+---
+what is continnous variable ?
+--
+1- petrol price 
+2- electricity bill 
+3- flight fare price 
+4- land price 
+5- gold price 
+6- diamond price
+7- stock price
+8- vehicl price 
+9- weather forecasting
+10- increate price 
+11- crypto 
+---
+regression algorithm 
+---
+1- simple linear regression 
+2- multiple linear regression 
+3- polynomial regression 
+4- gradient descent , stocastice gd, batch gd
+5- lasso (l1) regularization | l1 regression 
+6- ridge (l2) regualiarization | l2 regerssion 
+7- decission tree regression 
+8- random forest regression algorith
+9- k neareast neighour regression 
+10- ann regression
+11- xgboost regression 
+12- lgbm regression 
+
+-----
+classification --> dependent variable is binary or category 
+----
+binary or category 
+
+pass or fail  ( 1 or 0)
+hot or cold 
+win or loss
+profit or loss 
+cat or dog 
++ve review or -ve review
+exit or not exis 
+spam or not spam 
+ticket close or open 
+happy or sad face 
+---
+classification algorithm 
+--
+logistic regression 
+k nearest neighbours
+svm ( support vector machine)
+dt 
+rf
+xgboost
+lgbm 
+naive bayes ( bayesian theorem) 
+ann classifier 
+
+clustering -- grouping 
+	 100 customer went to restudent 
+10 - rate 5* , 4* -- 5 group
+----
+Clustering algorithm
+----
+Pca ( principal component analysis)
+k-means cluster
+hierarchical cluster
+dbscan cluser
+
+just give your time 
+
+some of them are understan & understand 
+
+kid studen in 1st calss ( 1st class are very toughf rohim )
+kid move 2nd class 1st concent ( esy)
+kid move to 3rd class 1st class concet ( easy)
+kid move to 4th class 1st conce ( explain to some one)
+====
+data structure ( easy ) 
+eda -- today you feel 50-50
+ml -- this is easy 
+when i start -- ml is feel touch
+dl -- ml is easy ( 
+dl -- 
+gen ai -- dl is easy 
+======
+patience 
+calm down 
+trust yourself & trust the class 
+=== 
+
+^^^^^ 19th
+simple linear ( 1 iv & 1 dv) == y = mx+ c
+	what is m , c, what is x == i will expaline regression algorithm
+only 1 iv & 1 dv 
+
+Multiple linear == (y = m1x1 + m2x2+C)
+
+who expert at code -- he will never be datascientis t
+analytics thinkging 
+
+in organization when every you do any project regard to machine learning
+	identify dependent variabel 
+
+business -- housing 
+
+you must need to understnad attribute very well
+
+analyse the data with only relavant attribute or you build ml model only using relavant attribute
+If you build the ml model using irrelavant attribute then MULTICOLLINEARITY OR OVERFITTING will happens
+
+EDA -> 7 TECHNIQUE 
+
+	1- VARIABLE IDENTIFICATION
+			DV
+			IV
+			RELAVANT ATTRIBUTE 
+			IRRELAVANT ATTRIBUTE 
+			
+2- UNIVARIATE ANALYSIS -- plot the graph using 1 variable 
+
+3- BIVARIATE ANALYSIS -- plot the graph using 2 variable
+		New concept CORELATION 
+	
+	CORELATION - relation between 2 variable 
+			range of coreation is -1 to 1
+	0-1 = +ve corelation ( when you build the model relavant attribute)
+	-1 - 0 = -ve corelation
+	0 - no coreation ( ml model ) 
+
+if you anlays the data with irrelavant attribute ( model accuracy will reduce) 
+
+4- outlier detection 
+		datapoint which is very far from other datapoint 
+	outlier also called as anomaly detection 
+	
+5- missing value treatment 
+	
+dataset -- either you have numerical data & categorical data or else mix 
+
+	In your dataset if any numerical data is missing then need to apply 
+		mean strategy 
+		median strategy 
+		mode strategy 
+
+	 in your dataset if categorical missing  -- mode strategy or neaarest neighbour 
+		answer is only mode 
+		nearest neighbour
+		
+6 : 	imputation or also we called as transformer
+		number of classes = no of class variable 
+
+imputation technique = transformer 
+	transformer convert or transform categorical value to numerical value
+
+1st transformer - Dummy variable 
+2nd transformer  -- LabelEncoder 
+3rd transformer -- One hot Encoder 
+
+
+7: variable createion 
+		from 1 variable -- we created 3 variable 
+	
+====
+20YR ( you should know wel 
+one hot encoder -- project ( ml)
+cuz ( ml now ) 
+===
+ml mode( -- convert cat - number)
+
+Dumy 
+One 
+Lable En
+
+--- Variable createion 
+--  Cat -- more attribte ( to trin ml model)
+
+^^^^^ 20th 
+If you check google 
+One hot encoder == dummy variable ( this is not true)
+
+lets do the practicle 
+
+fresher
+non - technical
+technica experience in other domain 
+non technical experice
+
+isna () -- missing value 
+fillna() -- fill missing vlaue with mena, median, model
+	while you fill missing value for categorical data use [0] atlase
+	
+On techn - please take recording
+
+^^^^^^ 21st 
+	the link which i shared in the class room link is active only for today
+	monday onwards you can join your permanent link 
+
+can we do another project eda
+
+dummy variables practicaly we learned
+one hot encodeing & labelencoder this 2 transformer we will user very high on machin elearning
+
+when i introdcue machine learning -- sklearn framework
+
+application -- vscode 
+	I know everybody install vs code in your laptop
+	stramlit (end - end application using eda)
+
+if any errro no need to be panic ( IT professional ) error will come 
+
+EDA == FEATURE ENGINEERING TECHNIQUE 
+	using eda technique we are trying to analysthe data 
+	we will send the report to manager
+	manger sent the report to client
+
+today 7pm batch is learned how to read the data throught def function 
+	also how to read the data using pandas framework
+
+st.checkbox --> frontend we created check boxes
+st.title --> fronet created title ( big letter)
+st.write --> write a statment
+st.dataframe --> created dataframe
+st.cache --> cached the dataframe
+st.subheader --> create subheader
+
+non technciao -- review the class ( big loss)
+
+you will get error 
+
+today code -->
+	import all the library
+	read the data using def function 
+		def function i didnt explain ( i will explain later)
+	heatmap -- i dint explain i will share to later
+	
+guys next time onward i dint give any project class room 
+
+	while you work if you got error you so panic -- carray 
+
+you got erro (spend little more time)
+you to little fix the bug 
+extra -- today class very fast 
+new thing - you cant understnd 
+datasceince-- pleas ematrure 
+change your thought
+
+error will come ( spend littile on time erro)
+i knw thsi will happen 
+dont screa 
+
+big problem 
+
+
+non technica -- dont 
+
+
+i am beg you please little spend time on error 
+try to fix if not my number is ther 
+admin si ther 
+recording - foll
+
+how many fo them got err (e)
+
+learer who got error -- can you spennd some time by yourself 
+immedilay help ( i will assginem frinec)
+help now 
+resove myself -- 
+
+again this code on monday 
+
+got output apply the code -- practise 
+
+^^^^^^^^ 24th 
+	
+basic python, data type, variable, operator , bitwise operator, arithmetic operator
+input() -- bydefaulst string -- int - eval() ( expression)
+math()
+
+=== pycharm enterprise ( paid)
+=== pyacharm community editon (free one)
+=== 
+
+cpu -- 
+	memory unit - store the variable, call the variable 
+	arithmethi unit- +, -, % 
+	logic unit -- computer need to think 
+
+logic never ever written in any books 
+	logic has to build based on patience & practise 
+leetcode, hackerarank -- to solve the code with right logic 
+
+condition statment
+	if 
+	if else 
+	if elif else 
+	nested if 
+	
+jupyter & pycharm 
+	always rememer never ever use multiple if 
+
+Code-1 : python code to check number is even or odd 
+
+always remeber never ever write multiple if  in code itsel
+
+
+multiple if write then -- check every line by line even though it is not required
+if -- else -- stop not necessary check 
+if -- else dont wreit multiple if 
+
+if we have only 1 condiation we can work with if -- else 
+what if we have more then one condintion -- nested if 
+
+nest if applica for more then 1 condition
+	concept (
+
+conditional statement we are completed 
+	
+
+60yr 
+fresher tear -->
+2yr ( you follow me ) 
+
+1hr review the class 
+2hr class project, assignment 
+
+=====
+maintain consistent is tough 
+==== no one can stope you 	
+
+if 
+if else
+if elif else
+nested if 
+================
+LOOPS --> sometime we keep things repeats 
+	WHILE LOOP
+		nested while 
+	FOR LOOP 
+		nested for 
+
+VS CODE 
+==== 
+2 things 
+
+1 - cmd promt & vs code cmd prompt -- should be mathch 
+2- creat folder insuder the cmd location 
+		codes you need to keep it one folder 
+
+extension for vs code -->
+	arepl for python
+	autodocstring
+	code runner
+	github copilot
+	intellicode
+	python
+	jupyter
+	pdf viewer
+	pylance
+	office viewer
+===== TASK LIST
+Task:1- Class Explanation Code 
+Task:2- Python variable
+T3- Print() 
+T4 - Identifier & Datatype
+T5- Basic code, Operator, String, variable"
+T6 - List class Assignment
+T7 - Basic python, Python operator
+"T8- List class explanation (class notes )
+T9- List shared pdf documentation "
+T10- Tuple class explanation & Tuple documentation
+T11-Basic Python code till INPUT() 
+T12- Set & Dict class explanation & Assigned documentation
+T13- NumPy-Crash-Course ( Class Explnation)
+T14- Numpy_Complete_Buildin_Function"
+T16- NUMPY Complete Documentatin
+T:17 - Pandas Introduction 
+T18: Imdb dataset anlaysis using Kaggle(Till - 44 line)
+T19: Streamlit Introduction
+T20 : split() create new variable as dt, time, address"
+T:21- Conditional statement_class explanation
+======= INTERVIEW QUESTION 
+Iq:1- How to Collect the data for project?
+Iq:2- GitHub Creation"
+Iq:3- 97 interview question for variable & data types
+Iq:4- 50 interview question INPUT()
+Iq:5- Numpy Interview Question & Answer
+Iq:6- Pandas Interview Question
+Iq:7 - 50 coding & mock QA on conditional statmenht"
+======= PROJECT LIST 
+P1- Image Reading, processing using Np, Plt,PIL
+P2- Ipl Data analysis to find insight using NP + PLT
+P3- Country GDP Analysis
+P4- Complete matplotlib 1 Project
+P5- EDA Project Complted( Raw data to clean data)
+P6: Titanic Data Set Analysis 
+
+^^^^^^^ 25th
+	
+tomorrow no class --alright 
+saturday we have test -- completed 
+
+
+while loop == we will write the check condiatoion repeat  
+
+for loop == 	data types & data strucute 
+
+
+break -- break the loop ( computer vision , image preprocessing)
+continue  -- skip the assigned number by the user
+pass -- pass the error
+
+for loop -- data types  & string
+while -- condition 
+-----
+PATTERNS -->
+-----
+
+i will explain first then i will assigne 
+
+i will not assinge i didnt explain 
+
+when you undestan concept love to complete project 
+
+if some one didnt practicse ( please practicse)
+
+4hr -- apply interview - see the resulit 
+		
+	multiple way to print the patterns 
+
+		nest ed for, print, 
+		
+
+non technica team -- this you have to learn ( mandator)
+
+online team & offlien team 
+
+ WE ARE COMPLETE CONDITIONAL STATMENT & LOOPS 
+===============
+FOR 
+WHILE
+NESTED FOR 
+NESTED WHILE
+FOR ELSE 
+BREAK 
+CONTINUE
+PASS
+
+IF 
+IF ELSE
+NESTED IF 
+IF ELIF ELSE
+MULTIPLE IF 
+============
+PRIME NUMBER 
+NUMBER REMINDER IS 0 -- NOT PRIME NUMBER
+
+univariate 
+bivarite
+mulitvariate 
+
+^^^^^^ 27th 
+Saturday at 5pm -- 
+	7pm -- automatic eda using mistral ai llm frameworks 
+	
+today i will 8:30pm 
+
+I really appreciate to the student work everyday 
+
+everytime when user assigned an objec to the memory 
+memory allocate some spaced based on value declat
+
+who will do memory allocation -- python construcutor ( __init__ ) 
+
+i will explain indepth about oops later 
+
+special method ( __init__ ) constrctor 
+
+constructor in inheritence 
+construce in method
+how every oops progrem (__init__ ) must mandatory 
+
+leet code 
+
+jointplot -->
+ "scatter" | "kde" | "hist" | "hex" | "reg" | "resid" 
+ 
+plt, sns, pd , np --> datastructure + math + visualization ( mandoary )
+
+sns.jointplot
+sns.distplot
+sns.displot 
+
+sns.set_style == (darkgrid, whitegrid, dark, white, ticks)
+
+data analyst doesnot reuqire coding 
+----
+distribution -->
+---
+uniform distribution 
+normal distribution 
+
+NORMAL DISTRIBUTION = GAUSIAN DISTRIBUTION = BINOMIAL DISTRIBUTION = 0 SYMMETRY 
+	 this distribution is important (mean = median = mode) no outloer 
+
+genera -->
+	action 
+	comedy
+	horror 
+	romantic
+	thriller 
+	adventure 
+	drama 
+	
+movie produce share this dataset to you 
+you wok data anlay he want suggest from you he spend money to gain more profit 
+subplots -- 
+
+^^^^^^ 28th 
+	univariate analysis 
+	bivariate anlaysis
+	multivariate analysis --> dataset ifyou have more atttibute visualzation ?
+
+subplot 
+facetgrid --> 
+heatmap 
+
+today is the last for visualization  (1months) 
+
+action for all the historica -- audience are like to watch( 
+commedy - recomamdn
+dramma -- recommand 
+horror - recoman
+
+how you solve organization problem - da or ds 
+
+
+your suggestion for this project what ever new movie -- action movie 
+	commedy 
+
+i dont wnat you to explain like this for everyporjec
+
+30 days you are enough to understand , write, code, do by yourlse 
+
+
+when the graphs alwasy change based on your dataset 
+algorithmns are need to change based on data 
+
+
+corelation -- relation between 2 attribute 
+name of the corelation graph is heatmap 
+
+why we learning this ?
+whne we buil ml model ( attribute)
+
+corealtion graph will tell us model 
+
+project- iris dataset 
+
+RESUME PROJECT -1 : EDA ( HEALTHCARE DOMAIN)
+	PROJECT - HEART DISEAS ANALYSIS
+	
+
+
+WORKSHOPT (5PM) 
+	EDA AUTOMATION USING LLM FRAMEWORK - 
+
+RESUME PROJECT-2 : SPORTS DOMAIN 
+
+
+groupby()
+185 - diabe 
+165 - non diab
+
+corr() -- corelation 
+when you build the resume 
+
+client ( pick one client)
+heart disecan ( doc) -- freeance 
+
+
+
+explaine your self -- 
+
+explain your proejct -- 
+		every will forget the guy who ask question 
+
+	
+prepare script 
+	resume 3 project 
+3 project ( pdf )
+	strat to end 
+	
+record your self 
+
+12inter -- 1round ( why so much late why not 1st round 1st intervei)
+have 
+
+intern-- discussion 2 brin 
+		2 lier 
+	java -- llm (20 yr) 
+	
+beofre make sure see his profile linked 
+	
+	email -- hr email, technil pane 
+	
+30 days of our batch  -->
+	if you realyt listen the classes well ( i am sure )
+5month 
+
+=== basic python completed
+== numpy 
+=== panda s
+=== plt
+=== sns 
+=== task, prject, iq 
+=========
+5 month - 5 yr experience ( 4hr) 
+=========
+
+^^^^^^^^^^ 1st march
+EDA AUTOMATION USING LLM FRAMEWORKS
+	LAST TIME WE BUILD EDA PROJECT USING SEABORN, PLT
+	
+NLP (AI) - data is text ( unsupervised )
+NLP -- natural language processing
+	how the language creats ( text)
+		social media post - wp, meta, twitter, amazon, 
+
+nlp -- we will build languge model 
+	
+	so far we traned thje data 
+				
+LM ( user train the data based on memory)
+LLM ( LARGE LANGUAGE MODEL)
+	we dont trained the data the data trained directly from internet, website, wikipedin 
+	
+as we cant train the large language model thats why some of big tech mnc openedn trained for us then 
+given api key -->
+	
+	
+open ai -- api key - paid 
+google -- free
+meta - free
+antropic - free
+deepseek - free
+
+
+who ever joined yesterday workshop 
+	can you tell me which llm -- mistral 
+		in the same can  you pleas chantge deepseek
+		
+who student didnt joined pelase work with me 
+-------
+Lets start work -->
+-------
+1- Login  to ollama.com
+2- Download & Install 
+3- command prompt
+4- ollama 
+
+today you learned how to work with ollama
+
+let me tell you if your system doesnto recognize by ollama 
+	windows os 
+	 70% students are working
+	 
+=== SQL 
+
+build llm locally using ollama
+	llm framework - mistral , deepseek
+	stramlit, gradio 
+	eda automation 
+	
+we reduce the compnay workflow  70% , save time  & money manages 
+reduce the cost cutting ( 50% ) which incrase company benefits 
+=========
+
+
+
+=== start working on below model === 
+Attend yesterday workshop 
+	I want you to try & update me what is your status all the model 
+			mistral --> completed
+			deepseek 
+			llama 3.3 
+			gemma2
+	
+=== what data
+		database
+		dbms
+		rdbms
+		non relational dbms
+		sql db
+		no sql db
+		vector db 
+		relational db 
+
+database - container where data can be storeed and easily retrieve by any one 
+data -- image, text, video, excel, pdf, xml 
+
+
+every website in the world is connected to productiion server 
+
+server - collection of database 
+
+to muliple database ( server )
+these server required specific room ( db ) need to installed inpremices 
+server room 
+
+cloud -- no server room -- data stored in datacenter 
+
+server (in premises)  - data store in db 
+vs 
+datacenter ( cloud) - data store in datacenter 
+
+every company ( website )  is connected to database (must)
+	secure 
+	
+phonepya.com --- production server ( multiple database has connected together) 
+	production servier is down 
+
+website -- server (prod server) ( server = collection of databases) 
+
+number -- structured data -- 
+		to store structure data -- structured database = sql db = realational db
+				cuz one table has realation with another table with primary key & foregin key 
+
+data scientist & data analyst 
+SQL DB = STRUCTURE DB = RDBMS 
+		MYSQL
+		ORACLE
+		POSTGRES
+
+DATA ENGINEER () always use no sql db 
+Image, video, audio, stram, api, etc - unstructure data 
+	NO SQL DB = UNSTRUCTURE DB -- NON RELATIONAL DBMS 
+			MONGO DB
+			HBASE 
+			CASSANDARA 
+	
+llm developer will use this , gen ai engieer , 
+VECTOR DATABASE 
+	every unstructure data will convert to vector form these vector will store in vector database
+			pinecon
+			qdrant 
+			fiass
+			milvus 
+			chroma db 
+			
+vector db required for RAG ( RETRIAVAL AUGUMENT GENERATION)\
+
+
+flatfile database
+			data store in simple 2d table 
+hierarchical databse 
+
+^^^^^ 4th 
+non relation database or no sql db 
+
+	key value db -- reddis & amazon dyanamo db 
+	document db -- mongo db & couch db 
+	graph db - neo4j & amazon naptune 
+	wide column db  - apache cassandra, apache hbase ( data stored in column)
+	search engine db - 
+	time series db 
+
+sql language 
+	ddl - creat , alter, drop, truncate
+	dml - select, insert , update , delate 
+	dcl - grant & revoke (organization employ -- grant the acces & revoke the acces) 
+	tcl - 	commit, rollback, savepoint, set transition	
+	
+most famous data used acroos the globe - mysql 
+
+softwarem - my sql server, 
+					workbench & shell
+					
+google - mysql 
+=====
+mac terminal - brew install mysql
+	mysql.server start
+	mysql.server stop
+	mysql.server restart
+=====
+4 database
+	information_schema
+	mysql
+	performance_schema
+	sys
+
+^^^^^^^ 5th
+after sql server installation there 3 way connect the db 
+
+	1st - mysql - shell - give your root password
+	2nd -- workbench - you can connect to the table 
+	3rd -- from cmd also you can go to mysql how ?
+
+cmd - user who already got this thats fine 	
+		there are user who are unable to do that follow the below step
+	
+how to setup environment variable
+	C:\Program Files\MySQL\MySQL Server 8.0\bin
+
+-- create database 
+-- how to create table
+-- desc table
+-- how to define varaibe as primary key
+-- Insert the value to the table 2 way 
+	secure way
+	insecure way
+	
+once you define primary key ( unique) never be duplicates 
+start working from page# 44, 45 -- continue
+
+^^^^^ 6th
+
+ sql function 
+	sum()
+	avg(), max(), min(), count(), order by asc; order by dsc
+	
+wild card characters ==>
+--
+LIKE 
+% 
+_ 
+
+for multiple recrod if user fetch student wher like 'a%'
+ wher like '%y'
+
+can you pull the student name or studemt record where 2nd digit _ 
+
+chapter - 37 ( date & time ) 
+python split - data & time 
+----
+Joins -->
+---
+left join ( left outer join)
+right join (right outer join) 
+cross join 
+
+join can never work with 1 table minimum requiren 2 tables 
+
+student dont spend entire time on sql 
+you guys got confident ( sql ) skip 
+
+drawback sql - visualize in sql 
+pyspark -- data engineer 
+databricks -- company later 
+
+
+datascientist -- organize wher you will be sql part
+
+	when you have clinet requirement
+	you need to pull table ( iv & dv ) require to ml model 
+
+sql develper -- he dont know what iv , dv 
+	when he pull the report and give to you he  might delate the dv 
+
+if you knw how to query then you can pull out the records 
+=======
+
+banking db 
+
+	million of records
+	can you devoep recove by writhing your query 
+table store in db 
+
+you need to know how to write a query t fetch the data from the database 
+----
+AMAZING PROJECT -->
+---
+till yester day we worked clean data 
+
+raw data - data cleaning - clean data 
+
+my question how raw data creates ? answer - database ( how) 
+
+how to create raw data ?
+
+sql data anlaysis vs python data analysis 
+compar both 
+
+( ml transformer)
+dummy variable 
+one hot encoder 
+lable encoder 
+
+Transfromer are convert categorical - numerical 
+Nlp -- embeding (text - vector)
+
+^^^^^^ 7th
+
+Tomorow ( online) pelase complet test and submit 
+test link is active only for 1:30hr 
+humble requrest do not usge ( braingpt) 
+
+dont google it lets grok it  
+dont gogole dont grok but brain it  using brain gpt 
+
+Project -- Sql for data analyst, business anlayst, datascientist 
+
+
+everybody learn how to create db, table, how intsert records to the table 
+
+organization -- tons of rows 
+
+realtime you never ever created any db 
+	db is already created long ago 
+
+====
+tableua, power bi -- data lake, data blend relation there you need to create db 
+==
+whenever company state - db started 
+company -- how to extract raw data from the database ?
+
+------
+Lets start today project -->
+------
+1- As we individual user we cannot create table of 3L recrods 
+2- Today i will share database & please download it 
+3- https://dbeaver.io/ -- download - install 
+4- dataset -->
+		kaggle.com | huggingface.com | uci.com 
+5- No need to donwload it ( just listen ) 
+		project - Vehicle coupn recommadation
+		dataset - 25 attribute
+6- start - open the dbeav community software
+7- if it ask for any driver please install the driver or else software will not works
+8- 	
+		
+when business contract sign to the organiation 
+new project --> project is read in database 
+	project -- attribute
+	
+cricket -->
+	bat
+	bow
+	filed
+	==
+	==
+cricket db ( you can see all columns) 
+
+^^^^^ 10th
+statistic is very important for machine learning 
+stats concept we will implement in regression, classification 
+stats not much use in llm, gen ai 
+90% we will use in ml 
+
+without stats no ml projec t
+if you no ml project - no mlops - cicd pipeline 
+
+stats is theory -- try to understand 
+----
+statistics towards machine learning -->
+----
+1- population vs sample = done 
+2- type of data = done 
+3- descriptive stats
+4- inferential stats
+5- advacned stats
+6- 2 project 
+
+--- In the mean time advance python 
+today onwards all the formula will start 
+
+populatio - large group of entity
+sample - randomly pick some individual is called sampel 
+
+population - sample == sampling technique 
+sampel - population == infernece technique 
+
+population formulas
+sample formulas
+
+99% use case we will use only sample formula 
+
+ml world we are deals with dataset -- all the dataset is must sample 
+
+99% of test cases or dataset we will use sample formula 
+
+population - z-test - parameter 
+sample - t-test - statistic 
+
+dice has - 6 side
+ 
+random sample 
+samping vs random sampleing 
+====
+2- type of data
+	
+	categorical - yes | no , cat | dog , happy mood | not mood 
+	numerical data - contionuous & discrete
+	
+ml -->
+	regression - dv  contionuous(regression model)
+	classification - dv is categorical or binary 
+	clustering - no dv , data is discrete 
+			score -- 100 ( no more value after 100)
+====
+categorica - y/n, h/s, w/l, p/f, t/f, p/l ( ml-classification)
+continuous  - keep increase or decrease (ml - regression)
+				sales price, ticket price, salary price
+discret -- no dv ( score of the student) children ( 2 , 3)
+			rate of meal(1, 2, 3, 4, 5) 
+====
+levels of measures -->
+
+qualitative 
+	nominal  -- cannot keep them in order format ( summer, winter, rainy, autmn)
+				autunm , rainy, summer 
+	ordinal - rate of the meal 1,2,3,4,5,
+			1- unapetizin , 2- disgustin, 3- neural 4- tasty, 5- delicious 
+
+quantitative-->
+	interval  - celcius & farenhite ( meal ) (100- 1000) -- has no 0
+	ratio - length ( 0-15) 0-30) -- has 0 
+
+how to visualize the numerical data & categorical data 
+graph, visualziation 
+		boxplot, histplot, lmplot
+	
+all the project which we done earlier those are visualization 
+ numerical or categorical
+ 
+catnum -- split and then visualization 
+=======
+3- Descriptive stats --> (number ) 
+	measure of central tendency --> 
+				mean | median | mode
+	measure of assymetry
+				skewness | kurtois
+	measure of variablity 
+				variance
+				standard deviation 
+				coefficient of variation
+	measure of relationship 
+			    covariance 
+===
+mean - average  | median - mid value from the number | mode - most occurance
+====
+
+does outlier impact which strategy? iq 
+	
+mean stragey always impact outlier 
+median & mode doesnot impact outlier 
+
+ctrl + s
+
+measure of assymetry
+				skewness | kurtois
+	
+skewness -	
+	+ve skew
+	-ve skew
+	0 skew 
+kurtois 
+	leptokurtic
+	platykurtic 
+	mesokurtic
+
+^^^^^^ 11th 
+3- descriptive stats
+4- inferential stats
+5- advacned stats
+6- 2 project 
+
+===
+3- Descriptive stats --> (number ) 
+	measure of central tendency --> completed 
+				mean | median | mode
+	measure of assymetry
+				skewness | kurtois
+	measure of variablity 
+				variance
+				standard deviation 
+				coefficient of variation
+	measure of relationship 
+			    covariance 
+====
+	measure of assymetry
+				skewness | kurtois
+	
+skewness -- define how the data skew ( which side data stays left or right)
+
++ve skew == ( mean> median & mode )
+	 data skew towards left & outlier is at right
+
+0 skew = (mean = median = mode)
+	data skew at center and no outlier 
+	normal distribution == gausian distribution = bell curve = 0 symetry 
+	
+-ve skew == mode > mean & median =
+	data skew towards right and outlier is at left 
+
+every we need to consider 0 skew 	
+---
+kurtois ===>
+---
+Skewness measures how asymmetrical a distribution is, 
+while kurtosis measures how peaked or heavy-tailed a distribution is.
+
++ve kurtosis = +ve skew = platykurtic ( high tailed graph) = <3
+-ve kurtosi = -ve skew = leptokurtic ( low tailed graph) == >3 
+normal distribation = 0 skew = mesokurtic ( normal distribution) = 3
+range of kurtois == (<3 to >3)
+.describe() 
+
+3 - measure of variability 
+		variance
+		standard deviation
+		coefficeint of varaince 
+	
+variance -- data spread towards mean 
+
+population mean - (Mu)
+sample mean - (x bar)
+
+population variance - sigma2
+sample variance - s2
+
+population sd (standard deviation) - sigma 
+sample sd (standard deviation) - s
+
+coeffieicent of variation -- sd / mean
+
+dataset ( .describe)
+	sd- m, me, skew,mode, 
+	
+covariance -->
+---
+eda corelation -- realtion between 2 attribute == _1 to 1 
+corealtion in statistica terminology coveriance 
+
+stats -->
+--
+population & sample 
+types of data 
+descriptive stats
+inferetial stats 
+
+python frontend (tkinter )
+
+stremlit 
+gradio 
+tkinter 
+
+Any library you wanted to learn firest step is please refere the documentation 
+
+^^^^^^ 12th 
+Agenda for today session -->
+------
+Advacned python
+descriptive stats practicle --> 
+introduce inferential stats --> 
+----
+user define function -->
+	always def keyword 
+function ends with ():
+when you enter system 4space ( indendation)
+dynamic programming langugae 
+
+2 main property -->
+	define the function 
+	call the function 
+syntax
+
+def nit():
+    print('7pm batch student are lazy guys)
+nit()
+
+
+define the function once but call mutliple time as you want
+
+
+define fun & call the funcation 
+	if you assign any variable then variab must call with return keyword 
+	
+return 
+
+never ever print() -- test cases are faily even though your test cases are fail 
+
+==== we intrdouce function 
+learned topics was 
+--
+what is function 
+syntax of the fun
+type of fun 
+function without arg
+function with argument 
+def function we retrn
+
+define the fun
+call the fun
+return variable 
+1func can do multipl opration 
+right way to defin function 
+using these project
+money talks in the world ( sigma rule)
+
+==== descriptive stats ( theory)
+practicle 
+ 
+^^^^^^ 13th
+---
+INFERENTIAL STATISTICS -->
+---
+
+DISTRIBUTION -- distribution concept born from PROBABILIT
+
+uniform distribution - never ever consider this  
+normal distribution  
+
+roll 1 dice ==  uniform distribution 
+roll 2 dice === normal distribution 
+
+2dice has how many side = 12 
+when you roll 2dice what could be the probability of getting 1 = 0
+---
+Inferential stats we talked about distribution & probability -->
+----
+
+standarization we will use in ml cocnept standard scaler or z-score 
+time series -- same concept we can implete win white noise 
+
+what i will get this 
+
+stock market -- time 
+project 
+job 
+sary 
+
+whenever we build ml model 
+we build ml model dataset ( excel sheet )
+=======
+z-score = x-mean/sd
+ml this concept - standadscaler ( every algorith we will implat transformer) 
+timeseries -- this concept ( whitenoise)
+========
+
+standarization -- standariziant is technique to convert normalstion distribution 
+to standard normal distice cover mean - 0 | sd - 1 (z-score)
+--
+ml project -- every trin the model i have to apply scaling 
+	feature scaling technqiue 
+---
+central limit theorem -->
+sample > then no. of records 
+---
+standard error -- sigma/root n 
+---
+CONFIDENCE INTERVAL -->
+---
+
+95% CONFIDENT THAT MY SCORE IN MATH ( 90-95) 
+99% CONFIDENT THAT MY SCORE GET 99-100 
+
+95% , 99% CONFIDENT 
+
+90% -- 100% 
+confidence level == 1- alpha
+
+what is alpha == 95% confidetn - 5% error 
+
+CI is divide into 2 part -->
+	population variance is known ( Z-TEST)
+	populatioon variance  unknow (T-TEST) ==SAMPEL 
+	
+when wever we build 
+
+z-test, z-table, z-score, z-statitical test
+t-test, t-table 
+can I skip this 
+
+^^^^ 14th
+z-score -- convert normal distrin to standard distribution mean - 0 & sd - 1
+z-table - z-table is the statistical table to compulet z-test ( fill the value after 1-alpha)
+z-test - z-test we can perform to find confidence inter for population 
+z-statistical test - test the dataset to find out intervew for 95% confidnec & 99% confidence 
+								finalize for the probelm statment
+
+T-TEST( SAMPLE) 
+Inferential statstics -->
+t-table, t-test , t-statstical 
+====
+python function 
+====
+function with argument lets understand  -->
+====
+
+^^^^^^ 15th 
+ADVANCE STATS --
+---
+HYPOTHESIS TESTING
+TYPE OF ERRORS 
+P-VALUE 
+R2, ADJUSTED R2
+ANOVA 
+====
+End to end to stats practicle
+====
+
+Stats towards machine learning -->
+
+ds vs ai vs ml vs nlp vs dl vs nn(ann, cnn, rnn, gnn)vs gen ai vs llm model vs agentic ai 
+
+ml enginer
+nlp enginer 
+dl enginer
+gen ai devloper 
+llm devloper
+agentiic ai develeoper
+prompt engineer 
+
+after learn proper consider with planning no force in th grab a job 
+you can multiple wasy to open the job door
+
+hypothesis testing -->
+--
+e.g -->
+
+Hyderabd 1 apple cost is very high --> statement 
+1 apple cost is 500 -- hypothesis 
+
+this hypothesis need to be tested ?  how to be tested 
+
+10 friende in hyder -- 
+10 friend visit to the sotre 
+ 
+ 1 - 20, 2 - 10 
+ 
+ average of 10 friend apple cost summer 
+ 
+ mean == 500 
+ mean != 500
+ 
+480  == 500 (usecase1 ) || H0:M(10 friend) 480 == 500  ==> accept the null hypothesis 
+30 != 500 (usecase2) | H0 : M(10 friends) 30 != 500 ==> Reject the null hypothesis 
+
+== 
+ 2 type of hypothesis -->
+ ---
+ NULL HYPOTHESIS (H0)
+ ALTERNATIVE HYPOTHESIS (H1 or Ha)
+---
+ 
+ reject the null hypothesis == accept alternative hypothesis 
+ --- 
+ 
+ every time try to reject the null hypothesis 
+ 
+to the learneer who joined now -- why you havent seen the message
+surprise ( sta6pm ) 7pm 
+
+
+pleare regulary check the google classroom -- i 
+
+I will share today recoding please watch it & complete 
+
+webex -- ( getlink)
+play stoe - google classroom (
+
+---
+ERROR IS VERY IMPORTANT -->
+--
+TYPE-1 = reject true null hypothesis = False +ve 
+TYPE-2 = Accept false null hypothesis = False -ve 
+
+type-1 & type-2 error I will explain practicly in ml classification concept 
+
+ml -- confusion matrix 
+	tp
+	tn
+	fp
+	fn 
+
+reject null hypothesis
+accept null hypothesis
+
+reject true null hypothesis & Accept false null hypothesis
+everything we will understand at classifcation confustion matrixn in machine learning 
+
+
+I do see many student are joined at 7pm 
+today will start 6 pm? why you havent check the classroom
+
+
+going i humble request to this bathc learler please please please follow the classroom 
+every day conider classroom whatsapp, telement 
+
+playstore - classroom -- you can see whenevery you wnat
+also -- you get email 
+if anyof frien post any class -- you will email 
+email - phone 
+
+comme responsity 
+
+today i will share the recording for entire session please watchit 
+tomorr i wil ltake workshop on smolagents huggingface (10am)
+
+i will share 
+going further this sat -- 
+7pm -- 6pm thats it ( please check the msa)
+functional argument --
+
+today session starte 6pm ( 7:15pm)
+humble check class mesage 
+classroom regular basis 	
+	data science -- exper 
+
+^^^^^^^ 17th
+
+p-value is the signifance value which used in ml algorithm to findout relevant attribute to build ml model 
+P-value = 0.05
+
+If 95% confidence error 5% (0.05) 
+practically i will expin min ml -- mlr algorithm 
+
+linear line equation == 
+
+actual datapoint = y
+predicted datapoint == y^
+
+mae == mean absolute error = (actual point - predicted)
+mse == means squer error  = (actual - predicted)2 ( remove all -ve)
+rmse == root mean squard error 
+
+
+upcoming class we build ml regression model 
+after we build ml reg rmodel model is accuracy or not 
+based on rmse you will check the model behaviur 
+
+error = loss function = ols (ordinary least squrd) 
+
+y = mx + c
+y - dv 
+x- iv (x1,x2,xx---
+m- slope
+c - constan
+---
+ANOVA FRAMEWORK-->
+---
+ANALYSIS OF VARIANCE 
+
+SSR (sum of squer regressor)
+SST (sum of square total)
+SSE (sum of squer error) 
+
+sst = ssr + sse 
+
+r2 = 1- ssr/sst 
+adjusted r2 
+
+range of r2 & adjusted r2 is 0-1
+after build reg model if model score is  1 ( 100 best model)
+if score -3 ( rework againg)
+
+if you work with multipl regression algoriytm ( more independtat ) adjusted r2
+
+if you build regression model --( r2 & adjusted r2) 0-1
+r2 > adjusted r2
+
+
+performance measure of regression  --> r2 & adjusted r2 ( 0-1)
+preformance measure of classification --> confusion matrix (80%, 90% )
+
+STATS FOR MACHINE LEARNING WE ARE COMPLETED 
+
+1- POPULATION & SAMPLE
+		sampleig & inferece 
+2- TYPES OF DATA	
+		numer , categr, nominal, ordina, interval, ratio
+3- DESCRIPTIVE STATS
+		central tendecny, skew, kurto, variance, sd, coefficient variance
+4- INFERENTIAL STATS
+		prob, distributio, confidence inteve, z-test, t-test, z-tabl,, t-table, standar, clt 
+5- ADVANCE STAS
+		hypothesis testing type of error, p-value = 0.05,
+6- STATS FOR ML 
+		linear grapt , y, y^, m, x, c , mae, mse, rmse, anova, ssr, sse, sst, r2, adjusted r2
+		regression table --
+		
+stats we are completed 
+---
+Project -->
+---
+working profession -- please implate code to you realtime
+
+till today we worked in jupyter 
+ml -- I want everyone to check spyder 
+
+^^^^^^ 18th 
+
+machine learning --> 
+	machine + learning 
+	
+meachine will learning historical data 
+historical data is alwasy raw data 
+raw data - clean data -- build ml model - test the model - predicted model on future data 
+- deployemnt - production server - customer login to --
+
+Tradional learing vs machine learning 
+
+ml pipeline -- complete steps from end - end model building prediction 
+each steps technical terms is called pipeline 
+
+machine learning --> how machine learning 
+
+ML has 3 phases -->
+	
+	training phase
+	testing phase
+	validation phase 
+
+trainin & testing phase -- will alway apply on historical data ( past data)
+validation phase -- will apply on future data 
+
+we model text book 
+
+exam ( read the model test paper)
+model test pare ( q & a ) finaly model has develop in your brain 
+in test exam ( write test) train well test score is well == you got good accuracy 
+free sheet 
+
+training phase
+testing phase 
+model building 
+
+we have split the dataset into trainin & testing 
+100 -- 75 record trainging + 25 record testing 
+100 -- 80 rec trainign + 20 record testing
+100 - 70 - 30
+100- 85-15 
+
+75-25 | 70-30 | 80-20 | 85-15 
+-----
+DATA PREPROCESSING PIPELINE -->
+-----
+1- we have dataset
+2- devide the data x & y ( iv & dv)
+3- 75-25 or 80-20 
+3- x is x-train, x-test 
+	y is y-train & y-test 
+
+1st jan 2024
+31st july 2025 
+
+1st jan 2024 - 18th mar 2025 ( historical data) 
+	we build model on historica data (train + testing) = model develolpe
+	model is acuuracy or not we wil pas future data (validation data) 
+
+19th mar - 31st july 2025 -- future data ( validation)
+
+=================
+TRADITIONAL LEARNING
+MACHINE LEARNING 
+HISTORICAL DATA ( TRAIN + TEST)
+FUTURE DATA ( VALIDATATION)
+MODEL - model train the data 
+DATA SPLIT RATIO - 75-25 | 80-20 | 70-30 
+data is divdin into x & y 
+x - x-train & x-test 
+y - y-train & y-test
+================================================
+Ml framework -->
+	sklearn(sckit learn)
+	xgboost (xtrame gradient boosting)
+	lgbm (light gradient boosting)
+	
+data preprocessing pipeline we are suing 
+impute transformer 
+simpleImputer -- it will fill missing value with mean, median, mode 
+
+fit & tranform 
+these transformer fit the data and transform the dataset to filled data no missing value  
+ml, nlp, dl, nn 
+
+^^^^^ 19th 
+
+Labelencoder -- transformer or imputation tehnique which converts categorical data to number
+SImplimputer - transfomer which fill missing value with para-mean| hyper- median & most_frequn
+
+sklearn.impute import simpleimputer
+sklearn.preprocessing import Lableencoder
+sklearn.model_selection import train_test_split 
+
+data preprocessing pipelien -->
+--
+data gatrhinc
+data claeaning )regex, date,tim)
+split the datax & y 
+x_train, x_test, 
+y_train, y_test
+=====
+modle build ( x_train+y_train)
+
+what everdatatset you will work please gain proper KT
+
+KNOWLEDGE TRANSFER ( Businee Ideas)
+---
+OVERFITTING & UNDERFITTING -->
+---
+4 split ratio -- 
+		x_train, y_train 
+		
+train the model  - x_train, y_train 
+
+
+train the brain well -- test result is very good - score 96%
+
+15days traine well no -- underfitting ( less score) 
+last3 days you didnt sleep study - exam you slept ( overfitting) 
+
+train the model with more data - overfitting 
+train th emodel with less data - underfitting 
+
+overfitting & underfitting model will give high error less accuracy 
+
+overfitting - train the model with more attribute 
+
+ml -- while your train ml model, dl, llm, finetune - overfitting concpe 
+
+if you thrain mode with relavant attribute -- bestfit model 
+
+OVERFITTING TECHNICA & UNDERFITTING TECHN & BEST FIT TECHN
+---
+WHAT IF UNDERFITTING HAPPEND --> add more attrite 
+----
+what if overfitting happened then --> remove ir relavnat attribute
+we have some concept
+ 
+ 1- pca (principal component analysis)
+ 2- cross validation 
+ 3- regulaarization 
+ 4- ensamble learning
+ 5- drop out the neurons 
+ 
+^^^^^^^ 20th
+Regression --> if dv is continuous 
+		petrol price, sale price, dollar , varibel stock 
+
+LINEARE  REGRESSION ALGORITHM | LINEAR REGRESSION MODELS 
+	simple linear regression 
+	multiple linear regression 
+	l1 regression | lasso regualization 
+	l2 regression | ridge regualarization 
+	gradient descent
+	stocastic gradient descent 
+	batch gradident descent
+	time series 
+	
+NON LINEAR REGRESSION ALGORITHM | NON LINEAR REGRESSION MODELS 
+	polynomial regression 
+	support vector regression 
+	decission tree regressor 
+	random forest regressor
+	knearest neighbour regression
+	xgboost regressor
+	ann regressor 
+	lgbm regressor 
+
+when i will explain math ( humbel requrest you please dont indepth) dont be too much research 
+in interview 30 min ( research ) he will reject your 
+ml jobs are automized ( similar code) 
+
+----
+SIMPLE LINEAR REGRESSION --> 
+---
+Y= MX + C
+ y - dv | x-iv | m - slop | c- constant 
+
+ y = 0.4x + 2.4
+ 
+ ^^^^^^^ 21st 
+
+data preprocessing pipeline
+model buildiing pipeline
+test the model 
+visulaize the graph 
+====
+
+BIAS -- training data 
+	while we train the model (x_train & y_train) - trainin score 
+VARIANCE -- testing data 
+	while we test the model (x_test & y_test ) - test score 
+	
+
+train score - 90 & test score - 45 ==> high bias & low variace (underfitting model)
+train score - 45 & test score - 90 ==> low bias & hig variance ( overfitting model)
+
+BIAS -VARIANCE TRADEOFF 
+train score - 90 & test score - 85 ==> 
+	high bias & high variane ( low bias & low variance) (best fit model) 
+ ---
+ Many leanrer joined after 20 min ( coverd one cocept) -->
+ ---
+ y = mx + c
+
+ ^^^^^ 22nd
+
+ WHAT IS MEAN BY PICKLE FILE 
+ 
+vs code -- one tab & open spyder 
+
+assume we write how many lines of c ode 60 lines of code we writeen as ml backend developer 
+
+when you create front end 
+
+some where 60line code need to be called 
+
+pickle file -- make all 60line of code to 1 file 
+1file data gives to you user 
+extension of pickle is .pkl 
+
+^^^^^ 24th 
+---
+Agenda for today session  -->
+---
+every time llm models are keep updates 
+3 x batch studen they got placed after complete this batch
+
+if you are in current batch -- most getting call 
+experience -- connect those exper to theser dump profiel in naukri 
+dataset -- Attribute
+
+Google Gen ai 
+offer we will Discuss it 
+
+=== 
+generative ai --> ai generate image, text, video, audio, automaatica for pretraine model 
+	ml -- we treain the model or not ( feed the dataset to train the modle using slr) 
+	
+generative ai project --> google train the model & user will just enter a prompt 
+
+TRAINED MODEL -- user need to be train data ( 1kb, 120kb, 500mb) 
+vs 
+PRETRAINED MODEL -- google, openai, meta ( will train for us) 
+
+GENERATIVE AI -->
+	AI generatent content like text, image, video, audio. the datas are pretrained by LLM MODELS
+	
+LLM MODELS -->
+--
+OPEN AI ( MICROSOFT) -- CHATGPT, DALLE, (Generative pretrained transformer), SORA AI
+GOOGLE -- GEMINI 
+META - LLAMA 3
+DEEPSEEK - DEEPSEEK , MANUS AI 
+XAI - GROK 
+ALIBABA - QWEN 
+ANTROPIC - 
+CLAUDE 
+
+list of llm which are going on day to day basis 
+------
+GOOGLE GENERATIVE AI PROJECT 
+------
+After 3month we build again ( we will comparision bw old llm vs new llm)
+
+
+AI - we buil ai application user writ nlp, ml, cnn, ann, rnn 
+vs 
+GEN AI  -- we dont write any algo, everything llms produce output
+
+===== 
+Google Deepmind 
+
+DeepMind Technologies Limited, trading as Google DeepMind or simply DeepMind, 
+is a British–American artificial intelligence research laboratory which serves as a 
+subsidiary of Alphabet Inc.
+
+
+Generative model -->
+	text based model  --> encode text decode text ( user enter text -- generate text)
+	multimodel --> encode text promp output -- image, audio, video 
+---
+GOOGLE LLM MODEL-->
+---
+
+gemini 2.0
+	flash
+	flash(image generation)
+	flash-lite
+	pro -experimental 02-05
+	flash thinking 	
+gemini 1.5
+	pro
+	flash
+	flash-lite
+gemma model 
+	gemma 3 27b
+	gemma 2 2b
+	gemma2 9b
+	gemma2 27b
+
+
+house( sand, bricks)
+SimpleImputer ( fill_state = mean, np.nan) 	
+---
+BUILD THE GEN AI PROJECT -->
+----
+1- Google ai studio -- 
+	We generate api key  - 
+	Copy the api key -- paste in notepad 
+
+2- vs code please create constact folder 
+		every project put that proper 
+	vs code or jupyter notebook
+	
+3- Test the api it is working 
+
+4- link will change tomorrow & new link will valid till last day
+
+
+VS CODE -- TRY TO PLEAS PLEASE PLEASE CREATE FOLDER
+CREASET SUBFOLODER 
+	MAINTAIN YOU FNVERVE 
+	
+path loacation
+
+go home and compare text based model & multimodel using different version 
+1.5 | get output 
+2.0 get ouptu
+
+^^^^^ 25th
+y = mx + c  ( simple linear )
+y = m1x1 + m2x2 + m3x3 ( Multiple linear regression)
+
+how to compute slop , const, x, y 
+stats api ( application program interface)
+
+api - connect (stats - ml)
+
+how dataset is fit into math equation of mlr 
+
+use case = being datascientist need to find out right attirbute to invest the stocock
+domain - 
+model - MLR model 
+
+
+linearr egression we are calling simplelinea & multiple linear
+
+
+we need to find out the right attribute out of 6 attribute ( dummy variable we add)
+
+6 varianle -- 1 | I  have to remove 5 
+
+FEATURE ELIMINATION ?
+
+what is the technicq you apply in you previous project to removed feature elimination 
+
+feature elimination technique ?
+
+6 - how to eliminatre few feature 
+
+import statsmodels.api as sm
+
+feature engineering -- eda tehnciqe
+feature selection -- 
+	recurisve eliminat 
+		forwards elimination --> mod < p-value --> remove the attribute 
+		backward elimeint --> p-value > model gener SV --> remove the attribute 
+
+datascientist -- digital marketing ( future more proftit)
+manger -- dight ( many lead) -- got more profit 
+
+feature elimeinat - 
+
+recursive elimination 
+backward elimination p-value(0.05) > significance valyue generated by model 
+	reject the null hypothesis ( remove the attribute or remove the feature)
+forward eliment 	
+	significance valyue > p-value(0.05) 
+
+https://www.statsmodels.org/stable/api.html -- (you stats.api )
+=======
+
+                           OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 Profit   R-squared:                       0.951
+Model:                            OLS   Adj. R-squared:                  0.945
+Method:                 Least Squares   F-statistic:                     169.9
+Date:                Wed, 26 Mar 2025   Prob (F-statistic):           1.34e-27
+Time:                        20:14:48   Log-Likelihood:                -525.38
+No. Observations:                  50   AIC:                             1063.
+Df Residuals:                      44   BIC:                             1074.
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const       5.008e+04   6952.587      7.204      0.000    3.61e+04    6.41e+04
+x1             0.8060      0.046     17.369      0.000       0.712       0.900
+x2            -0.0270      0.052     -0.517      0.608      -0.132       0.078
+x3             0.0270      0.017      1.574      0.123      -0.008       0.062
+x4            41.8870   3256.039      0.013      0.990   -6520.229    6604.003
+x5           240.6758   3338.857      0.072      0.943   -6488.349    6969.701
+==============================================================================
+Omnibus:                       14.782   Durbin-Watson:                   1.283
+Prob(Omnibus):                  0.001   Jarque-Bera (JB):               21.266
+Skew:                          -0.948   Prob(JB):                     2.41e-05
+Kurtosis:                       5.572   Cond. No.                     1.47e+06
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.47e+06. This might indicate that there are
+strong multicollinearity or other numerical problems.
+"""
+what ever quest -- they dont listen the class ( recording)
+few question will address next class. 
+every class recording for this. 
+if you have query please ping me -- right answer 
+
+^^^^^^^^ 27th
+AGENDA -->
+----
+1. BIAS & VARIANCE TRADEOFF
+
+2. REGULARIZATION TECHNQIUE
+	 L1
+	 L2
+	 ELASTICNET
+	 
+3- FEATURE SCALING
+4- PLAY PLACED STUDENT 
+
+====
+
+LOW BIAS HIGH VARIANCE ( close train data but very far test data) -- Overfitting 
+HIGH BIAS LOW VARIANCE ( close test but very far train data) -- underfitting
+LOW BIAS LOW VARIANCE ( BEST FIT MODEL) == BIAS VARIANCE TRADEOFF
+
+2- REGULARIZATION  -->
+------
+Technique to reduce to overfitting --> 
+------
+pca
+cross validation 
+regularization 
+ensamble learning 
+drop out the neuron 
+business understanding 
+
+Regularization --- regularize the highest coefficeint of independent variable 
+	to loweest coef is called regualarization technique
+
+	lasso regression | lasso regularization | l1 reg
+	ridge regression | ridge regulaarization | l2 reg 
+	elasticnet regression | elasticnet regularization 
+	
+
+ridge = l2 = reduce or scale down high coeffiecient to low coeffient but it never brint 
+						l2 ( coeffeince are never 0) ridge = loss + Penalty*2
+				
+lasso = l1 = reduce or scaled high eeffience to 0 thats mean remove the attribute 
+					l1 as feature elimination tecnique 
+					lasso = loss + penalty
+				
+No need to remember math equestion-- try to know wher it is implemebt 
+
+elasticnet = l1 + l2 
+
+overfit - case-1 :low bias high varince ( when we build the model with all attribut)
+				case-2 : if traine the model with high coeffinece ( overfitting)
+						l1, l2 
+
+practilce -- sklearn framework 
+		slr & mlr ( slope are created automatrice by sklearn)
+
+future algorithm ( sklearn itself adjust these l1, l2) 
+
+	(regualizat - l1, l2) 
+	
+svr ( regularizatoin=l2) 		
+---
+feature scaling -->
+---
+variane scale the featute 
+
+are hp, mpg ==> 
+ 
+ NORMALIZATION (MIN-MAX SCALER) MIN 0 & MAX-1
+	
+ STANDARIZATION  
+
+eda transformer -- one hot encoder, labelencoder, dummy variable 
+
+ml tranfoer -- Imput, Lableencoder, normalization (min- max scalreing )
+	standar scaler 
+	
+nlp transformer - gpt2 ,bert 
+
+dl transfromer
+
+genAI transfoer 
+	
+range of min - max scaler ( 0-1)
+range of stander - 3 to 3
+rant of r2 ,adust - 0-1 
+range of cole -1 to 1 | 0-1 | -1 to 
+
+^^^^^ 28th
+6th april -- mcp on agentic ai, cursor ai 
+
+poc ( proof of concept )
+no deployment just research once research got success you got the project 
+
+feature engineering - eda technique 
+feature scaling - minmax scaler | standardscaler
+feature selection -- PCA, recursive elimation (p-value>0.05), L1 
+
+===  
+
+LINEAR REGRESSION --
+	SLR, MLR, L1, L2, GD, SGD, TIME SERIES 
+NON LINEAR REGRESSION 
+	polynomial
+	svr
+	knn
+	dtr
+	rfr
+
+classfication 
+
+==== Advance python 
+
+function 
+function argument
+lambda function 
+recursion
+generator , iterator
+multithreading
+exceptional handling 
+local, global
+
+=== oops
+class
+object 
+method
+encapsulation 
+polymorphism
+inheritence
+abstraction 
+
+local varible - variable which is define inside the function 
+global variable - variable which is defie outside of the function 
+
+local variable, global variable 
+
+factorial --> every time please write down in recursion 
+
+=== 
+	function 
+	funcational argument
+	recursion 
+	local vs global
+	lambda function 
+	
+^^^^^^ 1st 
+
+regression -
+	linear -- slr, mlr, l1, l2, gd
+	non linear  - poly, svr, knnr, dtr, rfr, 
+--
+GRADIENT DESCENT, STOCASTIC GRADIENT DESCENT, BATCH GD -->
+--
+optimization algorithm 
+OPTIMIZAT APPLY IN DL 
+
+theory first, practicle we will understand in dl
+
+part-1
+part-2 
+
+out of multiple line ( best fit line -- global minima) 
+
+loss function == cost function 
+
+GD  is an optimization algorithm to reach global minima by 
+reducing cost function & increate the accuray by 
+learnering rate very less = 0.0.1
+
+GD -- math calculater for each and every datapoints 
+dataaset has 1l data point -- math has to compute 1l time thats why 
+
+SGD , BGD is much better over gd 
+=====
+
+GD - compution happend individual datapoints
+sgd - reach globale minar random point, creat mean
+bgd - batch wise point reach global mini
+
+ANN -- adam, adagrade, adadelta, adamax, rmsprop 
+
+=== linear part we completed 
+=== NON LINEAR 
+	POLYNOMIAL 
+
+SIMPLE LINEAR  - y = mx + c 
+MULTIPLE LINEAR = y -= m1x1 + m2x2 + c
+POLYNOMIAL -- we are increate the degree of independent variable 
+	
+
+pycharm
+vs code
+
+cursor ai -- 
+cline -- llm 
+windsurf
+
+mcp -- model contex protocol 
+vibe coding --> 
+
+mention -
+
+
+emp salry 
+
+poly -- 174.8
+svr - 
+knnr
+dtr
+rfr 
+
+1 dataset -- we build severla model 
+	what ever highest accuracy that one we go for deployemtn 
+	
+svr , knn -- 
+
+real time -- core on python, sql, eda, ml, nlp, dl, nn, coputer s
+
+^^^^ 2nd 
+svr, knn  on same data 
+compare the accuracy 
+
+same dataset today we will build 2 algorithm 
+svr & knn we compnary behaveiour of every model 
+after we worked with sklearn ( regiression model building using sklearn)
+
+after i will tell you how to build same mode pyhton class & def 
+CLASS & DEF FUNCTION 
+
+svr & svm both concept are same  no difference  only difference is dependent variable 
+
+support vector regression ( regression ) - dv is continuous 
+support vector machine ( classification) - dv is binary 
+
+SVR -->
+--
+
+HYPERPLANE
+DECISSION  BOUNDRY or SUPPORT VECTOR LINE
+distance between 2 support vector is called marginal distacne  
+
+distance between 2 support vector alwasy should be maximum but why 
+
+svr or svm -- it should be maximum marginal distance 
+
+cuz if marginal distance is maximum then we can adjust the error 
+
+SLR vs SVR
+BEST FIT LINE vs HYPERPLANCE
+distance between hyperplane to decision boundery ++ +Ve dstince & -ve distance
+distance between 2 svr line is called marginar distance 
+marginal distance should be always maxiumum so that adjust the max error to get max accuracy
+
+-a < y-wx+b < + a
+
+===  advanced video ( cleared) 
+
+emp_salary dataset -->
+
+polynomial model -- 6.5 level -- 174.8
+svr model -- 6.5 level -- 
+
+kernal -- rbf, 
+{'linear', 'poly', 'rbf', 'sigmoid', 'precomputed'}
+gamma - scale and auto 
+
+kernel - i will explain you at svm 
+
+you go home build svr exce sheet with all hyperparameter tunnin g
+
+ED (EUCLIDIAN DISTANCE) ( distance between 2 point ) shortest distance 
+MD(MANHATTEN DISTANCE) ( distnace betwenn 2 point) farthest distance 
+COSINE SIMILARITY ( distance amoung 2 words) 
+based on majority class we will classify the result
+more explanation given on KNN CLASSFIER
+
+
+KNN REGRESSOR -->
+--
+n_neighbor = 5 neighbour
+weight = uniform & distnace 
+algorithm{'auto', 'ball_tree', 'kd_tree', 'brute'}, default='auto'
+
+p=1 ( manhattend distanc(l1)
+p=2 ( euclidian distace(l2)
+
+1 dataset -->
+
+linear regression 
+polynomila regression 
+svr regression 
+knn regression 
+decision tree
+random forest 
+
+In this data we havent done any spliting 
+
+^^^^^^ 3rd
+same dataset 
+poly - 175 | svr- 176 | knn - 184 
+
+ranking model prediction table -->knn, svr, poly 
+
+
+svm -- i wil class, knn, - classifi, 
+
+decission tree -- NEVER BE REGRESSOR 
+
+REGRESSION 
+
+CLASSIFICATION WE WILL DEEPDIVE IN 2 ALGO 
+DECISSION TREE CLASSIFICAITON -->
+	ENTROPY, GINI , MAX DEPTH, MIN SAMPLE SPLIT, 
+	
+RANDOM FOREST -->
+
+FOREST - GROUP OF TREE
+TODAY WE JUST BUILD 
+
+trained model -- user need to trained on some dataset ( dataset size)
+pretrainmed model -- pretrained dataset is called pretrained weight 
+ml -- 
+	parameter
+	hyperparameter 
+	
+llm model --
+	pretrained 
+	finetune model 
+
+when you build random forest -- make sure random _state must be 0
+
+==== 
+
+1 dataset we build several model and what so ever model are givein more accuracy thats why go for deployemtn 
+
+regression algo we are compelted 
+concpet we left (dt, rf, xgboost, ) classification 
+
+REGRESSION -->
+	PRICE PREDICTION 
+	SALES FORECAST 
+
+I wnated to introuce new library -- LAZYPREDICT REGRESSOR
+
+keep spend 2hr for apply job onl
+
+LAZYPREDICTION REGRESSION NEVER DO ANY HYPERPARAMET TUNNING IT WILL PARAMETER TUNNIGN 
+
+let me finish ml, nlp -- then apply jobs 
+
+=== resume prep 
+=== few projects
+
+REGRESSION ALGORITHM 
+
+^^^^^ 4th
+==== REGRESSION PROJECT 
+LAMBDA FUNCTION 
+
+project - price prediction 
+
+Price Factor ( every business every domain ) 
+scm 
+fmcg
+bank
+sale -- reveneu geneerates 
+
+object -- fruit -avacado 
+
+you menion in the resume 
+
+---
+5 project -->
+---
+1- why you build this project 
+2- to whom you build this project (client) 
+3- what is outcome of the project
+4- how business get benefit project
+5- what logic you been applied
+6- what algorihtm been used 
+7- how the data extraction 
+8- how the deployemnt 
+9- what are the challenged facced while you do that project ? 
+
+
+
+Regression based on m & c ( Slope & intercept) predict the future value 
+
+dataset might be different based on your domain 
+but algorihtm & methodoloegy is same 
+
+do not use lazypredict ..
+
+got 1data
+domain 
+dv 
+dataclaing
+stndar
+build modl 
+prediction 
+r2, ajust, mae, mse, 
+
+next thing -->
+model you build on historica data ( that model has to implement in future )
+compnay database -- future record will be there 
+
+model + future recrods == prediction 
+
+today i predict that ( next month ibooked f) -- 89% 
+
+next month -- today is my fligy-- confitme 
+
+predicte == future prediction ( model testing) 
+
+regression , use case, how regression help in future trend, project
+REGRESSION ( experince -- they 100% )
+
+
+function without name -- is called anonymous funciton (lambda function)
+lambda funcin will help to speed upmemory executuion 
+
+from functools import reduce 
+
+^^^^^^ STABLE DIFFUSION PIPELINE 
+
+Genearative AI 
+---
+STABLE DIFFUSION MODEL -->
+---
+Generative ai -->
+text based model  ( text - generataive text)
+multimodel --> text to image, text - audio 
+--
+1st -->  Google generiative ai (gemini ai )
+			gemini 2.0 flash ( 2.5 has not launched)
+
+2nd --> EDA automatiion using mistral ai, deepseek ai ollama + gradio 
+
+3rd --> stable diffusion model image model 
+
+- Stable Diffusion is a deep learning, text-to-image model released 
+	in 2022 based on diffusion techniques
+- The generative artificial intelligence technology is the premier product of Stability AI. 
+- Before stabiliyt AI its development involved researchers from the CompVis Group (2015_
+- Stable Diffusion is a latent diffusion model, a kind of deep 
+	generative artificial neural network (GNN) || ANN || RNN | CNN
+- DALL E2 | MIDJOURNEY compitior of stable diffusion
+- Stable Diffusion is a latent diffusion model, a kind of deep generative artificial 
+	neural network
+
+how to build -- we must build on gpu 
+Real time where we implement this staable diffusion model 
+	social median montioring
+	game development
+	fashion industry
+	art generation for streamiong
+	animation 
+----
+Practicle --> 1
+---
+1- login to hugging face.com
+2- register using gmail 
+3- create your auth token ( please provide access to read, write acces)
+4- click on model -
+5- https://huggingface.co/models?search=stab ( list of model who huggingface)
+6- hugging face - model - stabilityai/stable-diffusion-2-1-base
+7- google colab - connect to gpu
+
+^^^^^^  7th
+
+sat - pretrained model ( stable diffuion)
+can we build python with out pretrained mode
+	gans we will build this practicle 
+
+1- CONFUSION MATRIX 
+
+dv is binary or category
+	logistic, svm, knn, nb, dt, rf, xgboost, lgbm 
+	
+Regression perfomance measure -- r2 & adjusted r2 
+classification performance measure are -- confusion matrix 
+after my explantion no confusion matrix 
+
+y_test vs y_pred 
+confusion matrix will build on y_test & y_pred 
+
+y_test ( actual ) & y_pred ( predicted)
+	TN - true -ve 
+	TP - true +Ve 
+	FN - false -ve 
+	FP - false +ve 
+	
+We build classification model ( build model ( we will create this confustion matrix table)
+
+Model accuracy == tp + tn / (tp + tn + fp + fn ) = tp+tn/total ( tn+tp/total) = 91%
+Error rate = 100-91 = 9% | 	fp+fn / (tp+tn+fp+fn) = 9% 
+precision = tp / predicted yes    = (tp / fp+tp)
+recall = tp / actual yes = (tp/fn+tp)
+f1-score = 2 * (precion*recall)/precission + recall 
+====
+Type-1 ( false +Ve) | Type-2 (false -ve)
+====
+LOGISTIC REGRESSION ALGORITHM ==>
+------
+logistic regression  --> 
+Is it regression algo or classificaiton algo 
+
+math -->
+if data set had outlier logistic regression give misclassification 
+if the dataset has no outlier regression line will classifty the data
+
+bydefaut considered as logistic regression as classificaiton algorithem it adjust outlier using probabiliyt function 
+
+that probabiliyt function is called as sigmoid function 
+
+ case-1 : y*mx > 0 
+ case-2 : y*mx>0
+ case-3 : y*mx<0 
+ 
+when ever you are find this equation y*mx<0 ( wrong classification will happen) 
+
+logistic regression also called as maxent classifier cuz we apply maximum datapoint
+	
+machine learning 2 algorithm we called as probabiliyt algorithm
+	logistic regression 
+	naive bayes 
+
+deep learning this sigmoid function is called sigmoid activation function 
+
+- confusion  matrix 
+- model accuracy, precision, recall, error rate, f1 score 
+- data without oultlier( logistic regression ) with oultier ( logit as classification)
+	bydefault we are called logit as a classification algorithm not regresisn algorithm
+	graph
+- math ( why logistic reg also callas maxent classifier)
+		cuz we maximumize the datapoint to get more accuracy 
+- introuce probabiliyt function that probabiliyt function is called as sigmoid function 
+- sigmoid function also called as s-curve
+- dl sigmoid activate function 
+- range of sigmoid curve is 0-1 
+
+Regression --  how to predict futured
+	base on m & c value (algorithms)
+	
+^^^^^8th
+
+[[57  1]
+ [ 5 17]]
+ 
+ tp - 57 | tn - 17 
+ fp - 1 | fn - 5
+ 
+ ac = 74/80
+ 
+	
+model accuracy -- 92.50
+bias score - 82% ( trained 
+variance - 92.50 ( testing 
+
+low bias low variance 
+
+	
+model acr - 92.50 | bias - 45 | varian - 87 -- overfitting model 
+model acr - 92.50 | bias - 82 | variance - 45 -- underfitting model 
+model ac - 92.50 | bias - 82 | variance - 92.50 -- bestfit model 
+
+	
+case-1 : testing 20% , standard scaler , ac - 92.5 , b - 82.5 , v - 92.5
+case-2 : testin 20%, normalizer, ac- 72.50, b - 62.5, v, 72.50
+case-3 : testing 25%, standadscaler, ac - 89%, b - 82, v-89
+case-4 : testing 25%, normalization , ac 68, b-63, v-68
+case-5 : testing - 20%, without scaling, ac 91, b-81, v- 91
+
+always remember onething every ml model must required scaling
+ 
+use case -- we traine model with 2 attribute ( age, salary) 
+
+project - purchase house or not | purchase vehicl or not 
+
+histoical data --
+
+customer already purchase vechicel 
+
+
+future ( 10 customer booked for test drive) 
+next 10 custer can you preict today wheer they purchase or not 
+
+^^^^ 9 th
+randomstate = 100 (82)
+rs 51 = 88
+rs 41 = 78
+rs 0 = 92
+
+we have historical data 
+train data test data
+build model using trained data 
+model ac - 
+
+== we pass validation data to the model 
+== model preduct the future recrods 
+== model predction 
+
+
+== 10custoerm 
+
+tom custoer test 
+
+
+
+historical data -- ( we can see that dv can we see or not ) 
+
+80 -20 
+model build historical data == 92% no over, no underting
+==
+validation -- future data 
+how future data will go to databse 
+
+i will boook the traine tcker next moneh ( recorder 
+(future records has create without dv) 
+
+10 future custerm data i have i need to predict it 
+
+10 futur records i will pass to existing model 
+my model gene -- 0, 1, 0, 1 ( unseen data) model preduiction on future recordrs) 
+
+ i went for test drive -- real time data ( 0) -- dont want to buy thsi
+ 
+ model - 0 | real - - 0 
+ 100 cutomer future we alray predictioned early 
+ 
+ time 100  
+  100 custoerm - 90 curate 
+ sql query 
+	
+100 cust - 1
+200- 2
+300 -- 3 
+combine all the accuray -- > 80% 
+
+= 3times 
+
+1st jan 2016 --- 9th april 2025 ( moder v1 ) -- 92% 
+10th apr 2025 - 31st dec 2025 (future data) - does not preidctinh 
+
+fd -- i will pass to the existing (model v1 )
+	10 future records my model will prediction - 10 value (0 or 1)
+	
+10 records customer ( will do the test drive )
+
+future records vs model prediction 
+
+====
+1st jan 2026 - 31`st 12 2026 
+2016 - 2026 ( model v2) 
+	
+regresssion future predinct number 
+classifction future prediction binary 0 or 1
+
+logistic regression 
+
+==== svm 
+
+module -->
+	inbuild module - numpy, pandas 
+	user define module - 
+
+@classmethod
+@static method
+@abstractmethod 
+
+production -- defient decorea multithreading 
+
+__init__ ( constructor)
+__name_(main)
+
+^^^^^^^ 10th
+
+LSVM - linear support vector machine 
+non linear svm --> 
+
+practicaly do you know what is mean by overfitting , unders, ac, how to train mode
+how to pass validate to the model 
+how to compare model accuray with real time 
+=====
+
+pca (principal component analysis)
+	Reduce overfitting 
+	Clustering ( grouping)
+	
+mphasi ( 2016) -- logistic + pca () 
+ project today 
+ 
+pca aka dimensionality reduction technique 
+	pca will help to reduce overfitting technique by using cluster ( pc ( principal component)
+	from multiple view we can create multiple pcs 
+	pc1, pc2, pc3 ---
+
+which pc you need to consider to traine the model 
+pc which one has highest EIGEN VALUE & EIGEN VECTOR 
+	10 or 12th math 
+
+pca vs kernal 
+
+pca -- dimesnion reducetion ( hd -ld)
+kernal - ld - hd 
+
+svm
+kernal function 
+pca
+
+^^^^^ 11th
+knn -- math, technical concept, practicle
+logit with pca 
+oops 
+
+
+knn - math 
+knn classification -- based k value ( highest value decide the class)
+knn regression -- it will take nearest datapoint and find the mean 
+knn imputation -- mode, knn 
+----
+IMBALANCED DATASET -->
+---
+
+smote ( syntheic minority oversampl technique)
+which help from imbalanced data to balanced data 
+
+
+if the dataset is imbalanced -- model is biased( one side)
+
+majority class ( more datapoint) & minority class ( less datapoint)
+
+reduce majority -- undersample
+increase minority class - oversample 
+
+we will keep oversample & undersample finally we take average of all accuracy 
+
+thats the way we try to reducet imbalance data to balanced dta 
+
+smote (synthetic minority oversampling technique)
+====
+logisti regression algorithm does adjust outlier -- yes 
+knn algorith does adjust outlier 
+I want you do hyperpar
+from sklear.decompostion import pcas
+
+^^^^^^ 14th
+
+1- conditional probability  - DONE  
+2- bayes theore | baysian theorem - DONE 
+3- naive bayes algorithm - DONE 
+4- how NB algo we will use real time
+
+5- type of naive bayes - 
+6- pass same dataset with NB algorithm
+
+what is mean by NAIVE in Naive Bayes
+ml  2 algo -- probability ( logistic & naive bayes)
+
+probabiliyt -- events 
+
+bayesian theorem
+	prior probabiliyt
+	posterior probabiliyt
+	marginal liklihood
+	liklihood 
+
+sit down -- list down strong points
+list down weak pointe 
+
+please create resume on strong point 
+upskill in weak point 
+
+ml algorithm -- probabiliyt very important role
+live -- book the ticket ( ml algorithm ) 80% 
+Confirmation & Probability
+
+proba 
+confirmed 
+
+flight -- 5-7yr back this feature not added 
+
+by ml model to flight, irctc. 
+
+====This nb we will use more in nlp section
+multinomial -- 72% | bernouli - 82 %| gausian - 92%
+
+^^^^^ 15th 
+
+every day cr of custoerm has booked the tiket
+
+new data has to be retrain to make irctct more faster 
+
+
+6 30min 
+1hr 
+production downtime 
+wipro websit- prod server ( healtcare)
+
+^^^^^^ 16th 
+
+tree ( cart)
+ca -  classification 
+rt - regression 
+
+DECISSION TREE -- nice and powerfull algorithm in ml journey 
+
+regression & classification 
+dtregreesor & dt classifier 
+
+how to build a tree from the dataset. 
+----
+steps to build the tree fromt he dataset -->
+---
+1- dv - profit ( down & up) classification 
+2- iv - a, c, t
+3- INFORMATION GAIN of dv ( IG) 
+4- GAIN of IV 
+		gain of age == IG - Entropy(age)
+		gain of compition = IG - Entorpy(com) 
+		gain of type = IG - ENTROPY(TYPE)
+
+
+	lets calculation e (age) 
+5- the iv whihc has highest gain -- declare that variable as root node 
+
+decision tree -->
+	information gain 
+	entropy
+	gain 
+	purity split
+	max_depth 
+	min_sample leaf 
+	impuriyt split -- next depth tree will build from that node 
+	
+In decission tree root node always independent variable never be dv 
+
+entropy -- log calculation is there ( ml model works too lates ) 
+	
+gini index vs entropy
+---
+prunning parameter -->
+---
+when the tree grow beyontd a ceratain prun the tree 
+
+ vechicl purchase prediction -->
+	logistic - 92.50
+	svm - 95
+	knn - 95
+	naive - 90 
+	dt - 92.50 ( can you please do hyperparameter tunning)
+----
+PYTHON INTEGRATION TO MYSQL DB -->
+---
+1- install mysql-connector-python
+
+^^^^^^^ 17th
+
+ENSAMBLE LEARNING -- 		
+	bagging technicque 
+	voting techniqe
+	random forest -- does not require fature scaling 
+BOOSTING --
+	XGBOOST
+	LGBM (Light Gradient boosting)
+
+PYTHON MYSQL 
+
+OOPS 
+	CLASS
+	METHOD 
+	OBJECT
+	ENCAPSULATION 
+	INHERITENCE
+	POLYMORPHISM
+	ABSTRACTION 
+
+Ensample using differeent algorithm and 1 dataset 
+Ensamble using different dataset and using 1 algorithm 
+base learner or weak learner 
+strong learner
+
+does random forest does not require feature scaling 
+
+class 
+def fun():
+
+within class -- method 
+without class - function 
+
+^^^^^ 21st 
+
+Boosting 
+	adaboost - ignore ( outdated ) 
+	xgboost 
+	lgbm 
+	
+xgboost -- xtream gradient boosting
+lgbm -- light gradenient boosting machine ( 100x faster then xgboost)  
+
+sklearn framework
+xgboost & lgbm framework 
+
+xgboost -- 
+	max - 2-30 ( overfitting)
+
+project --- capstone project for any domain 
+n_estimator = 200, max_depth = 4, learning_rate = 0.0001
+
+base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None,
+              num_parallel_tree=None, random_state=None, ...)
+
+use sklearn framework 
+
+	logistic rege
+	svm
+	
+-----
+pipeline of ml projec -->
+---
+1- business understanding & domain 
+2- attribute understanding
+3- data cleaning ( date ( dt, yr, m) time -- , regex
+4- statstical graphs ( distribution) 
+5- corealation for relavant attributes
+6- eda part for every attribute with respact to dependent variabe 
+7- eda 7 technique
+8- split the data 
+9- feature scaling
+10- model building
+11- predicted table , y_test vs y_pred
+12- confustion matrix 
+		if model overfit hear 
+				apply cross validation if not then contine next step 
+						kfold
+						gridsearch
+						randomsearch
+						regualization
+						pca 
+13- test with validataion dataset ( validation dataaset we will found database)
+14-  		everylevel testin we shoutl > 80-85)
+15- frontend 
+16- all the code it works fine in you application server 
+---------------- 
+17- backend  code & front code you have to put them production server
+		docker
+		cloud 
+		kubernates 
+		databricks 
+		database -- using crone jobs , scheduler 
+		cicd 
+---------------
+18- mlops
+19- cicd piple line
+20- retrain entire process with new data 
+21- same process repeates ( proejct automized) 
+
+
+6month - very good
+joined company -- datascience project are (gone client business loss)
+
+
+what about you ???? 
+ only ds ( nothing else no java, no .net) no sql, 
+ 
+ will you quit the job ?
+ 
+fresher -- you will scold to company
+you will put down the papare - stupidity 
+
+compan - ds ( compnay -- not fit other other role)
+Java -- learn mans ( try to adjust things in your life )
+
+^^^^^^^ 22nd 
+lgbm - done  
+cross validation - done 
+model tunning 
+sensitivity vs 1-specificity 
+classification review 
+classification algorithem we will complete tomorrow
+ 
+we build xgboost model ( 
+can you apply rest of the classification algorithm ( have you tried it)
+ I would request you plese build the streamlit app. 
+  === 
+ dataset -- you build multimodel ( can we rank algo based on accuracy) 
+ LightGBM is a fast, distributed, high performance gradient boosting 
+ framework based on decision tree algorithms.
+ 
+ why lightgbm wemust used in our orgnaization , below are the reason 
+===
+Faster training speed and higher efficiency.
+Lower memory usage.
+Better accuracy
+Support of parallel and GPU learning.
+Capable of handling large-scale data.
+===
+Microsoft announced its gradient boosting framework LightGBM
+LightGBM is 6 times faster than XGBoost.
+Light GBM can handle the large size of data and takes lower memory to run
+LGBM also supports GPU learning and thus data scientists are widely using LGBM for data science application development.
+---
+lgbm github -->
+--
+https://github.com/microsoft/LightGBM/blob/master/docs/Parameters.rst
+
+
+classification -->
+logistic | svm | dt | rf | xgboost | lgbm  | knn | 
+	data is very high -- ann classifier 
+
+regression -->
+slr | mlr | poly | knn regressor | lgbregressor  | xgb 
+	data is very high -- ann regressor 
+
+Do not use gd, sgd, l1, l2 
+( model can automatically take care of these things as parameter) 
+
+classification algorithm are completed 
+
+overfitting 
+	cross validation - done 
+	pca - done 
+	ensamble learning - done 
+	regulariztion -- by reduce coeffien reduce to 0 ( feature eliminat) 
+	drop out the neurons - ann 
+	
+from sklearn.model_selection import cross_val_score
+accuracies = cross_val_score(estimator = classifier, X = X_train, y = y_train, cv = 5)
+print("Accuracy: {:.2f} %".format(accuracies.mean()*100))
+
+we reduce the overfitting 
+please work on project which try to write code with out seen kaggle code. alright
+
+lets discus some tunning  -->
+---
+parameter tunning - syste parameter
+hyperparameter tunning - user change the system  paramter build models
+modle tunning -- 	gridsearch cv & random search cv 
+		gridsearch & random search is part of the cross validation 
+		model which we build tunn the model itself 
+finetunng -- tunning llm model paramter is called finetunning 
+	finetune rag
+	finetun llama
+---
+model tunning  - gridsearch & random search cvn
+--
+AOC & ROC 
+
+if you not understand -- i humb le request please watch it again
+
+model tunnin g--
+
+	svc
+	knn
+	naive baye
+	list of model 
+	every model has inbuild paramter along with value 
+	Model tunning will finals optimzi paremet with optimize value 
+			grid search cv & random search cv 
+	
+AOC & ROC 
+
+AREA OF CURVE 
+RECEIVER OPERATING CHARACTERSTICS
+
+after the class many student left practise class session 
+python code , sql , issue ( your brain ) 
+server side -- real time  ( deployment)
+
+^^^^ 23rd 
+
+AUC & ROC CURVE 
+DEPLOYMENT PART 
+CLUSTERING
+RESUME PREPARATAION 
+REVIEW 
+
+==== AI SECTION 
+
+AUC ( AREA UNDER CURVE ( AREA OF CURVE)
+ROC ( RECEIVER OPERATION CHARACTERSTICS )
+
+we build confuions matrix every model 
+confusion matrix graph is called auc & roc 
+
+how the graph has 
+
+AOC & ROC 
+	X-axis - FPR ( False +Ve Rate)
+	Y-axis - TPR ( True +Ve Rate) == RECALL ( SENSITIVITY) 
+
+TPR (True Positive Rate) / Recall /Sensitivity == TP / TP + FN 
+														specificity == TN / TN + FP 
+														
+FPR (False +Ve rate) = 1- spcificity  = FP / TN + FP 		
+
+ml classification algorithms are complted
+
+ml regression -- slr, mlr, svr, poly, dtr, rfr, xgboost regressor, lgbm regressor , 
+							ann regression & time series 
+		
+ml classification -
+	logistic regression ( sigmoid curve ( adjust outliers)
+	svm ( max margin hyperaplance) 
+	knn ( distance matrix) 
+	dt ( gini , entropy, maxdpeht, gain) 
+	rf ( ensabmle)
+	nb ( probability) 
+	xgboost 
+	lgbm 
+										
+====  	
+
+exper if you apply job ( HR ) how much you expected 
+
+project has budgesge 
+
+client -- 5cr 
+	hard - 3cr 
+		80lpa ( out of budget)
+
+50lpa ( what is your budgest contractstn
+
+CAPACITY PLANNING
+
+NEW PROJECT 
+
+user 
+cost effection
+
+Business univerity -- service agreemet -- 6 monht
+If it company didnt comple  projuect in 6 momht ( compnay has to pay penalty) 		
+---
+world -->
+---				
+prod server -- hk, uk, us ( collection database ) run 365 days 24/7 
+app server 
+
+deployment issue 
+what are the challenges we face in deployment issue 
+
+finally datasceint gather historica ldata from app server not prod server 
+
+after build the model what is next step ?
+
+^^^^^ 24th
+github 
+7yr back not using much 
+
+project has assigned to team 
+
+deploye make sure -- have to keep 1 folder
+	testing code
+	front end code
+	deployment code 
+	backend code
+	page desing 
+
+what are the challaenge IT guy face from application server to production server
+
+1- open source  library ( free software we are use free library)
+		company will pay to buys license for security
+
+2- production server is too old ( 
+		application sever you build latest version 
+	6 months 
+
+3- firewall | productoin server setup (application ) 
+		production server would be faire 
+
+4- some personal information 
+		gender, phone, bank ( clause) 
+
+5- very very important
+	timer setup | production
+			furhter please check the code timing ( 
+		do not use xgboost ( lgbm)
+
+6- data is very huge ( trian time will increase)
+		production will be failure 
+		
+^^^^^ 25th 
+=== clustering  - no dependent variable ( data is discrete)
+grouping 
+
+continous | binary | discrete 
+point stop -- scores  100 | rating of meal 5 or 10 | 
+
+pca -- principal componnet analysis) -- based on pc1, pc2, 
+			math ( pca with logit)
+k-means
+hierarchical clustering 
+dbscan -- used for outlier detection 
+
+K-MEANS --> 
+
+resume project - customer segmnetation project
+===
+unstructure data --->
+===
+tweet ( cluster of customer who used offiensive lange 
+ticketing -- 
+
+CUSTOMER SEGMENTATION 
+SHOPPING -- VIP, VVIP, WINDOW, AVERAT
+FACE -- VIP CUSTOM-- SHO
+clustering -- NATURAL LANGUAGE PROCESSING 
+
+k-mean 
+hierarchical clustering 
+
+experince -- they dont interact organization people 
+	other team member if no please start doing this
+	
+database team 
+dataflow happen
+doc
+wise guys 
+---			
+k-means -->
+---
+centroid concept
+new centroid calculation 
+euclidian distance 
+
+why only 2 groups  why not 3, why not 4, why not 5 
+who will decient to make 2 group 
+
+ELBOW METHD -- using elbow method we try to find out the cluster group of cluster 
+
+algorithm{"lloyd", "elkan", "auto", "full"}, default="lloyd"
+
+customer segmentation 
+
+^^^^^^ 26th 
+
+Hirearchical clustering
+dbscan clustering 
+resume sessoin
+
+Hieararchical clustering -- cluster using step by step approach
+
+	Agglomerative clustering -- build the cluster from bottom to top approach using dendogram
+	Divisive clustering - divide cluster from top to bottomg create a individual data point 
+	
+
+did you find any difference amoung k-means vs agglomerative
+
+k-menas we  have centorid
+hierica we dont have centroid 
+
+elbow is must require in clustering concept 
+
+
+from sklearn.cluster import KMeans
+import scipy.cluster.hierarchy as sch
+
+agglomerative clustering -=->
+
+linkage -- linkage 
+	single  -- perform nearest linkage ( Nearest Point Algorithm)
+	complete  -- perform  farthest linkage  (Farthest Point Algorithm or Voor Hees Algorithm)
+	average -- UPGMA -- (Unweighted Pair Group Method Average 
+	weighted -- WPGMA (weighted Pair Group Method Average )
+	centroid -- UPGMC ( 
+	median - WPGMC
+	ward - 
+
+"euclidean", "l1", "l2", "manhattan", "cosine", or "precomputed"
+
+K-MEANS & HIERARCHICAL WE COMPLETED 
+
+DBSCAN ( DENSITY BASED SPETIAL CLUSTER APPLICATION WITH NOISE ) 
+
+MACHINE LEARNING 
+
+
+text based model - encode text and decode text ( gpt) 
+multi model also called as state of the art model  (sota) 
+		text to image, audio, video,
+
+azur cloud this multimodel is called cognitive AI services 
+
+
+AZUR AI -- it will verify the card 
+	2rs -- 2rs 
+	
+AZUR AI --  
+=== LEFT OVER TOPICS 
+
+AI -- 
+	NLP
+	DL - TF, KE, PYTO, LSTM ,BERT, CHUNKING IN NLP, 
+	NN - ANN, CNN, RNN, GNN 
+	MLOPS
+	CICD PIPELINE
+GENAI 
+	GANS
+	VQGAN
+	TRANSFORMER
+	TRANFORMER 
+LLM
+	ATTENTION
+	TYPE OF TOKEN
+	OPANI
+	GEMIN
+	DEEPSEEK
+	META
+	LANGCHAIN
+	LANGGARPH 
+	LANGSMITH 
+	RAG
+	VECTORDB
+	HG
+	GROQ 
+PROMPT 
+	0SHOT
+	1SHOT
+	0COT
+	1COT 
+
+AGENTIC AI 
+	PHI
+	CREWAI
+	SMOLAGE
+	LANGCHAIN 
+
+TABLEU
+POWER BI
+ADVANCE SQL -- 
+PYTHON - QL
+
+PYTHON OOPS 	
+TIME SERIES 
+
+PYSPARK
+DATABRICKS 
+HADOOP - 1 SESSION 
+
+^^^^^^ 28th
+
+Resume --> 
+	fresher --> to whom you work ( aptitude, do not speak i get data from kaggle)
+			I freelancer ( there i can able to get real exposure) 
+			my brothr or my sister ( live exposure) 
+			
+	mid experience & EXPERIENCE 
+		goal of the project
+		whom you worked these project
+		what achieve ment you done project
+		roles and respon in the project
+		how compnay benefits from you 
+		what is next step ?
+		end-to-end piple create nice script 
+		domain - capstone ( BANKING PROJECT IS MUST | 
+		POC - agentic ai, mcp, llm poc, 
+
+mid exper <4-5
+exper > 5-10 (senior)
+leader(>11+) 
+CAREER GAP --> india ( never ever works) 
+us, uk -- they trust your wording 
+
+nothing change -- everyone skill and techniqw the way to speak to your client and boss 
+common sense & presence mind
+politics 
+
+vp -- 30% job like this olnly
+
+70% -- career gap 
+get genuine compny who can help 
+very hard to get ( career spoil)
+
+abc -- 8yr 
+
+next 9t yr bgv ( you life will risk) 
+
+never stick more then 3-4 yr with carre gap 
+
+2020-22 -- those running well ( carer gap less bgv ) 
+
+2025 -- ai tools catches your ( genunity) 
+
+planning for carer gap student really matter s -- proper advice fille 
+carer gap -- 8lpa 
+
+fresher
+mid exp
+exp
+leader 
+career gap -- get genuinty go for it 
+call center, bpo, kpo, mis,
+check pf -- checkiing 
+
+uan portal 
+
+	start data - ending dt -- must requeisotn 
+
+bp -- ar caller, mis ec, process , asstimenat
+
+how to come bac to ai 
+
+-- crere resume with ai develoer mention only llm , ai promect dl 
+-- never ask your design question 
+- 1st tec
+- 2nd techn 
+- 3rd HR ( genuine payslip ( ar )
+- 4hr offer 
+- 5th bgv ( please mention your genuine offer desingation) 
+
+	workplace verifiiciation | physical verifiction - 
+	written verification -- 	
+			mnc has 3rt party verifiction team 
+					empid - 2024 205 (yes) 
+	manager verifiction -- 
+
+2024 onward ( fomr 26a) - employe verification form 
+
+car 26a form 
+
+bankstatement | form 16 -- ( how do tyou get it)  | 
+form - centroal bank of it ( 
+
+==== assume you dint get 10yr 
+		please do any part time jobs main foucs is ds, ml, ai, llm 
+
+== BMW CAR ( 1CR ) 
+		you dont drive card 
+	SMALL CARS
+	2-3YR 
+----	
+PROJECTS NEED TO BE MENTION -->
+---
+1- NLP PROJECT  ( TEXT) 
+
+2- DL PROJECT
+
+3- GEN AI PROJECT 
+
+4- RAG 
+
+5- FINETUNE LLMS 
+
+ 
+5YR 
+
+RELATVE TO DATASCEIN - 3YR 
+		4PROJECT 
+	
+PING ME IF YOU HAVE ANY QUESTION 
+
+ml project with cid pipeline 
+	azur ocr 
+	pyspark, databricks
+	
+=================================
+framework -- LANGCHAIN, LANGGRAPH, LLMAINDEX ( GENAI FRAMEWORKD)
+Agentic ai framework -- pydantci ai, phidata, smolagentd, n8n, langchain agente, crew ai 
+nlp framework - nltk, spacy, gensim
+
+ml framework - sklearn, xgboost, lgbm 
+dl, nn framwrok - tensorflow, keras, pytorch, lstm, bert, gru 
+computer visonb framework -- opencv, mediapipe,yolo 
+stats framework -- scipy 
+multidimesnion -- numpy
+dataframe - pandas
+normal visualation - matplotliob
+statistical visual - seaborn 
+frontend framework - tkiner, flaash, stremlit, gradio
+cloud - azur 
+vector database - chromadb, milvus, qdrant, pinecone 
+sql db - mysql, sqlite, postgres
+nosql db - mongodb, hbase, cassandra 
+mcp, a2a protocol 
+====================
+resume sample ( 
+
+W ?
+WHO AM I ?
+WHAT I AM DOING ?
+WHERE I WOULD BE AFTER 5YR?
+WHAT IS MY EARNIE?
+LIFE -- W? you will success 
+
+W & ARCHITECTUR E-- THINGS WILL CHNAGE ?
+5YR AGO ? WHERE YOUR ARE
+====  YOU GOT THE CLARITY 
+
+TALK TO THE BRAIN ( SOLUTION ) every 
+=== resume shareing 
+Resume templates 
+
+===== Resume building ( AI tools) 
+
+======  ARTIFICIAL INTELLIGENCE ========= 
+
+machine mimic human intelligence is called Artificial intelignece 
+	
+	24/7 callcent jobs -- dead  ( lady picked tha answer custoemr query) 
+
+BOTS ( MACHINE REPLACED JOB) 
+
+brain -- understand lanage ( eng, hindi, local) 
+machine can understand lange ( any langae
+
+language -- text data 
+
+
+
+NLP -- HANDLES TEXT DATA 
+	NATURAL LANAGUE PROCESSING 
+
+		NLU ( NATURAL LANGUAGE UNDERSTANDING)
+		NLG (NATURAL LANAGUAGE GENERATION )
+		
+how machine understand the language 
+
+MACHINE UNDERTNAD LANGUAGE HELP OF FRAMEWORK 
+
+NLTK (NATURAL LANGUAGE TOOL KIT)
+SPACY 
+GENSIM 
+
+
+NLTK FRAMEWORK 
+
+
+AI --
+	TEXT 
+	IMAGE
+	VIDEO
+	AUDIO
+	XML
+	PDF
+	STRAMING 
+	
+^^^^^^ 29th
+
+local language 
+national language - hindi 
+internation language -- english, french, spanish 
+state govt -- local language 
+human brain -- local, national, internatioon 
+machine undeerstand all the language how 
+
+NLP 
+	NLU --
+	NLG --
+
+NLTK framework have we installed
+
+1- TOKENIZATION 
+		every word is called tokens 
+		
+sentence - collection of tokens 
+para -- collection of sentence 
+document - collection of para
+article - colection of document 
+
+article score 
+document score
+tokens core
+para scoreing 
+
+word_tokenize 
+sentence_tokenize
+blankline_tokenize
+white_space tokenize 
+wordpunct_tokenize
+---
+TYPES OF TOKENS -->
+---
+bigram,
+trigram
+ngram
+
+TOKENIZATION WE ARE COMPLETED -->
+
+where we use this in real time --->
+
+stemming - root word of the tokens
+	porter stemmer --  root form of the tokens  ( give )
+	lancaster stemmer - core root form of tokens  ( giv) 
+	snowball stemmer - act like porter stemmer ( it works well eng, spancic, fren)
+
+^^^^^ 30th 
+stemming - root word 
+Lematization -- complete word 
+
+giving   - give
+giving - giving 
+
+NLU -- tokens, stemming, lematization
+---
+stopwords --> 
+---
+These words include articles (a, an, the), 
+prepositions (in, on, at), 
+conjunctions (and, but, or), 
+pronouns (he, she, it). 
+
+
+for NER - NLTK LIBRARY IS SLOW that why we need to inrouce spacy 
+spacy -- advanced NLP | 	
+https://www.nltk.org/book/ch07.html
+
+----
+NLG (Natural Language Generation)
+---
+
+14yr kid (vaibhav) -- played well 
+
+	entire 3hr ipl discussion vaibhav anme only repate more time 
+
+vaibhav - more from entire comenet 
+
+10 page medical historry -- 
+		can you tell me this pt. suffedre  with disease 
+	
+usa - 
+
+2y - 20000
+3yr -- termed 
+
+99% depent on insture 
+99% not depnet 
+
+NLG --> NLG WE ARE COMPLETED 
+
+^^^^^ 1st
+---
+NLP ALGORITHM | WORD EMBEDDING ALGORITHM -->
+---
+Embedding -- convert text to number  
+
+1- BOW ( Bag of words) - completed 
+2- TFIDF (Term Frequency Inverse Document Frequency) - completed 
+
+3- Word2vec 
+				-- CBOW ( continuous bag of words)
+				-- SKIP GRAM
+				
+
+TFIDF == Term frequency * inverse document frequency 
+
+	tf = no of repeation words in sentence / no of  words in sentence 
+	idf = log(no of total sentence / no of sentence containg words)
+	
+3- word2vec ==> similarity matching of the words 
+
+cricket -- chatgpt similarity relevat topics from internet 
+footbal -- chatgpt relavnt simantic response fromt he gpt bot 
+		tokens will mathc similirt from the internet 
+		
+internet -== milion of text tokens 
+		we need to to pull out relavent ( data is large -- help of transformer) 
+		
+if i have small text -- 
+	i want system to fetch relavant content from mytext 
+gensim model 
+
+
+word2vec does -- from the para ( small text ) if you apply gensim model 
+from the document it will pullout semanitc meanding from the context or docu
+
+semantic may my wrong or may be correct 
+		98% you dont get much accuracy output 
+		
+we need to advnce technique -- trasformer 
+
+gensim is very good for text size is less 
+gensim will not perform well when text size text size is large 
+=== when the text size is large we need to introuce 
+
+'TRANSFORMER '
+	BERT 
+	GPT2
+	DISETILBERT
+	ROBERT
+	ALBERT
+	XLNET
+	T5 
+	-
+	-
+	-
+	
+CHATGPT -- large language --
+	user ask any query it fetch semantic meaning from the internet using TRANSFORMER 
+		GPT (GENERATIVE PRETRAINED TRASFORMER) 
+		CHAT GPT 
+		
+^^^^^^ 2nd
+===============
+word2vec 2part -->
+	cbow  (continous bag of words)
+	skipgram 
+
+chunking in nlp 
+chunking in llm 
+
+what happend when ever you use transform in jupyter 
+transformer we will practic using google colab 
+======
+
+
+		
+				
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+==================
+1hr class review ( check notes, explained daily basic) recall 
+2-3hr everday class explanation practicle 
+1hr -- hackerrank
+2hr -- apply the job 
+2hr - python & sql 
+===================
+
+
+
+=====
+RESUME PROJECTS -->
+=====
+project:1
+eda automation using mistral ai (ollama) 
+	deepseek
+client :
+project:2 
+	stat sanalyst for discubution measure 
+client:
+project:3 
+	heart disease analysis for healthcare domain 
+	fifa analysis 
+client:	
+Project:4 
+	bank risk analysis 
+project:5
+	agentic ai (poc) proof of concept 
+
+research 
+project-6:
+	google generative ai 
+	
+======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+^^^^^^^^^^ADMIN DETAILS ==>
+Online admin number 
+		- Mr.Naga babu-- 9063042468
+		- Mr. Prem -- 7997997901
+Offline Admin 
+		- Mr.ajay--7997997808
+
+^^^^^^^^^^ONLINE MENTOR ==>
+Data science mentor link-1: 
+https://zoom.us/j/82068816627?pwd=3BYepgjDCqbkroxauQGo2T4gr9f7Fn.1
+
+Data Science link-2
+https://zoom.us/j/86433658207?pwd=7abh6fYZ1McPZsguCNgEaONRoKKY7Y.1
+
+Password - 112233
+OFFLINE METOR (3rd Floor) ==>
+
+
+^^^^^^^^^^Enrolledment Google Form ==>
+https://forms.gle/Btcnf4nAAiNMcFiQ7
+
+
+^^^^^^ 👉 Backup Video:
+20th Jan: https://youtu.be/Jj_NztzwPDI
+21st Jan: https://youtu.be/9MsbFRdIa8M
+22nd Jan:  https://youtu.be/qhioofX8GiA
+23rd Jan: https://youtu.be/Ex_UZsClO70
+24th Jan: (Recording link)
+https://nareshit.webex.com/nareshit/ldr.php?RCID=2a978c989dff039b7743fd77ac47127b
+Password:  3PbBBaM?
+27th Jan: (Recording link)
+https://nareshitechnologies.webex.com/nareshitechnologies/ldr.php?RCID=c38e64cb9f10c5e13d5f790d345c6e9a
+Password:  aJHyWf$8
+
+^^^^^^^^^^^^^^
+📂 Google Drive Link: https://t.ly/usQgG
+‍💻 Software Installation: https://t.ly/YoRAA
+👨‍💻 python identifier -- https://www.youtube.com/watch?v=7HEke2aEND0
+^^^^^^^^^^^^^^^^
+Learners Introduction -->
+https://docs.google.com/spreadsheets/d/1qOhMsJOwjIBFGgIfctdEbSI2AMjajNp2SsJr7ytqqs8/edit?usp=sharing
+
+=====  restart the mysql workbench)
+Open Services (Win + R → services.msc)
+Look for MySQL or MySQL80
+If it's not running, right-click → Start
+=========
