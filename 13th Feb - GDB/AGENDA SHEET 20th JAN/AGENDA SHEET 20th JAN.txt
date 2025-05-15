@@ -1,0 +1,1439 @@
+^^^^^^^^^^FULL STACK DATASCIENCE & GENERATIVE AI @ 20th JAN
+	Meeting Id: 2516 275 8831 & Password: 112233
+	Demo1 ( 2nd - 18th jan) & Demo2 (20th - 24th)
+
+^^^^^^^^^ 20th Jan 25
+
+As per voting 80-90 % are non techincal
+even thought you are experience but not experience into data science fields
+if you are non technical attend the session through offline mode
+------
+Gen ai & Prompting & AI agent -- phd
+Ai & Ml -- master
+Math, Stats - +2 degree
+Python - Scooling
+------
+1- my introduction 
+2- market growth 
+3- roadmap of the course 
+4- placement offer with live pictur, proof
+5- tools to learn datascience
+6- what are main topic coverd under this course
+7- who can learn this course 
+
+^^^^^^^^^ 21st Jan 
+
+today we are at 2nd day of full stack ds , ai & generative ai programme 
+1st day what are the topics covered -- quick review 
+stock martket analysis -- uniform distribution 
+leet code -- uniform distribution 
+
+-- tomorrow onwards you will have bring your laptop join the session 
+-- laptop configruation 
+	8gb ram  |  	4gb ram -- no problem | 	you can work using google colab 
+	ram -- 512 gb  | 	intel core processor fast process | 	win 10 or 11 
+-- new laptop (( 8gb | 	512ssdb | 	i5 or i7 | 	intel | gpu laptop ))
+
+mac -- if you have | 	96% window user | mac -- refer number 
+
+Data --
+	number 
+	image
+	video 
+	speech 
+	streaming 
+	data comes from live cameras
+		
+work with these data + algorithm = data scientist 
+----
+Fee structure -->
+without recording -- 21k INR
+with recording- 27k INR 
+recording isave 
+
+join the class
+atend regular
+active listerner in the class
+complete project
+github & show the project in linkedin 
+resume
+apply job market
+keep apply job 
+fail 3 - 4time 
+cler 1st round
+2nd
+fail 
+10th time offer
+	6month 
+	6yrs 
+communiation -- problem is you
+ 
+=== Steps to start working in google colab
+	1- google
+	2- google colab
+	3- new notebook 
+	
+==== 1st code 
+1 -- task : work with numbers 
+2 -- task : work with text 
+	programin world text -- technically we called as string
+	string -- ' ' || " " || ''' ''' 
+
+^^^^^^^^^ 22nd Jan 
+
+C, C++ , JAVA, .NET, ORACL, SQL, PHP old programing language
+
+2019 - ML 
+2020 - AI 
+2021 - AI, ML 
+2022, 2023 - CHATGPT 
+2024 - GENERATIVEAI, LLM 
+2025- AGENTIC AI 
+2026 - 
+
+JAVA -- INTERVIEW -- 20 YR HE WILL TAKE
+AGENTI AI -- WHO TAKE YOURINTERVIEW ( LEARNING LIKE YOU) 
+
+AMAZON -- WEBSITE -- 24/7 & 365 DAYS  ( production server)
+
+CAPSTONE PROJECT -->
+	PROJECT WHIHC HAS NEVER DIE
+BANKING ( metnion project on these resume in these domain)
+INSURANCE
+HEALTHCARE 
+MANUFACTU
+SERVICE 
+Education 
+
+Course certification
+About lab
+about google classroom
+why to choose datascience 
+Types of data
+Demo session we are completed
+
+^^^^^^^^^ 23rd jan
+
+Interview question ?? 
+Project -- How to extract the data ? 
+	database 
+	api ( application program interface)
+	website
+	standing cameras 
+	drones 
+	sensor 
+---
+about database -->
+---
+dataabse which store strucute data -- sql db 
+	mysql, oracle, postgres 
+database which store unstructure data - nosql db
+	mongodb, Hbase , cassandar, etc
+text will embeed vector form -- vector db ( LLM ) large language model 
+	pinecone
+	milvus
+	qdrant 
+	chromadb
+sql db vd no sql db vs vector db & yesterday we are completed demo 
+==== python introduction 
+1- why python ? what is the power of python 
+		if you guys install vscode, pycharm , anaconda -- you can practise using it 
+2- student dint install please use google colab ( goolge software)
+		no need to by heart any thing in programming language
+3- father of python - guidoe van rosam
+4- python name came from -- monty python flying circus 
+5- python is very powerfull tool for -- bigdata, ds, gen ai, llm model
+		azur cloude -- python, db - python ( python is everything)
+6- python was released on 1989 (feb 20th 1991)
+7- Java released on 1995 but no one use python till 2015 
+		( ml -- borns + python || ai - python very library or framework 
+8- platform independetly 
+		no need to write separae code for win, mac, linux
+		just write 1 code execute every platform 
+
+
+Need to master on 3 category & python into 3 section 
+	1- basic python
+	2- advanced python
+	3- oops python 
+	4- dsa I will explain (optional) 
+python : -- 4 space ( indentation) 
+-------
+organization -- company wil buy python for credential 
+python cons -- python can not perform in mobile application like android
+
+--- what is anaconda & why anaconda application is realy used for 
+Anaconda is an open source[9][10] data science and artificial intelligence
+distribution platform for Python and R programming languages. Developed by Anaconda,
+
+pelase install software -- to start work regurlar session 
+Software Installation: https://t.ly/YoRAA
+---
+IDE ( INTEGRATED DEVELOPMENT ENVIRONEMENT)
+--	
+user or developer write the code, run the code, read the code, fix the error , 
+when you write you will get bug (error)
+developer to debug 
+---
+famous ide --> vs code | jupyter notebook | spyder | pycharm | google colab
+=== python interpreter & compiler 
+interpreter -- execute the code line by line
+compilier -- executure entire code at once 
+----
+1- BASIC PYTHON -->
+---
+demo session completed
+pythn introductioon completed
+---
+python variable -->
+--
+syntax -->
+variable namne = value | a = 5 
+a is the varaible store 5 int value 
+b = 5.5 
+b  
+--------------
+python if you write any code try to write the 1st letter of the concept 
+
+1 - what is variable 
+	variable also called as object also called as identifier which helps to assign a value 
+2 - how to assigne variable 
+	variable name = value  but (value != variable)
+3- rules to define python variable 
+	 1- variable == case sensitive 
+	 2- variable cannot start with digit but end with digit 
+	 3- variable no special characteer is allowed except _ #
+	 4- keyword or reserved word cannot be variable 
+	 5- variable has no lenght limit 
+	 
+-- DEMO COMPLETED
+-- PYTHON VARIABLE 
+-- DATATYEP & TYPECASTING 
+
+ONLINE TEAM NON-TECHNICAL ATTEND SESSION IN OFFLINE MODEL
+variabale declaration == object declration  == identider declaration 
+------
+when you want to print only 1 variable -- print() not required 
+when you print more variable -- print() 
+by defaul every day use print()
+-------
+Function 2 type & function always endwith() 	
+	inbuild() -- print()
+	userdefine() 
+	
+^^^^^^^^^ 24th
+
+Agenda for today session -->
+	Data type 
+	Type casting
+	Github createion 
+	Linkedin createion 
+	
+-- complex data type
+		a + bj  ( a - real part | b - imaginary part | j - squre root of -1)
+		only j letter is small or capital 
+------
+tricks to remeber -->
+---
+: --> bydefaul 4 spaces ( indentation)
+fun always ends with ()
+everytime we call with dot(.)
+---
+python data type we are completed
+==============
+type casting -->
+	from other datatype to int & float
+	from other datatypd to complex, str, bool
+============
+int -- data type 
+fam() -- fam function with 0 argument 
+family( dad, mom) -- dad, mom -- argument or parameter 
+family1( d, m, s, d) -- 4 parameter 
+---------
+llm model --
+	llama3 model trained with 405B parameter 
+		you cannot build llm model in cpu 
+------------
+house( labour, daily wage, bricks, sand, cement, etc ------) 
+True -- system consider as True only 
+
+when we assigne true with opter +-*/ -- system understand is \
+TRUE - 1 & FALSE - 0
+
+^^^^^ 27th
+----
+steps to downlad classnote from google classrrom
+----
+
+dear team i will answer all of your question at last 
+how to upload & download classnotes from google classrrom 
+
+1- download winzip or winrar file from google 
+2- google classroom 
+3- just click on file which i shared 
+4- right top corner 3 dots 
+5- click on that - open in new window
+6- download
+7- rightclick - extract - all the file
+8- just check the file extension 
+	 .xlcs
+	 .doc
+	 .pdf
+	 .ipynb ( interactive python notebook)
+	 .py ( python file) 
+	 
+.ipynb & .py you need to open using jupyter file 
+
+9- still if you have any question no worry i will explain later or 
+	mentor can take your screen acces they can guide you 
+	
+PYTHON DATASTRUCTURE 
+	inbuld ds 
+	user defind ds 
+
+data type --> we need to define only 1 value 
+data structure --> we have declare more then 1 value 
+	a = 5
+
+matrix - collection of datastructure
+datastrucute - collection of data types
+
+python inbuild ds -->
+	list 
+	tuple
+	set
+	dict
+
+append() - add the element or value at the end of the list 
+	append only 1 argument user can pass
+		
+
+ list insid list -- nested list
+ for inside for loop -- nested for 
+ 
+inbuild or built in --> list is inbuild datastructure 
+---
+string indexing-->
+---
+forward index --> left - right 
+backward index --> right - left 
+
+slicing -->
+	forward slicing
+	backward slicing
+	step slicing
+	
+FORWARD SLICING -->
+---
+[2 : 7] - left index 2nd index : 7th right indexing 
+			2nd index : ( n-1) formula right index ( 7-1)
+	OUTPUT -- 2nd - 6th 
+--	
+BACKWARD SLICING :
+[-7 : -1] -- LEFT INDEX - 7 : -1-1 
+	-7, -6, -5, -4, -3, -2 
+	
+slicing -->
+
+matrix --> n = n-1 everytime this formula should by apply to right index
+---
+step slicing -->
+---
+[1:10:3]
+print the element from 1st index to 10th (n-1) 
+	3 should be step count
+	
+empyty slice -- all element
+
+
+append() - add the element at last
+copy() - copy list
+reverse() - reverse the element
+remove() -- remove 1st element 
+string indexg ( 2 type
+	
+	forward index  
+	backward index 
+
+slcing
+	: - entire element
+	forward slice
+	backward slice
+	step slice 
+
+^^^^^^ 28th 
+when ever you upload your notes in classroom make sure upload pdf 
+---
+Basic python 
+---
+string vs raw string
+
+ml, nlp
+when we read any file from the specif folder location we must need to use 
+	r before the location ( raw string) 
+	i will explain this clarity on pandas , session indepth)
+	
+string
+raw string (r) - detect the path location 
+
+_ == it store previous value or previos results
+	where to apply in future ( open cv model 
+
+s[1:] --> print the element from 1st indext till last 
+s[:7] --> print the element from 1st indext to n-1 (6th index)
+
+i wnat you to change the string 'fine' to 'dine'
+
+string is immutable -- not chagaable 
+
+no constant concept in python . we have only variable 
+---
+PYTHON BASIC OPERATORS -->
+---
+ARITHMETIC  ( + - * / // % **) 
+ASSIGNMENT ( =, +=, -=, *=, /=, //==)
+RELATIONAL (we are using this operator for comparing)
+			> , < , >=, <=, ==, !=
+
+LOGICAL ( and , or, not)
+UNARY ( ONLY 1 OPERATOR)  - OPERATOR 
+	
+and operator ==>
+	1 and 1 = 1 (rest of them are 0)
+
+or operator ==>
+	0 or 0 = 0 (rest of them are 1
+--------
+NUMBER SYSTEM CONVERTION -->
+--------
+binary number system (base value 2) 
+	0 & 1 
+octal number system (base value 8) 
+	0 -- 7
+decimal number system (base value 10) 
+	0-9
+hexa decimal number system ( base value 16)
+	0-9 , a-10, b-11, c-12, d-13, e-14, f-15
+==
+Number system we can use in every system -- ip addres we can use this number system
+
+^^^^^^ 29th 
+---
+Agenda for today session -->
+---
+1- Number system - Completed  
+2- List data structure 
+3- Deepseek llm model -- Intro (server is down) 
+		way batter then chatgpt 
+4- No coding experin (1yr back) after he placed as jr software engineer 
+5- Home task 
+--
+
+how to swap 2 varible in python 
+
+a, b = 5, 6
+
+a = 6
+b = 5
+
+
+xor -- xclusive or 
+
+swap the 2 variable
+	1- using temp (3rd variable)
+	2- using operator
+	3- can you swap using bit number ( use print(0b101| ob 110)
+	4- using XOR ( i will explain tomorrow)
+	5- a, b = b, a 
+
+slicing & indexing concept in string datatype
+slicing & indexing oncept we undersin list datastrucute
+slicing & indexing we will used matrix
+slicing & index conpcet we will machine leanring 
+
+
+l[::-1] -- print the element revers wiser
+l[::-2] -- print every -2 step 
+
+pop & remove 
+
+# remove -- we need to define value or element 
+	value or element wise 
+# pop - index wise remove 
+
+----
+Completed in just 7 days -->
+----
+demo we completed
+basic python 
+data type 
+identifier or variable
+type casting
+operators 
+Indexing, slicing
+
+
+append() - append the element or value at last 
+remove() - remove value from the list 
+pop() - pop the element or value by index ( bydefault is at last)
+	pop(1) - 1st index value will elimiated 
+copy() - copy the list 
+insert() - insert the value before index 
+	makes ure insert required bydefault 2 argument
+		1st arg - index position 
+		2nd arg - value 
+		value will add before index 
+clear() - clear the elmenet from the list 
+	del the use del keyword 
+reverse() - reverse the list 
+
+list is mutable (changaable) hashable 
+
+
+my humble request to 7pm fsds , genai batch any quest your brain send you on practilce 
+	any error you encounter 
+	
+	stop thinking about it , erro come do not ask immediatly 
+	fix the bug ask next day 
+	goi home when tyr -- self learning 
+
+deepseek llm model 
+
+27th jan 25
+
+llm models
+
+chatgpt -- openai ( microsoft)
+	not a free platform ( 
+google - google  ( 
+llama - mets 
+
+openAI -- compnay used it for crednetial 
+
+deepseek - open source 
+	no issur hallucination 
+	
+chat gpt ( hrithi)- 
+	bank balance 
+	skin col 
+HALLUCINATION 
+
+^^^^^^^ 30th 
+
+List sorting - completed 
+Bitwise operator  - completed 
+Python code using cli (command line interpreter) - cli 
+Tuple - completed 
+
+document of llm & generative ai -- please download 
+python __ __ ( method)
+
+polymorphism -- i will cover all magic method 
+I just today introduce you so you dont dig down dont bang your head 
+
+===
+offline team -- I do see that 50% student are practicsin g
+online team -- not working
+===
+after the session please work atlease one time 
+== 
+
+you cannot survive 
+enumerate when we work on computer vison project 
+
+how to environement variable in python  -->
+---
+BITWISE OPERATOR 
+---
+
+COMPLEMENT -- ~0 - 1 | ~1 = 0
+	~36 = -37
+AND = & completd 
+OR = | (completed)
+NOT = (complete)
+XOR = (completed)
+
+LEFT SHIFT << -- gain the bit 
+RIGHIT SHIFT >> -- loose the bit 
+
+package - collection of module  
+module - collection of function 
+function -- 
+	user define function -- assign def keyword 
+	
+-- print(), len(), sqrt(), len(), max(), min()
+	inbuild func  -- print(), len(), sqrt(), len(), max(), min()
+
+math is module 
+	lot of function 
+	
+^^^^^ 31st 
+1- Basic python 
+	input()
+
+2- 4pm batch student got placed with 87lpa in canada 
+3- 10 days 4 offer 
+4- I want this bathc to be like 4pm batch 
+5- few tricks i will update to you 
+6- test (whatever we completed today )
+7- Networking platform ( linkedin, medium blog)
+
+expereince 
+	home loan 
+	car lona
+	scholl loan 
+
+frsher 
+	data science 
+	
+import math 
+math.
+math. 
+math\. 
+
+import math as m 
+m.
+
+from math import
+
+from sklearn. tree import decission tree cla 
+
+import 
+from 
+as 
+
+import math as m 
+from math import * 
+	math inbuild function will fetch automatr
+
+select * from tablena: 
+	
+* means -- all function 
+round() & ceil() 
+
+round(2.5) 
+		2.3 
+> .5, .6, 
+
+	
+input() - inbuild function  
+	bydefault input() -- understand string datatypes
+
+eval() -- handles expression 
+print() -- 
+type()
+
+
+BASIC PYTHON -->
+	DATA TYPES
+	OPERATOR 
+	BITWISE OPERATOR 
+	TYPE CASTING 
+	VARIABLE IDENTIFICATION 
+	FROM , IMPORT , AS 
+	MATH FUNCTION 
+	INPUT()
+	DATASTRCUTE -- LIST  & TUPLE 
+
+
+in this input() iq if you face if & else dont work 
+
+ 3hr -- 
+
+
+i hire 8 mentory to take care of you 
+i am taking 1:30 hr 
+i will deliver nice 
+shut down youtube fjust
+
+github : how to post code in git 
+linkedin -- powerfull \	
+medium blog -- 
+	
+more student give up 
+
+4th tak 
+
+3rd task 
+
+1, 2, 3 -- giveup 
+
+4, , 3rd, 2nd, 1st -- approach (
+
+set is ordere element for same data type 
+but in mix data type it in orders
+
+who ask more quest they dont practic
+if you practi( brianwill work)
+immedietly problem solve 
+
+pop() -- if user dont pass any argument delate the element randonly 
+pop(2) - error cuz indexing is not allowed in set 
+remove() -- remove the elment if value is member of the variable 
+remove() -- will through error if value is not member of set 
+discard() -- never thrught you bug 
+	if element is not member never give you bug
+if element is member then it will remove 
+
+non technical -- mindset 
+
+non technical team not understadn please talk to me 
+	online team ask me afte the class 
+you practice first -- no question 
+
+never compare with any one 
+
+google | chatgpt  | deepseek 
+
+6:30pm -- 7pm we will take test
+
+^^^^^^ 1st
+I will share all the question and answer later
+thank you for your test
+can i sheduelt for 30 min like 
+
+best is conducted to check your knowledge no need to impress your friend
+
+add() | copy() | clear() | pop() | remove()   |
+ discard()
+	membership 
+--
+set operation -->
+--
+Intersection -- user has to pass only 1 argument ( wro
+
+UNION() | 
+INTERSECTION & 
+DIFFERENCE -
+symmetric difference 
+
+SUPERSET  (dad)
+SUBSET (son)
+DISJOINT ( neighbour) 
+
+==== oops
+inheritence 
+SUPERCLASS ( father)
+SUBCLASS (son) 
+-----
+DICTIONARY -->
+----
+keys:values (pair)
+most prioriry goes to keys rather values 
+
+active listner 
+happy learning 
+3hr -- ( 10hr) per day  
+
+recording ( non technical)
+dict is mutable 
+
+======
+ASSIGNED TASK -->
+======
+Task:1- Class Explanation Code 
+Task:2- Python variable
+T3- Print() 
+T4 - Identifier & Datatype
+T5- Basic code, Operator, String, variable"
+T6 - List class Assignment
+T7 - Basic python, Python operator
+T8- List class explanation (class notes )
+T9- List shared pdf documentation "
+T10- Tuple class explanation & Tuple documentation
+T11-Basic Python code till INPUT() 
+T12- Set & Dict class explanation & Assigned documentation
+====
+CODING/INTERVIEW QUESTION --
+====
+Iq:1- How to Collect the data for project?
+Iq:2- GitHub Creation"
+Iq:3- 97 interview question for variable & data types
+Iq:4- 50 interview question INPUT()
+
+^^^^^^^ 3rd 
+range() - we have to pass max 3 argument or 3 parameter 
+
+1st index - starting
+2nd index - end index (n-1) is applicable
+3rd index - step index 
+
+basic python 
+data types
+type casting 
+type conversion 
+inbuild datastructure 
+
+==== we completed 
+---
+NUMPY ==>
+---
+array == tables = rows * columns
+non technical we called this excel sheet 
+excel sheet --- rows * columns 
+techncal ( datasets) 
+	
+array -->
+	1d array
+	2d array
+	3d arrya
+	nd array 
+
+NUMPY is ther very very very powerfull library for 
+	business analyst, data analyst, python developer, datascientist 
+	
+	
+NUMPY PACKAGE | NUMPY LIBRARY | NUMPY TOOLS | NUMPY FRAMEWORK 
+	= mathmetics + data structure + statistical function + linear algebrar 
+
+list vs array
+numpy is the library which handle arrary 
+
+data --
+	number
+	image
+	text 
+	audio 
+	
+anaconda in your system -- numpy is inbuild ( you no need to install the library once again)
+
+upgrading the version ( upgradatioon  )
+degrading the version ( downgrateion ) 
+
+1.26.3 ==> 1.26.4 
+1.26.0 ==> downgrdation 
+	
+parameter tunning
+hyperparameter tunning 
+
+windo 10 ( parameter tunning)
+
+remove wind 10
+upload w 11 ) hyperpeara
+
+ml, dl -- PARAMETER, HYPERPARAMET 
+LLM MODEL -- hyperparameter name will change to FINETUNE 
+
+parameter ( inbuild model) 
+hyperparameter (user change inbuild parameter )
+finetune ( finetune llm) 
+	
+
+
+paramter 
+
+house(bricks, sand, labor, water, floor)  1bhk ( 5 parat)
+3bhk ( 15 paramet)
+
+llama  ( 5million parameter) 
+llma 3.2  ( 451 bilion param)
+
+that why we called as LLM ( LARGE LANGUAG MODEL)
+
+we cannot develop with cpu)
+
+we need to build GPU -- NVIDIA ( GPU) 
+
+2014 -- 100 MILLION -- 1YR 
+2025 -- 100 MILLION - 12 HR 
+
+np.arange()
+np.zeros()
+np.ones()
+np.random.rand() -- generatre random number assing by the user 
+
+rand() & randint() 
+
+^^^^^^ 4th 
+
+.reshape() -- 
+a[1:4] - entire row itesm 
+a[1,4] -- specic value or element of assigned raw
+
+
+select * from 
+
+* -- all 
+numpy has 217 inbuild function 
+
+from numpy import * == all 217 functon it called 
+
+numpy module create research 
+can i build my own module 
+
+module s
+	inbuild module
+	user define module 
+				i will explain later
+				
+import * -- without 
+import numpy as np ( it will work) 
+----
+.Reshaping-- 3 format
+---
+order - c (print element using c-type indexing)
+order - a ( print arbitray)
+order - f (print fortran) 
+
+print the speciif row from the matrix
+print specific column from the matrix
+how to implement :, indexing from the matrix 
+
+machine learning ( try to split the dataset)  
+	
+machin elearning predictio model 
+	python  -->	
+	eda
+	stats 
+	dataanalyt
+	raw data
+	clean data 
+	transformer
+	iomputation 
+	missing value treament
+	pipeline 
+	regression model  - 
+
+When i am speak you practise some existing code 
+you have to listen to me stop pracitise
+you list 0- confusion gnot 
+come attend offline 
+
+=== Cannot be learning this course without practise
+	   Many experience emply only give up 
+
+^^^^^^^^^ 5th 
+
+practicse from descending order
+14, 13, 12, -- you are active everyday 
+
+-- when you transition from non technical to technical it will take tough 
+	thats doesnt mean that you cant work
+
+-- Just give time , pateience, calm down
+-- Try pate to understad (2time, 3time ) fix the bug 
+=====
+AGENDA -->
+---
+NUMPY + IMAGE 
+NUMPY + PIL ( PYTHON IMAGEING LIBRARY) 
+
+String vs Raw String 
+
+1. Array Creation Functions
+2. Array Manipulation Functions
+3. Mathematical Functions
+4. Statistical Functions
+5. Linear Algebra Functions
+6. Random Sampling Functions
+7. Boolean & Logical Functions
+8. Set Operations
+9. Array Attribute Functions
+10. Other Functions
+======
+NUMPY --> ML , DL, NN, GENERATI AI , LLM,
+======
+Project-1 :
+	Image analysis using NUMPY + MATPLOTLIB + PIL 
+
+-- NUMPY -- ND ARRAY 
+-- MATPLOTLIB -- VISUALIZATION 
+-- PIL -- PYTHON IMAGES LIBRARY
+
+image -- (1 - 255) pixel 
+
+0 -- black color 
+255 - dark color 
+===
+light red 
+dark red 
+
+who ever mac user please 
+
+numpy + matploltib + pil
+ dimenshion 
+  heiht * width * 3d ( rgb)
+  
+dear onlein when you got error you rather little liste try to fix it 
+
+https://matplotlib.org/stable/users/explain/colors/colormaps.html
+
+how to load image
+	introduce to matplotlib 
+	introduce to pil 
+how image converte to array 
+
+PROJECT-1 : IMAGE TO ARRAY CONVERSION USING NP, PIL, PLT 
+
+^^^^^^ 6th
+
+you need to complete everything in one day 
+I will give more documentation 
+
+--------
+Sigma Rule (24hr) -->
+--------
+family managment
+time management 
+skill managment 
+money managent 
+file managment 
+==== 
+Project:2 -->  IPL data analysis using NUMPY + MATPLOTLIB 
+
+story telling -->
+===
+Client - ESPN , STAR SPORTS 
+use case -- they have dataset ipl cricket team dataset 
+7pm batch - dataanlyst 
+company - NIT 
+
+CLINET -- NIT ( 
+PROBLEM STATEMENT --
+		PLEASE ANALYST THE DATA AND FIND THE TRENDS, PATTERN, INSIGHT OF THE DATASET)
+NIT - if you analyst the data theny nit manager and you talk to the client 
+
+based on your analyst if the client is satified busines will increate
+salry will increa, promotion increate 
+you got new client ( more hiring ) 
+========
+
+1- the import functin numpy i explain in the classes 
+2- numpy all function document i shared 
+3- easy if you have any question on numpy function ( connect to the mentor)
+4- not require to teach like kids by every function 
+5- math 1000table ( 30 tbale) but you make 1000 multication 
+6- numpy what important things thats good enough
+7- i will give another document , 4hr do interview, 
+8- we will project in numpy + plt + panda + seaborn 
+
+
+the one who analyse historical data & find insight, trends, pattern 
+	is called data anlayst using tools called sql, python, eda, excel, libra, table, power bi 
+
+we have 10yr historical data 
+
+
+OFFLINE -- many of the student attend online 
+
+we import the dataset
+print the matrix 
+---
+DATA ANALYSS PART -->
+---
+
+
+TIPS -->
+--
+
+if any day if you not feel well sometime you divert to the class 
+-- once review the class 
+-- dont take recoding ( classnotes, )
+-- before joined please review review what are topic i covered
+-- review that it
+-- dont i didnt able to complete 
+-- 6 monh 1yr ( 6mont - 4-5 yr experin) 
+
+nontechnica -- recording (5k)
+	skill magnet money 
+==========
+run for money money will run 
+run for job you never get job 
+if you hunger for learning, learn new skill ( money & job ) magnet 
+===========
+
+^^^^^^^^ 7th
+
+ linestyle or ls: {'-', '--', '-.', ':', '') 
+ 
+**Markers**
+
+=============   ===============================
+character       description
+=============   ===============================
+``'.'``         point marker
+``','``         pixel marker
+``'o'``         circle marker
+``'v'``         triangle_down marker
+``'^'``         triangle_up marker
+``'<'``         triangle_left marker
+``'>'``         triangle_right marker
+``'1'``         tri_down marker
+``'2'``         tri_up marker
+``'3'``         tri_left marker
+``'4'``         tri_right marker
+``'8'``         octagon marker
+``'s'``         square marker
+``'p'``         pentagon marker
+``'P'``         plus (filled) marker
+``'*'``         star marker
+``'h'``         hexagon1 marker
+``'H'``         hexagon2 marker
+``'+'``         plus marker
+``'x'``         x marker
+``'X'``         x (filled) marker
+``'D'``         diamond marker
+``'d'``         thin_diamond marker
+``'|'``         vline marker
+``'_'``         hline marker
+=============   ===============================
+
+**Line Styles**
+
+=============    ===============================
+character        description
+=============    ===============================
+``'-'``          solid line style
+``'--'``         dashed line style
+``'-.'``         dash-dot line style
+``':'``          dotted line style
+=============    ===============================
+
+Example format strings::
+
+    'b'    # blue markers with default shape
+    'or'   # red circles
+    '-g'   # green solid line
+    '--'   # dashed line with default color
+    '^k:'  # black triangle_up markers connected by a dotted line
+
+**Colors**
+
+The supported color abbreviations are the single letter codes
+
+=============    ===============================
+character        color
+=============    ===============================
+``'b'``          blue
+``'g'``          green
+``'r'``          red
+``'c'``          cyan
+``'m'``          magenta
+``'y'``          yellow
+``'k'``          black
+``'w'``          white
+=============    ===============================
+
+plt.rcParams['figure.figsize'] = 7,3 
+
+	7- width, 3 height 
+
+when we add extra parameter we some change in the graph 
+	
+xticks - x axis
+yticks- yaxis 
+
+Share the dataset in classroom just copy everything then paste again
+Rerun all the done.
+
+ms - marker size 
+
+plt.legend ()
+	utomatic detection of elements to be shown in the legend
+	
+whenever you mention legend then labels must be required.
+
+bbox_anchor 
+
+
+when you merge all the players info so graph so clean and good
+thats why we introduce BI (BUSINESS INTELLIGENCE)
+
+python -- you need to clean the raw data 
+
+clean the raw data -- feed to table
+big data pyhon is slow to create interactive graph. thats why every BI tools
+
+HOW numpy + matplotlib to plot nice graphs 
+1st visualization project 
+
+server -->
+	5L btech csc 
+	
+SERVER-- SYSTES WHICH RUNS 24?7 365 DAYS 
+server -- collection of databases 
+server will install in physicall room ( permissin is not )
+data store in database 
+
+cloud -- there is no physical room is required
+data store in datacenter 
+AZUR 
+AMAZON
+GCP
+SNOWFLAKE 
+
+cloud VS server 
+
+databricks -- DBFS ( which is very powerfull)
+server 2 type
+	application server (990) work with application server 
+	production server  - every websit connected to production server (10 )
+	
+Do not touch it ( never take acces ) 
+
+1000 emply are workin g
+
+non tehcnical how to studyu
+
+-- completed (type & complete)
+-- tomorr dont watc the code type & finish ( 2days)  
+-- 100
+ 
+===== NUMPY WE ARE COMPLETE
+
+
+
+ml, ai, nlp project we will import numpy this is mandatoyr
+
+text to array 
+image to array
+vidoe to arry 
+
+geneartative ai we dont use numpy ( pytorch
+
+numpy -- convert to array
+pytoch -- torch + python ( tensors) 
+
+^^^^^^^^^ 7th 
+ipl data analysis project we are completed
+
+^^^^^^^^ 12th 
+NUMPY 
+	documenta
+
+we done good amount of practicle
+=====	
+		PANDAS 
+		
+sunday -- 
+
+infosys -- 
+
+student ( less time very high topic)
+
+firing -- good ( student can unders)
+
+DATA ANALYSIS LIBRARY 
+	NUMPY -- done 
+	PANDAS
+	MATPLOTLIB
+	SEABORN
+	SCIPY
+
+EDA NEW LIBRARY -->
+	every project ( ml, ai, gen ai, llm ) we will implment numpy 
+
+pandas --> datastructure 
+	data analysis s& manipulation tool 
+	
+
+RAW DATA vs CLEAN DATA 
+
+excel sheet == dataset 
+column name = attributes = features
+
+raw data == missing value in dataset
+clean data == no missing value in the daaset
+database == 
+
+DATA CLEANING == DATA CLENASING 
+
+dataset == number or text 
+
+number = numerical data 
+text = categorical data 
+
+dataset == number & categorical data 
+dataset are availbale == database 
+
+shape( dimension)
+
+NUMPY 
+vs 
+PANDAS 
+
+.shape
+.read_csv
+.columns
+.dtypes
+.info
+.isnull
+.isnull().sum()
+
+^^^^^^^^^ 13th 
+
+please tune your mindset 
+change your thought proces
+be a good speaker and try 
+i wont skip any topic 
+
+non technical student -- by listen everything they give up 
+
+pleas stay with me tile 120-130 session every you understnad or not understand 
+
+few session you feel very interseint
+few session you feel cnat understa 
+
+brain -- 2 side ( happy, sad) -- any question feel free to talk no worry
+
+
+full crowd 
+25% crowd 
+
+you ddint practkce , easy give up 
+
+
+World there is one and only course where you get job in 6m onth with less code or transition 
+	data science
+	data anlayst
+	gen ai 
+	python 
+jave , .ntet 
+	Mindeset ( never give up ) 
+
+assignem 1 task use case 
+	reae the use case tomore
+1week 
+==== next 5% of the use case 
+AGENDA -->
+---
+Environment variable 
+pandas + matplotlib -- project 
+
+why to create enviroment variable 
+
+if any user purchase new laptop
+cmd -- python -- automatically -- playstore will open -- please instal python 
+try to check -- it will work 
+
+still if it not works -- then we need to create environment calls
+
+- STEPS TO SET UP EXECUTE PYTHON IN SYSTEM CMD (TO CREATE ENVIRONMENT VARIABLE)
+-----
+- Open cmd # python (You will get error when you execute 1st time)
+search with environment variable - system variable:
+   (C:\Users\kdata\AppData\Local\Microsoft\WindowsApps)
+restart the cmd & type python in cmd it will work now
+
+If any user are using mac please make proper documents for you and it help other 
+99% user window 
+
+--- team please download the dataset 
+country gdp analysis 
+
+=== 8 memb(1 earning ) ( econom of individual down)
+== 8member (7member earngin) 
+
+country GDP depend on every family  
+---
+Project -- country gdp analysis
+----
+.describe ( descriptive statistics) -- bydefaul it print numerical data 
+can we 
+
+7pm (what ever question you have in your brain ) next clases 
+	give patience 
+list ( ask )
+---
+descriptive statsistic -->
+
+^^^^^^^^^^^ 14th 
+
+axis-1 == column
+axis-0 == rows 
+
+
+195 records
+
+can you pull out the country which below less internet < 2
+
+
+
+bpl ( below poverty line) 
+apl ( above poverty line)
+
+python is object orinted 
+in our project 
+
+df
+df_numerical
+df_categorica
+filter 
+filter2 
+==
+MATPLOTLIB -- VISUALIZATION 
+SEABORN -- STATISTIC VISUZALIZATION ( ADVANCED PLOT)
+PANDAS 
+===
+
+PLOT THE GRAPH USING 1 VARIABLE -- univarite analysis 
+
+
+
+outlier will implact all machine learning algorithm 
+
+what is outlier ?
+in statistic outlier is the datapoints which is very far from other datapoints
+
+how to detect outlier ? 
+by graphs ( boxplot) 
+
+what you do if you detect outlier ?
+
+
+how to adjust outlier 
+which ml algorith adjust these outlier ? 
+
+
+column names = attribute == variabal e= feature == dimension 
+
+exce shet = dataset = 10 attribute
+
+8 attrinte ( dimension reduction )
+12 attribute == dimenaion incremenb
+
+
+	
+
+
+
+
+^^^^^^^^^^ADMIN DETAILS ==>
+Online admin number 
+		- Mr.Naga babu-- 9063042468
+		- Mr. Prem -- 7997997901
+Offline Admin 
+		- Mr.ajay--7997997808
+
+
+^^^^^^^^^^ONLINE MENTOR ==>
+	- Virtual lab  --> http://vlabs.nareshit.net/
+	- Narendra --> https://zoom.us/j/82068816627?pwd=3BYepgjDCqbkroxauQGo2T4gr9f7Fn.1  || (Passcode: 112233)
+	- Ravindar -->  https://nareshit.zoom.us/j/86433658207 ||  Passcode-112233)
+OFFLINE METOR (3rd Floor) ==>
+
+
+^^^^^^^^^^Enrolledment Google Form ==>
+
+https://forms.gle/Btcnf4nAAiNMcFiQ7
+
+
+^^^^^^ 👉 Backup Video:
+20th Jan: https://youtu.be/Jj_NztzwPDI
+21st Jan: https://youtu.be/9MsbFRdIa8M
+22nd Jan:  https://youtu.be/qhioofX8GiA
+23rd Jan: https://youtu.be/Ex_UZsClO70
+24th Jan: (Recording link)
+https://nareshit.webex.com/nareshit/ldr.php?RCID=2a978c989dff039b7743fd77ac47127b
+Password:  3PbBBaM?
+27th Jan: (Recording link)
+https://nareshitechnologies.webex.com/nareshitechnologies/ldr.php?RCID=c38e64cb9f10c5e13d5f790d345c6e9a
+Password:  aJHyWf$8
+
+
+
+📂 Google Drive Link: https://t.ly/usQgG
+‍💻 Software Installation: https://t.ly/YoRAA
+👨‍💻 python identifier -- https://www.youtube.com/watch?v=7HEke2aEND0
+
+
